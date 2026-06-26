@@ -1,11 +1,5 @@
 [
   {
-    "name": "Kantipur Max 2 HD",
-    "encodedUrl": "1413",
-    "logo": "https://nettv1.nettv.com.np/channel_logo/Kantipur_Max_HD_2024-01-01_05:01:02.png",
-    "category": "Nepali"
-  },
-  {
     "name": "Kantipur HD",
     "encodedUrl": "516",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Kantipur_HD_2021-05-03_10:05:22.png",
@@ -126,6 +120,12 @@
     "category": "Nepali"
   },
   {
+    "name": "Sagarmatha TV",
+    "encodedUrl": "226",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Sagarmatha_TV_2021-05-03_11:05:18.png",
+    "category": "Nepali"
+  },
+  {
     "name": "ABC NEWS",
     "encodedUrl": "590",
     "logo": "https://nettv1.nettv.com.np/channel_logo/ABC_NEWS_2021-05-03_11:05:24.png",
@@ -159,6 +159,12 @@
     "name": "Space 4K",
     "encodedUrl": "1396",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Space_4K_2023-04-16_09:04:03.png",
+    "category": "Nepali"
+  },
+  {
+    "name": "Himalaya Premium HD",
+    "encodedUrl": "1389",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Himalaya_Premium_HD_2022-11-03_05:11:49.jpg",
     "category": "Nepali"
   },
   {
@@ -660,6 +666,12 @@
     "category": "Entertainment"
   },
   {
+    "name": "Star Bharat HD",
+    "encodedUrl": "371",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Bharat_HD_2021-05-05_08:05:27.png",
+    "category": "Entertainment"
+  },
+  {
     "name": "Sony Sab HD",
     "encodedUrl": "916",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Sony_Sab_HD_2022-11-06_09:11:49.png",
@@ -681,6 +693,12 @@
     "name": "Star Plus",
     "encodedUrl": "1259",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Plus_2020-10-29_01:10:08.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Star Bharat",
+    "encodedUrl": "1303",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Bharat_2021-01-20_07:01:58.jpg",
     "category": "Entertainment"
   },
   {
@@ -720,6 +738,12 @@
     "category": "Entertainment"
   },
   {
+    "name": "Star Movies HD",
+    "encodedUrl": "1285",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Movies_HD_2020-12-17_10:12:31.png",
+    "category": "Movies"
+  },
+  {
     "name": "Star Movies Select HD",
     "encodedUrl": "1288",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Movies_Select_HD_2020-12-18_09:12:58.png",
@@ -744,6 +768,12 @@
     "category": "Movies"
   },
   {
+    "name": "Star Gold HD",
+    "encodedUrl": "359",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Gold_HD_2022-03-10_10:03:11.png",
+    "category": "Movies"
+  },
+  {
     "name": "Zee Cinema HD",
     "encodedUrl": "342",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Zee_Cinema_HD_2025-06-10_12:06:38.png",
@@ -756,9 +786,9 @@
     "category": "Movies"
   },
   {
-    "name": "Star Gold",
-    "encodedUrl": "1253",
-    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Gold_2020-10-29_01:10:12.png",
+    "name": "Star Movies",
+    "encodedUrl": "1306",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Movies_2021-01-20_07:01:12.jpg",
     "category": "Movies"
   },
   {
@@ -801,6 +831,12 @@
     "name": "Lotus Macau HD",
     "encodedUrl": "313",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Lotus_Macau_HD_2021-05-05_08:05:41.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Star Utsav Movies",
+    "encodedUrl": "464",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Utsav_Movies_2021-05-05_08:05:55.png",
     "category": "Movies"
   },
   {
@@ -954,12 +990,6 @@
     "category": "Kids "
   },
   {
-    "name": "Nick India",
-    "encodedUrl": "940",
-    "logo": "https://nettv1.nettv.com.np/channel_logo/Nick_India_2021-05-05_07:05:02.png",
-    "category": "Kids "
-  },
-  {
     "name": "Super Hungama",
     "encodedUrl": "413",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Super_Hungama_2022-03-07_06:03:52.jpg",
@@ -990,9 +1020,21 @@
     "category": "Kids "
   },
   {
+    "name": "NAT GEO WILD HD",
+    "encodedUrl": "580",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/NAT_GEO_WILD_HD_2021-05-05_08:05:28.png",
+    "category": "Adventures"
+  },
+  {
     "name": "Animal Planet HD",
     "encodedUrl": "381",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Animal_Planet_HD_2022-03-10_10:03:16.png",
+    "category": "Adventures"
+  },
+  {
+    "name": "Nat Geo  HD",
+    "encodedUrl": "396",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Nat_Geo__HD_2021-05-05_08:05:05.png",
     "category": "Adventures"
   },
   {
@@ -1017,6 +1059,12 @@
     "name": "CGTN Documentary HD",
     "encodedUrl": "976",
     "logo": "https://nettv1.nettv.com.np/channel_logo/CGTN_Documentary_HD_2021-05-05_06:05:59.png",
+    "category": "Adventures"
+  },
+  {
+    "name": "National Geographic",
+    "encodedUrl": "1300",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/National_Geographic_2021-01-19_07:01:27.png",
     "category": "Adventures"
   },
   {
@@ -1065,12 +1113,6 @@
     "name": "NHK World HD",
     "encodedUrl": "350",
     "logo": "https://nettv1.nettv.com.np/channel_logo/NHK_World_HD_2021-05-05_08:05:07.png",
-    "category": "International"
-  },
-  {
-    "name": "NHK Premium HD",
-    "encodedUrl": "327",
-    "logo": "https://nettv1.nettv.com.np/channel_logo/NHK_Premium_HD_2021-05-05_08:05:07.png",
     "category": "International"
   },
   {

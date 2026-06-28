@@ -235,12 +235,60 @@
       "title": "New Movies",
       "items": [
         {
-          "id": "8150000-clothes-blow-2018",
+          "id": "5117670-peter-rabbit-2018",
           "kind": "movie",
-          "title": "Clothes & Blow",
+          "title": "Peter Rabbit",
           "year": 2018,
-          "poster": "https://lookmovie2.to/images/p/w400/112d8f0d76db7513cef2ee2e90778850.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/112d8f0d76db7513cef2ee2e90778850.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/31df162854d083df5becaf64657d6872.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/31df162854d083df5becaf64657d6872.webp"
+        },
+        {
+          "id": "0064602-the-lost-man-1969",
+          "kind": "movie",
+          "title": "The Lost Man",
+          "year": 1969,
+          "poster": "https://lookmovie2.to/images/p/w400/cb9d00fa38e315f476b281f1c307a331.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/cb9d00fa38e315f476b281f1c307a331.webp"
+        },
+        {
+          "id": "2361746-haraamkhor-2015",
+          "kind": "movie",
+          "title": "Haraamkhor",
+          "year": 2015,
+          "poster": "https://lookmovie2.to/images/p/w400/d44ea3b9193940ae30c525f0dbbcad18.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d44ea3b9193940ae30c525f0dbbcad18.webp"
+        },
+        {
+          "id": "0258203-house-on-the-rocks-1974",
+          "kind": "movie",
+          "title": "House on the Rocks",
+          "year": 1974,
+          "poster": "https://lookmovie2.to/images/p/w400/3f9b0433c424824f972b0d1f4a19d7df.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3f9b0433c424824f972b0d1f4a19d7df.webp"
+        },
+        {
+          "id": "0142244-dragon-ball-z-lord-slug-1991",
+          "kind": "movie",
+          "title": "Dragon Ball Z: Lord Slug",
+          "year": 1991,
+          "poster": "https://lookmovie2.to/images/p/w400/ccbf046d4411546c2443e484b5140312.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ccbf046d4411546c2443e484b5140312.webp"
+        },
+        {
+          "id": "6576556-the-silent-revolution-2018",
+          "kind": "movie",
+          "title": "The Silent Revolution",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/3255cccf2a3452d5601a111689c8c2f2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3255cccf2a3452d5601a111689c8c2f2.webp"
+        },
+        {
+          "id": "10466616-ocean-2020",
+          "kind": "movie",
+          "title": "Ocean",
+          "year": 2020,
+          "poster": "https://lookmovie2.to/images/p/w400/3729d0cd052611ba21ad43ff800d5235.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3729d0cd052611ba21ad43ff800d5235.webp"
         },
         {
           "id": "29302676-una-terapia-di-gruppo-2024",
@@ -249,6 +297,14 @@
           "year": 2024,
           "poster": "https://lookmovie2.to/images/p/w400/98787285d52e4b5a9f7d1804110a083e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/98787285d52e4b5a9f7d1804110a083e.webp"
+        },
+        {
+          "id": "8150000-clothes-blow-2018",
+          "kind": "movie",
+          "title": "Clothes & Blow",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/112d8f0d76db7513cef2ee2e90778850.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/112d8f0d76db7513cef2ee2e90778850.webp"
         },
         {
           "id": "38982610-homecoming-the-tokyo-series-2026",
@@ -337,68 +393,28 @@
           "year": 1987,
           "poster": "https://lookmovie2.to/images/p/w400/8f1fd31833e98c0b49c6e34b06ae998e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/8f1fd31833e98c0b49c6e34b06ae998e.webp"
-        },
-        {
-          "id": "7349950-it-chapter-two-2019",
-          "kind": "movie",
-          "title": "It Chapter Two",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/630f2561eb99f463f32f4874faa84278.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/630f2561eb99f463f32f4874faa84278.webp"
-        },
-        {
-          "id": "40233113-orangutan-2026",
-          "kind": "movie",
-          "title": "Orangutan",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/e41b687700016d962290eaeab8d3b790.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/e41b687700016d962290eaeab8d3b790.webp"
-        },
-        {
-          "id": "7286456-joker-2019",
-          "kind": "movie",
-          "title": "Joker",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/6adf9411a15811f8d4be1bda09155486.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/6adf9411a15811f8d4be1bda09155486.webp"
-        },
-        {
-          "id": "6806448-fast-furious-presents-hobbs-shaw-2019",
-          "kind": "movie",
-          "title": "Fast & Furious Presents: Hobbs & Shaw",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/f700669010553efc4b62513bc93f5144.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f700669010553efc4b62513bc93f5144.webp"
-        },
-        {
-          "id": "8404614-the-two-popes-2019",
-          "kind": "movie",
-          "title": "The Two Popes",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/962e7b3473b2c23ec890627331a261c5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/962e7b3473b2c23ec890627331a261c5.webp"
-        },
-        {
-          "id": "0057380-old-shatterhand-1964",
-          "kind": "movie",
-          "title": "Old Shatterhand",
-          "year": 1964,
-          "poster": "https://lookmovie2.to/images/p/w400/d9ef5589300f9dadc935e007972fcace.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d9ef5589300f9dadc935e007972fcace.webp"
-        },
-        {
-          "id": "9308022-drivers-ed-2026",
-          "kind": "movie",
-          "title": "Driver's Ed",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/40d46c7b6e9c7073ee30e54f20ebab01.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/40d46c7b6e9c7073ee30e54f20ebab01.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "9813792-from-2022",
+          "kind": "show",
+          "title": "Season 4, Episode 10",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/d2ab883bdcf3bc119e07c96dade9d89d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/d2ab883bdcf3bc119e07c96dade9d89d.webp"
+        },
+        {
+          "id": "14681924-my-adventures-with-superman-2023",
+          "kind": "show",
+          "title": "Season 3, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/95d523817391e8ce7c66d82d4e55e3cc.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/95d523817391e8ce7c66d82d4e55e3cc.webp"
+        },
         {
           "id": "39267868-agents-of-the-four-seasons-dance-of-spring-2026",
           "kind": "show",
@@ -540,6 +556,14 @@
     {
       "title": "Action",
       "items": [
+        {
+          "id": "0142244-dragon-ball-z-lord-slug-1991",
+          "kind": "movie",
+          "title": "Dragon Ball Z: Lord Slug",
+          "year": 1991,
+          "poster": "https://lookmovie2.to/images/p/w400/ccbf046d4411546c2443e484b5140312.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ccbf046d4411546c2443e484b5140312.webp"
+        },
         {
           "id": "2854926-tag-2018",
           "kind": "movie",
@@ -691,14 +715,6 @@
           "year": 2019,
           "poster": "https://lookmovie2.to/images/p/w400/7956e3f9de60fdf536728ad6cfbe7207.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7956e3f9de60fdf536728ad6cfbe7207.webp"
-        },
-        {
-          "id": "31390893-raja-shivaji-2026",
-          "kind": "movie",
-          "title": "Raja Shivaji",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/25719d167d704e649af0fa1a372a4593.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/25719d167d704e649af0fa1a372a4593.webp"
         }
       ]
     },
@@ -706,20 +722,20 @@
       "title": "Comedy",
       "items": [
         {
-          "id": "8150000-clothes-blow-2018",
-          "kind": "movie",
-          "title": "Clothes & Blow",
-          "year": 2018,
-          "poster": "https://lookmovie2.to/images/p/w400/112d8f0d76db7513cef2ee2e90778850.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/112d8f0d76db7513cef2ee2e90778850.webp"
-        },
-        {
           "id": "29302676-una-terapia-di-gruppo-2024",
           "kind": "movie",
           "title": "Una terapia di gruppo",
           "year": 2024,
           "poster": "https://lookmovie2.to/images/p/w400/98787285d52e4b5a9f7d1804110a083e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/98787285d52e4b5a9f7d1804110a083e.webp"
+        },
+        {
+          "id": "8150000-clothes-blow-2018",
+          "kind": "movie",
+          "title": "Clothes & Blow",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/112d8f0d76db7513cef2ee2e90778850.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/112d8f0d76db7513cef2ee2e90778850.webp"
         },
         {
           "id": "2854926-tag-2018",
@@ -1036,6 +1052,14 @@
       "title": "Sci-Fi",
       "items": [
         {
+          "id": "0142244-dragon-ball-z-lord-slug-1991",
+          "kind": "movie",
+          "title": "Dragon Ball Z: Lord Slug",
+          "year": 1991,
+          "poster": "https://lookmovie2.to/images/p/w400/ccbf046d4411546c2443e484b5140312.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ccbf046d4411546c2443e484b5140312.webp"
+        },
+        {
           "id": "0439572-the-flash-2023",
           "kind": "movie",
           "title": "The Flash",
@@ -1186,20 +1210,20 @@
           "year": 2011,
           "poster": "https://lookmovie2.to/images/p/w400/1b0ebf97dccfa33ed4685bd68efe2ea2.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/1b0ebf97dccfa33ed4685bd68efe2ea2.webp"
-        },
-        {
-          "id": "1424381-predators-2010",
-          "kind": "movie",
-          "title": "Predators",
-          "year": 2010,
-          "poster": "https://lookmovie2.to/images/p/w400/881d15890f29e7a0b8621dad108677fd.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/881d15890f29e7a0b8621dad108677fd.webp"
         }
       ]
     },
     {
       "title": "Drama",
       "items": [
+        {
+          "id": "9813792-from-2022",
+          "kind": "show",
+          "title": "FROM",
+          "year": 2022,
+          "poster": "https://lookmovie2.to/images/p/w400/d2ab883bdcf3bc119e07c96dade9d89d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d2ab883bdcf3bc119e07c96dade9d89d.webp"
+        },
         {
           "id": "1442065-rookie-blue-2010",
           "kind": "show",
@@ -1321,6 +1345,14 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/b6a6cd1e4108920e3c261887b9a8d9a1.webp"
         },
         {
+          "id": "0098871-the-new-adventures-of-black-beauty-1990",
+          "kind": "show",
+          "title": "The New Adventures of Black Beauty",
+          "year": 1990,
+          "poster": "https://lookmovie2.to/images/p/w400/8af783b9f0a9a07b110a7c1de4d244f2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8af783b9f0a9a07b110a7c1de4d244f2.webp"
+        },
+        {
           "id": "40295083-pearl-in-red-2026",
           "kind": "show",
           "title": "Pearl in Red",
@@ -1337,28 +1369,12 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/5a8f73ea07f4517f35ebb40c16771990.webp"
         },
         {
-          "id": "0098871-the-new-adventures-of-black-beauty-1990",
-          "kind": "show",
-          "title": "The New Adventures of Black Beauty",
-          "year": 1990,
-          "poster": "https://lookmovie2.to/images/p/w400/8af783b9f0a9a07b110a7c1de4d244f2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8af783b9f0a9a07b110a7c1de4d244f2.webp"
-        },
-        {
           "id": "28091048-sankalp-2026",
           "kind": "show",
           "title": "Sankalp",
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/10b87b3d439d272ee942cba6f6474e5b.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/10b87b3d439d272ee942cba6f6474e5b.webp"
-        },
-        {
-          "id": "37876545-our-golden-days-2025",
-          "kind": "show",
-          "title": "Our Golden Days",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/3494ec618055de2225f997061cbbbad5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3494ec618055de2225f997061cbbbad5.webp"
         }
       ]
     },

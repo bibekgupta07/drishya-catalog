@@ -235,6 +235,38 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "1396484-it-2017",
+          "kind": "movie",
+          "title": "It",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/9c68b52f4994d0a06b93c799045e77b8.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/9c68b52f4994d0a06b93c799045e77b8.webp"
+        },
+        {
+          "id": "34945265-maspalomas-2025",
+          "kind": "movie",
+          "title": "Maspalomas",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/c21c1d30d42cf129e86c53296f1e182e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c21c1d30d42cf129e86c53296f1e182e.webp"
+        },
+        {
+          "id": "5442430-life-2017",
+          "kind": "movie",
+          "title": "Life",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/d22fb97a9e05a20dd9c54397f357adce.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d22fb97a9e05a20dd9c54397f357adce.webp"
+        },
+        {
+          "id": "37894791-help-2026",
+          "kind": "movie",
+          "title": "HELP",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/6606aed28e3e9fd7dd00623f90b3f63b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6606aed28e3e9fd7dd00623f90b3f63b.webp"
+        },
+        {
           "id": "5715410-the-son-of-bigfoot-2017",
           "kind": "movie",
           "title": "The Son of Bigfoot",
@@ -361,38 +393,6 @@
           "year": 1974,
           "poster": "https://lookmovie2.to/images/p/w400/dbe1809c2d7351d690001fe1ab47042e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/dbe1809c2d7351d690001fe1ab47042e.webp"
-        },
-        {
-          "id": "6267926-binding-souls-2019",
-          "kind": "movie",
-          "title": "Binding Souls",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/364cba93e18811e7b0b4bdc4349a1654.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/364cba93e18811e7b0b4bdc4349a1654.webp"
-        },
-        {
-          "id": "21979682-bare-skin-2025",
-          "kind": "movie",
-          "title": "Bare Skin",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/f3f5065598ff48bbe4c880fb6f7db032.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f3f5065598ff48bbe4c880fb6f7db032.webp"
-        },
-        {
-          "id": "13875978-pink-lady-2025",
-          "kind": "movie",
-          "title": "Pink Lady",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/2214ad5e281b169ae3cbb1188d0ba708.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2214ad5e281b169ae3cbb1188d0ba708.webp"
-        },
-        {
-          "id": "33071426-the-drama-2026",
-          "kind": "movie",
-          "title": "The Drama",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/c20262907ad29cd73c1db8feed4763d1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/c20262907ad29cd73c1db8feed4763d1.webp"
         }
       ]
     },
@@ -863,6 +863,30 @@
       "title": "Horror",
       "items": [
         {
+          "id": "1396484-it-2017",
+          "kind": "movie",
+          "title": "It",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/9c68b52f4994d0a06b93c799045e77b8.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/9c68b52f4994d0a06b93c799045e77b8.webp"
+        },
+        {
+          "id": "5442430-life-2017",
+          "kind": "movie",
+          "title": "Life",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/d22fb97a9e05a20dd9c54397f357adce.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d22fb97a9e05a20dd9c54397f357adce.webp"
+        },
+        {
+          "id": "37894791-help-2026",
+          "kind": "movie",
+          "title": "HELP",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/6606aed28e3e9fd7dd00623f90b3f63b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6606aed28e3e9fd7dd00623f90b3f63b.webp"
+        },
+        {
           "id": "6133466-the-first-purge-2018",
           "kind": "movie",
           "title": "The First Purge",
@@ -991,42 +1015,26 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/dcde1920e2bee1ee5266cea3350b3d1c.webp"
         },
         {
-          "id": "37894791-help-2026",
-          "kind": "movie",
-          "title": "HELP",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/777c1fca6a5ba146696600c779f71f34.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/777c1fca6a5ba146696600c779f71f34.webp"
-        },
-        {
           "id": "43434480-king-kaew-2026",
           "kind": "movie",
           "title": "King Kaew",
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/7e1c338e249fa3c5edd8dd22dd399ad6.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7e1c338e249fa3c5edd8dd22dd399ad6.webp"
-        },
-        {
-          "id": "7798634-ready-or-not-2019",
-          "kind": "movie",
-          "title": "Ready or Not",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/2abcd40430cbc41cb8a648801e24643a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2abcd40430cbc41cb8a648801e24643a.webp"
-        },
-        {
-          "id": "1051906-the-invisible-man-2020",
-          "kind": "movie",
-          "title": "The Invisible Man",
-          "year": 2020,
-          "poster": "https://lookmovie2.to/images/p/w400/498cfb631abc44982de0b02aba9f994f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/498cfb631abc44982de0b02aba9f994f.webp"
         }
       ]
     },
     {
       "title": "Sci-Fi",
       "items": [
+        {
+          "id": "5442430-life-2017",
+          "kind": "movie",
+          "title": "Life",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/d22fb97a9e05a20dd9c54397f357adce.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d22fb97a9e05a20dd9c54397f357adce.webp"
+        },
         {
           "id": "1677720-ready-player-one-2018",
           "kind": "movie",
@@ -1178,20 +1186,92 @@
           "year": 2007,
           "poster": "https://lookmovie2.to/images/p/w400/12619cc2834680f95cd08a4801106e08.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/12619cc2834680f95cd08a4801106e08.webp"
-        },
-        {
-          "id": "33363428-dragn-2025",
-          "kind": "movie",
-          "title": "DRAGN",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/7d7249124d694d58bd0ef24eba58147c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7d7249124d694d58bd0ef24eba58147c.webp"
         }
       ]
     },
     {
       "title": "Drama",
       "items": [
+        {
+          "id": "11129816-malory-towers-2020",
+          "kind": "show",
+          "title": "Malory Towers",
+          "year": 2020,
+          "poster": "https://lookmovie2.to/images/p/w400/c3e44564141f6b718877932b67cbaa39.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c3e44564141f6b718877932b67cbaa39.webp"
+        },
+        {
+          "id": "37388613-a-hundred-scenes-of-awajima-2026",
+          "kind": "show",
+          "title": "A Hundred Scenes of AWAJIMA",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/8d25d9c412169aadb8c9a25751ef4665.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8d25d9c412169aadb8c9a25751ef4665.webp"
+        },
+        {
+          "id": "0290966-jeremiah-2002",
+          "kind": "show",
+          "title": "Jeremiah",
+          "year": 2002,
+          "poster": "https://lookmovie2.to/images/p/w400/e87800f5738e38cda4ff56fb9385ee1b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e87800f5738e38cda4ff56fb9385ee1b.webp"
+        },
+        {
+          "id": "38273912-botan-kamiina-fully-blossoms-when-drunk-2026",
+          "kind": "show",
+          "title": "Botan Kamiina Fully Blossoms When Drunk",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/27142a4c94bef2deccfbf0be21e59c69.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/27142a4c94bef2deccfbf0be21e59c69.webp"
+        },
+        {
+          "id": "0103405-dr-quinn-medicine-woman-1993",
+          "kind": "show",
+          "title": "Dr. Quinn, Medicine Woman",
+          "year": 1993,
+          "poster": "https://lookmovie2.to/images/p/w400/d95768a9352b4f3e1565be94c46c2abb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d95768a9352b4f3e1565be94c46c2abb.webp"
+        },
+        {
+          "id": "34896451-eight-hundred-2026",
+          "kind": "show",
+          "title": "Eight Hundred",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d0d00336fedda004192e824c748b62a2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d0d00336fedda004192e824c748b62a2.webp"
+        },
+        {
+          "id": "35060339-a-woman-of-substance-2026",
+          "kind": "show",
+          "title": "A Woman of Substance",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/bcdbf77f6468d99227ccf862074781ed.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/bcdbf77f6468d99227ccf862074781ed.webp"
+        },
+        {
+          "id": "33808995-guerrieri-la-regola-dellequilibrio-2026",
+          "kind": "show",
+          "title": "Guerrieri - La regola dell’equilibrio",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/ca6ad32ca33fec961211f81e5ece15d9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ca6ad32ca33fec961211f81e5ece15d9.webp"
+        },
+        {
+          "id": "38355100-the-secrets-of-hotel-88-2026",
+          "kind": "show",
+          "title": "The Secrets of Hotel 88",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/f97622084f777397f565d557f8b94b43.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/f97622084f777397f565d557f8b94b43.webp"
+        },
+        {
+          "id": "37137805-champignon-no-majo-2026",
+          "kind": "show",
+          "title": "Champignon Witch",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/f92f5af6758068303aa1eb401712284c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/f92f5af6758068303aa1eb401712284c.webp"
+        },
         {
           "id": "34675596-cape-fear-2026",
           "kind": "show",
@@ -1271,86 +1351,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/98916cc175ef447d12843f9019c06b45.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/98916cc175ef447d12843f9019c06b45.webp"
-        },
-        {
-          "id": "42178219-berlin-and-the-lady-with-an-ermine-2026",
-          "kind": "show",
-          "title": "Berlin and the Lady with an Ermine",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/f6b9097fc4f2602a905e490bd9334af0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f6b9097fc4f2602a905e490bd9334af0.webp"
-        },
-        {
-          "id": "36022742-nemesis-2026",
-          "kind": "show",
-          "title": "Nemesis",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/994c9bb07a376d7c4233fa4dc17013d0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/994c9bb07a376d7c4233fa4dc17013d0.webp"
-        },
-        {
-          "id": "38828946-my-royal-nemesis-2026",
-          "kind": "show",
-          "title": "My Royal Nemesis",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/24d5ee329f9a57d4543f896ef16db85e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/24d5ee329f9a57d4543f896ef16db85e.webp"
-        },
-        {
-          "id": "39387632-chiruran-shinsengumi-requiem-2026",
-          "kind": "show",
-          "title": "Song of the Samurai",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/c7b0212437edc62203bf2ef5473a0788.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/c7b0212437edc62203bf2ef5473a0788.webp"
-        },
-        {
-          "id": "37388613-a-hundred-scenes-of-awajima-2026",
-          "kind": "show",
-          "title": "A Hundred Scenes of AWAJIMA",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8d25d9c412169aadb8c9a25751ef4665.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8d25d9c412169aadb8c9a25751ef4665.webp"
-        },
-        {
-          "id": "0290966-jeremiah-2002",
-          "kind": "show",
-          "title": "Jeremiah",
-          "year": 2002,
-          "poster": "https://lookmovie2.to/images/p/w400/e87800f5738e38cda4ff56fb9385ee1b.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/e87800f5738e38cda4ff56fb9385ee1b.webp"
-        },
-        {
-          "id": "38273912-botan-kamiina-fully-blossoms-when-drunk-2026",
-          "kind": "show",
-          "title": "Botan Kamiina Fully Blossoms When Drunk",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/27142a4c94bef2deccfbf0be21e59c69.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/27142a4c94bef2deccfbf0be21e59c69.webp"
-        },
-        {
-          "id": "0103405-dr-quinn-medicine-woman-1993",
-          "kind": "show",
-          "title": "Dr. Quinn, Medicine Woman",
-          "year": 1993,
-          "poster": "https://lookmovie2.to/images/p/w400/d95768a9352b4f3e1565be94c46c2abb.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d95768a9352b4f3e1565be94c46c2abb.webp"
-        },
-        {
-          "id": "34896451-eight-hundred-2026",
-          "kind": "show",
-          "title": "Eight Hundred",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/d0d00336fedda004192e824c748b62a2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d0d00336fedda004192e824c748b62a2.webp"
-        },
-        {
-          "id": "35060339-a-woman-of-substance-2026",
-          "kind": "show",
-          "title": "A Woman of Substance",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/bcdbf77f6468d99227ccf862074781ed.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/bcdbf77f6468d99227ccf862074781ed.webp"
         }
       ]
     },

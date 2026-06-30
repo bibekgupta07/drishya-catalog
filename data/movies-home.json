@@ -235,6 +235,46 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "5715410-the-son-of-bigfoot-2017",
+          "kind": "movie",
+          "title": "The Son of Bigfoot",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/ea780ef2205b7e9fa0a54aa8e540e657.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ea780ef2205b7e9fa0a54aa8e540e657.webp"
+        },
+        {
+          "id": "4131800-my-little-pony-the-movie-2017",
+          "kind": "movie",
+          "title": "My Little Pony: The Movie",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/b64682913b33796b07ee56b4881db889.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b64682913b33796b07ee56b4881db889.webp"
+        },
+        {
+          "id": "7642558-four-christmases-and-a-wedding-2017",
+          "kind": "movie",
+          "title": "Four Christmases and a Wedding",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/86eade89cb67ae91dfce16bb5c6374d1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/86eade89cb67ae91dfce16bb5c6374d1.webp"
+        },
+        {
+          "id": "1677720-ready-player-one-2018",
+          "kind": "movie",
+          "title": "Ready Player One",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/0e5b08395dea49e8e4a4ce5fe1fd2f0a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0e5b08395dea49e8e4a4ce5fe1fd2f0a.webp"
+        },
+        {
+          "id": "6133466-the-first-purge-2018",
+          "kind": "movie",
+          "title": "The First Purge",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/c953755a51645eb6d1e5bafc3b6f3d9c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c953755a51645eb6d1e5bafc3b6f3d9c.webp"
+        },
+        {
           "id": "5462326-mom-and-dad-2018",
           "kind": "movie",
           "title": "Mom and Dad",
@@ -353,46 +393,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/c20262907ad29cd73c1db8feed4763d1.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/c20262907ad29cd73c1db8feed4763d1.webp"
-        },
-        {
-          "id": "39026152-finding-joy-2026",
-          "kind": "movie",
-          "title": "Finding Joy",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/2fbb64e06963c6dd1a3d19f8d71213ea.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2fbb64e06963c6dd1a3d19f8d71213ea.webp"
-        },
-        {
-          "id": "26745135-between-the-cliffs-2023",
-          "kind": "movie",
-          "title": "Between the Cliffs",
-          "year": 2023,
-          "poster": "https://lookmovie2.to/images/p/w400/d77d21562e714f5c7f4c1061fff93322.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d77d21562e714f5c7f4c1061fff93322.webp"
-        },
-        {
-          "id": "1961675-inside-2012",
-          "kind": "movie",
-          "title": "Inside",
-          "year": 2012,
-          "poster": "https://lookmovie2.to/images/p/w400/a8ef4cd60e68f6100b20d742b0a8be02.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/a8ef4cd60e68f6100b20d742b0a8be02.webp"
-        },
-        {
-          "id": "13843916-final-diagnosis-no-second-chances-2026",
-          "kind": "movie",
-          "title": "Final Diagnosis: No Second Chances",
-          "year": 2026,
-          "poster": "",
-          "backdrop": ""
-        },
-        {
-          "id": "36334413-caretta-bobi-2025",
-          "kind": "movie",
-          "title": "Caretta Bobi",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/ca5f14095e4c610c06c69f65b5e6ef94.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/ca5f14095e4c610c06c69f65b5e6ef94.webp"
         }
       ]
     },
@@ -532,6 +532,22 @@
     {
       "title": "Action",
       "items": [
+        {
+          "id": "1677720-ready-player-one-2018",
+          "kind": "movie",
+          "title": "Ready Player One",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/0e5b08395dea49e8e4a4ce5fe1fd2f0a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0e5b08395dea49e8e4a4ce5fe1fd2f0a.webp"
+        },
+        {
+          "id": "6133466-the-first-purge-2018",
+          "kind": "movie",
+          "title": "The First Purge",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/c953755a51645eb6d1e5bafc3b6f3d9c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c953755a51645eb6d1e5bafc3b6f3d9c.webp"
+        },
         {
           "id": "35309713-citizen-vigilante-2026",
           "kind": "movie",
@@ -675,28 +691,28 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/0e19e507190f40ac054f4094e4b5c4af.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/0e19e507190f40ac054f4094e4b5c4af.webp"
-        },
-        {
-          "id": "41475205-killhouse-2026",
-          "kind": "movie",
-          "title": "Killhouse",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/b2579ae4997185804b05128bd1a955ae.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/b2579ae4997185804b05128bd1a955ae.webp"
-        },
-        {
-          "id": "39316472-jackass-best-and-last-2026",
-          "kind": "movie",
-          "title": "Jackass: Best and Last",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8267f109f915eab8ef70f0cb3ec13811.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8267f109f915eab8ef70f0cb3ec13811.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "5715410-the-son-of-bigfoot-2017",
+          "kind": "movie",
+          "title": "The Son of Bigfoot",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/ea780ef2205b7e9fa0a54aa8e540e657.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ea780ef2205b7e9fa0a54aa8e540e657.webp"
+        },
+        {
+          "id": "7642558-four-christmases-and-a-wedding-2017",
+          "kind": "movie",
+          "title": "Four Christmases and a Wedding",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/86eade89cb67ae91dfce16bb5c6374d1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/86eade89cb67ae91dfce16bb5c6374d1.webp"
+        },
         {
           "id": "5462326-mom-and-dad-2018",
           "kind": "movie",
@@ -840,28 +856,20 @@
           "year": 2018,
           "poster": "https://lookmovie2.to/images/p/w400/a6bfac7c6f5fbe87594574bf50a54426.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/a6bfac7c6f5fbe87594574bf50a54426.webp"
-        },
-        {
-          "id": "0109798-dartagnans-daughter-1994",
-          "kind": "movie",
-          "title": "D'Artagnan's Daughter",
-          "year": 1994,
-          "poster": "https://lookmovie2.to/images/p/w400/178294b7a2542a98ee44c5bd19926d66.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/178294b7a2542a98ee44c5bd19926d66.webp"
-        },
-        {
-          "id": "0405479-child-of-peach-1987",
-          "kind": "movie",
-          "title": "Child of Peach",
-          "year": 1987,
-          "poster": "https://lookmovie2.to/images/p/w400/8f1fd31833e98c0b49c6e34b06ae998e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8f1fd31833e98c0b49c6e34b06ae998e.webp"
         }
       ]
     },
     {
       "title": "Horror",
       "items": [
+        {
+          "id": "6133466-the-first-purge-2018",
+          "kind": "movie",
+          "title": "The First Purge",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/c953755a51645eb6d1e5bafc3b6f3d9c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c953755a51645eb6d1e5bafc3b6f3d9c.webp"
+        },
         {
           "id": "5462326-mom-and-dad-2018",
           "kind": "movie",
@@ -1013,20 +1021,20 @@
           "year": 2020,
           "poster": "https://lookmovie2.to/images/p/w400/498cfb631abc44982de0b02aba9f994f.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/498cfb631abc44982de0b02aba9f994f.webp"
-        },
-        {
-          "id": "33030353-gale-yellow-brick-road-2026",
-          "kind": "movie",
-          "title": "Gale: Yellow Brick Road",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/7b0f25a9c32904c669ad5c71072f640f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7b0f25a9c32904c669ad5c71072f640f.webp"
         }
       ]
     },
     {
       "title": "Sci-Fi",
       "items": [
+        {
+          "id": "1677720-ready-player-one-2018",
+          "kind": "movie",
+          "title": "Ready Player One",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/0e5b08395dea49e8e4a4ce5fe1fd2f0a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0e5b08395dea49e8e4a4ce5fe1fd2f0a.webp"
+        },
         {
           "id": "35261976-hindsight-services-0",
           "kind": "movie",
@@ -1178,14 +1186,6 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/7d7249124d694d58bd0ef24eba58147c.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7d7249124d694d58bd0ef24eba58147c.webp"
-        },
-        {
-          "id": "1046173-gi-joe-the-rise-of-cobra-2009",
-          "kind": "movie",
-          "title": "G.I. Joe: The Rise of Cobra",
-          "year": 2009,
-          "poster": "https://lookmovie2.to/images/p/w400/55d71b17f73a11eaa84121b48f78ec96.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/55d71b17f73a11eaa84121b48f78ec96.webp"
         }
       ]
     },

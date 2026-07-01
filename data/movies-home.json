@@ -78,14 +78,6 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/66fe2ffef361cbfefa0a2c688e172111.webp"
         },
         {
-          "id": "9308022-drivers-ed-2026",
-          "kind": "movie",
-          "title": "Driver's Ed",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/40d46c7b6e9c7073ee30e54f20ebab01.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/c59bcc6b84038a9e4820f0787a02996d.webp"
-        },
-        {
           "id": "31189814-fuze-2026",
           "kind": "movie",
           "title": "Fuze",
@@ -228,12 +220,68 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/ab50fc15efcc0bda2ef21b2d92594cd4.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/405515d14f5d12e9b015063941733f83.webp"
+        },
+        {
+          "id": "29516222-deep-water-2026",
+          "kind": "movie",
+          "title": "Deep Water",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/6cae1ee7c3d400ddb9e32a6b1d88ff59.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/752442cd45f3b0354ef7712487cac9df.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "1330591-autumn-2008",
+          "kind": "movie",
+          "title": "Autumn",
+          "year": 2008,
+          "poster": "https://lookmovie2.to/images/p/w400/aa8363e1481bf93a5edf36f8073fec2f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/aa8363e1481bf93a5edf36f8073fec2f.webp"
+        },
+        {
+          "id": "1259571-the-twilight-saga-new-moon-2009",
+          "kind": "movie",
+          "title": "The Twilight Saga: New Moon",
+          "year": 2009,
+          "poster": "https://lookmovie2.to/images/p/w400/72fc86e3198fcc267da8a655b7caf9b4.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/72fc86e3198fcc267da8a655b7caf9b4.webp"
+        },
+        {
+          "id": "1442519-the-hedgehog-2009",
+          "kind": "movie",
+          "title": "The Hedgehog",
+          "year": 2009,
+          "poster": "https://lookmovie2.to/images/p/w400/7fdf10409c25bd7b06ac6cba4d11726d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/7fdf10409c25bd7b06ac6cba4d11726d.webp"
+        },
+        {
+          "id": "1637688-in-time-2011",
+          "kind": "movie",
+          "title": "In Time",
+          "year": 2011,
+          "poster": "https://lookmovie2.to/images/p/w400/3e1c506ddc74ac2a833d8b305d7f87e0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3e1c506ddc74ac2a833d8b305d7f87e0.webp"
+        },
+        {
+          "id": "0844471-cloudy-with-a-chance-of-meatballs-2009",
+          "kind": "movie",
+          "title": "Cloudy with a Chance of Meatballs",
+          "year": 2009,
+          "poster": "https://lookmovie2.to/images/p/w400/2d5bb658e42fabee7d386edbc0cc87c0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2d5bb658e42fabee7d386edbc0cc87c0.webp"
+        },
+        {
+          "id": "0780521-the-princess-and-the-frog-2009",
+          "kind": "movie",
+          "title": "The Princess and the Frog",
+          "year": 2009,
+          "poster": "https://lookmovie2.to/images/p/w400/7b7b781d0122a250e08b7cf538270e08.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/7b7b781d0122a250e08b7cf538270e08.webp"
+        },
         {
           "id": "1142433-post-grad-2009",
           "kind": "movie",
@@ -345,54 +393,6 @@
           "year": 2016,
           "poster": "https://lookmovie2.to/images/p/w400/1076a2268a4d7d4a096ae822b65010af.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/1076a2268a4d7d4a096ae822b65010af.webp"
-        },
-        {
-          "id": "37287335-obsession-2026",
-          "kind": "movie",
-          "title": "Obsession",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/9fab9301b46add3df495dc9cfc71835a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/9fab9301b46add3df495dc9cfc71835a.webp"
-        },
-        {
-          "id": "4786282-lights-out-2016",
-          "kind": "movie",
-          "title": "Lights Out",
-          "year": 2016,
-          "poster": "https://lookmovie2.to/images/p/w400/cbf339a934597669f0c977db071a89ea.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/cbf339a934597669f0c977db071a89ea.webp"
-        },
-        {
-          "id": "4052882-the-shallows-2016",
-          "kind": "movie",
-          "title": "The Shallows",
-          "year": 2016,
-          "poster": "https://lookmovie2.to/images/p/w400/6acf0420218d0d80b96f05568e0510dd.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/6acf0420218d0d80b96f05568e0510dd.webp"
-        },
-        {
-          "id": "0451279-wonder-woman-2017",
-          "kind": "movie",
-          "title": "Wonder Woman",
-          "year": 2017,
-          "poster": "https://lookmovie2.to/images/p/w400/1c5075e0ef9882f8529b3d9c42b3c2dd.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1c5075e0ef9882f8529b3d9c42b3c2dd.webp"
-        },
-        {
-          "id": "3896198-guardians-of-the-galaxy-vol-2-2017",
-          "kind": "movie",
-          "title": "Guardians of the Galaxy Vol. 2",
-          "year": 2017,
-          "poster": "https://lookmovie2.to/images/p/w400/59d3144ce8f58293452ad9c9fad97bc4.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/59d3144ce8f58293452ad9c9fad97bc4.webp"
-        },
-        {
-          "id": "1396484-it-2017",
-          "kind": "movie",
-          "title": "It",
-          "year": 2017,
-          "poster": "https://lookmovie2.to/images/p/w400/9c68b52f4994d0a06b93c799045e77b8.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/9c68b52f4994d0a06b93c799045e77b8.webp"
         }
       ]
     },
@@ -434,7 +434,7 @@
         {
           "id": "8819906-love-island-2019",
           "kind": "show",
-          "title": "Season 8, Episode 24",
+          "title": "Season 8, Episode 25",
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/570b52af45e85f9dc5d274ad7bbadbae.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/570b52af45e85f9dc5d274ad7bbadbae.webp"
@@ -518,20 +518,20 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/2165bad2c4fbd6b4116bd1d5e115cd1a.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/2165bad2c4fbd6b4116bd1d5e115cd1a.webp"
-        },
-        {
-          "id": "33014623-in-the-eye-of-the-storm-2024",
-          "kind": "show",
-          "title": "Season 4, Episode 1",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/13df5945040fea427504a1ee6c669cc1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/13df5945040fea427504a1ee6c669cc1.webp"
         }
       ]
     },
     {
       "title": "Action",
       "items": [
+        {
+          "id": "1637688-in-time-2011",
+          "kind": "movie",
+          "title": "In Time",
+          "year": 2011,
+          "poster": "https://lookmovie2.to/images/p/w400/3e1c506ddc74ac2a833d8b305d7f87e0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3e1c506ddc74ac2a833d8b305d7f87e0.webp"
+        },
         {
           "id": "1091191-lone-survivor-2013",
           "kind": "movie",
@@ -683,20 +683,28 @@
           "year": 1987,
           "poster": "https://lookmovie2.to/images/p/w400/8f1fd31833e98c0b49c6e34b06ae998e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/8f1fd31833e98c0b49c6e34b06ae998e.webp"
-        },
-        {
-          "id": "6806448-fast-furious-presents-hobbs-shaw-2019",
-          "kind": "movie",
-          "title": "Fast & Furious Presents: Hobbs & Shaw",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/f700669010553efc4b62513bc93f5144.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f700669010553efc4b62513bc93f5144.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "1442519-the-hedgehog-2009",
+          "kind": "movie",
+          "title": "The Hedgehog",
+          "year": 2009,
+          "poster": "https://lookmovie2.to/images/p/w400/7fdf10409c25bd7b06ac6cba4d11726d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/7fdf10409c25bd7b06ac6cba4d11726d.webp"
+        },
+        {
+          "id": "0844471-cloudy-with-a-chance-of-meatballs-2009",
+          "kind": "movie",
+          "title": "Cloudy with a Chance of Meatballs",
+          "year": 2009,
+          "poster": "https://lookmovie2.to/images/p/w400/2d5bb658e42fabee7d386edbc0cc87c0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2d5bb658e42fabee7d386edbc0cc87c0.webp"
+        },
         {
           "id": "1142433-post-grad-2009",
           "kind": "movie",
@@ -840,22 +848,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/2fbb64e06963c6dd1a3d19f8d71213ea.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/2fbb64e06963c6dd1a3d19f8d71213ea.webp"
-        },
-        {
-          "id": "6467266-sing-2-2021",
-          "kind": "movie",
-          "title": "Sing 2",
-          "year": 2021,
-          "poster": "https://lookmovie2.to/images/p/w400/de6667a048a6a7ebc553717f0ba67982.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/de6667a048a6a7ebc553717f0ba67982.webp"
-        },
-        {
-          "id": "1667145-virgin-alexander-2012",
-          "kind": "movie",
-          "title": "Virgin Alexander",
-          "year": 2012,
-          "poster": "https://lookmovie2.to/images/p/w400/23c51443e2c53a6a712371745931d418.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/23c51443e2c53a6a712371745931d418.webp"
         }
       ]
     },
@@ -1028,6 +1020,14 @@
       "title": "Sci-Fi",
       "items": [
         {
+          "id": "1637688-in-time-2011",
+          "kind": "movie",
+          "title": "In Time",
+          "year": 2011,
+          "poster": "https://lookmovie2.to/images/p/w400/3e1c506ddc74ac2a833d8b305d7f87e0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3e1c506ddc74ac2a833d8b305d7f87e0.webp"
+        },
+        {
           "id": "2184339-the-purge-2013",
           "kind": "movie",
           "title": "The Purge",
@@ -1178,14 +1178,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/039d29def0bae9bc4af2780dbaa4f69e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/039d29def0bae9bc4af2780dbaa4f69e.webp"
-        },
-        {
-          "id": "29253812-boomerang-2024",
-          "kind": "movie",
-          "title": "Boomerang",
-          "year": 2024,
-          "poster": "https://lookmovie2.to/images/p/w400/446a5348b786baacf7323feee836cfeb.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/446a5348b786baacf7323feee836cfeb.webp"
         }
       ]
     },

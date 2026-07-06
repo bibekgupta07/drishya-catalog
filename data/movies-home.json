@@ -166,14 +166,6 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/7eaae7c6fca511ad92be8e46e8e24c40.webp"
         },
         {
-          "id": "34494076-hungry-2026",
-          "kind": "movie",
-          "title": "HUNGRY",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/70f306a493cac1b7a9fb4ce23a12151c.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/c3b974102d777bdb4a6f32ef59e84ad8.webp"
-        },
-        {
           "id": "32267691-power-ballad-2026",
           "kind": "movie",
           "title": "Power Ballad",
@@ -228,12 +220,52 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/d98615e5a8139b6b498a0c4a45d56012.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/9e46a1976272f4442b0b57d123da2fe2.webp"
+        },
+        {
+          "id": "33397980-office-romance-2026",
+          "kind": "movie",
+          "title": "Office Romance",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/bb055b5bcfb761796dd6ee69a844d4ad.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/f20f43e8acc89465d97efa26189cbc47.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "0065803-the-angry-river-1971",
+          "kind": "movie",
+          "title": "The Angry River",
+          "year": 1971,
+          "poster": "https://lookmovie2.to/images/p/w400/00e3562fe5cfbdeae30c8799723d16ce.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/00e3562fe5cfbdeae30c8799723d16ce.webp"
+        },
+        {
+          "id": "0137536-fly-now-pay-later-1969",
+          "kind": "movie",
+          "title": "Fly Now, Pay Later",
+          "year": 1969,
+          "poster": "https://lookmovie2.to/images/p/w400/f4f88082f290a03aaac3c0c7a1c90a56.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/f4f88082f290a03aaac3c0c7a1c90a56.webp"
+        },
+        {
+          "id": "0067610-pretty-maids-all-in-a-row-1971",
+          "kind": "movie",
+          "title": "Pretty Maids All in a Row",
+          "year": 1971,
+          "poster": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp"
+        },
+        {
+          "id": "0069041-blue-eyes-of-the-broken-doll-1974",
+          "kind": "movie",
+          "title": "Blue Eyes of the Broken Doll",
+          "year": 1974,
+          "poster": "https://lookmovie2.to/images/p/w400/1f504e1eab41bbcdf3d51f2a9f983a70.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/1f504e1eab41bbcdf3d51f2a9f983a70.webp"
+        },
         {
           "id": "8571578-blue-summer-2018",
           "kind": "movie",
@@ -361,44 +393,68 @@
           "year": 1976,
           "poster": "https://lookmovie2.to/images/p/w400/f851e2e53933f39624c49a61a5163433.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/f851e2e53933f39624c49a61a5163433.webp"
-        },
-        {
-          "id": "0075620-the-bees-1978",
-          "kind": "movie",
-          "title": "The Bees",
-          "year": 1978,
-          "poster": "https://lookmovie2.to/images/p/w400/5967e6be3bd346b3c1073de9736c6ec6.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/5967e6be3bd346b3c1073de9736c6ec6.webp"
-        },
-        {
-          "id": "0173682-sky-high-1985",
-          "kind": "movie",
-          "title": "Sky High",
-          "year": 1985,
-          "poster": "https://lookmovie2.to/images/p/w400/27d2862c9ce1670eed4f2a45a73915b0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/27d2862c9ce1670eed4f2a45a73915b0.webp"
-        },
-        {
-          "id": "0077558-five-superfighters-1979",
-          "kind": "movie",
-          "title": "Five Superfighters",
-          "year": 1979,
-          "poster": "https://lookmovie2.to/images/p/w400/18eb42ae019baa33dac48b254a2b8dff.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/18eb42ae019baa33dac48b254a2b8dff.webp"
-        },
-        {
-          "id": "0083824-quarter-to-two-before-jesus-christ-1982",
-          "kind": "movie",
-          "title": "Quarter to Two Before Jesus Christ",
-          "year": 1982,
-          "poster": "https://lookmovie2.to/images/p/w400/66e3c808bf889e20af0ca9adc103fa5f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/66e3c808bf889e20af0ca9adc103fa5f.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "17736900-lock-upp-2022",
+          "kind": "show",
+          "title": "Season 2, Episode 8",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/1335a923049b8471d9de90e19c4c5026.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/1335a923049b8471d9de90e19c4c5026.webp"
+        },
+        {
+          "id": "39304754-love-unseen-beneath-the-clear-night-sky-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/3f7976e1e3faddcd4151441b7cd6db17.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/3f7976e1e3faddcd4151441b7cd6db17.webp"
+        },
+        {
+          "id": "39551287-a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/254270592c3ce18a041a036d8f979c01.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/254270592c3ce18a041a036d8f979c01.webp"
+        },
+        {
+          "id": "3295542-have-you-been-paying-attentionij-2011",
+          "kind": "show",
+          "title": "Season 14, Episode 10",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/a8fd1414ac8e29c97347c2620a2ee571.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/a8fd1414ac8e29c97347c2620a2ee571.webp"
+        },
+        {
+          "id": "41278615-oh-boy-was-i-wrong-about-her-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/84c496a01d54aeddf1302dbe6d28d501.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/84c496a01d54aeddf1302dbe6d28d501.webp"
+        },
+        {
+          "id": "15761538-expert-witness-2021",
+          "kind": "show",
+          "title": "Season 5, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/e643f4b823c84072c42b9e42ea2f71a9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/e643f4b823c84072c42b9e42ea2f71a9.webp"
+        },
+        {
+          "id": "32862795-the-insipid-princes-furtive-grab-for-the-throne-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/8afc1d7dfc6f884b38a3e283cf9189ff.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/8afc1d7dfc6f884b38a3e283cf9189ff.webp"
+        },
         {
           "id": "1433870-masterchef-australia-2009",
           "kind": "show",
@@ -464,6 +520,14 @@
           "backdrop": "https://lookmovie2.to/images/p/w300/c5b94c410b99e841a3f53f1078bac604.webp"
         },
         {
+          "id": "37110450-hazardous-history-with-henry-winkler-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 11",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b2a57a8eddbe2cc4382c83f36105f6e0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b2a57a8eddbe2cc4382c83f36105f6e0.webp"
+        },
+        {
           "id": "42764103-torn-apart-2026",
           "kind": "show",
           "title": "Season 1, Episode 6",
@@ -494,70 +558,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/43bbe2dc67bb416eed49d8abbb29b7f8.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/43bbe2dc67bb416eed49d8abbb29b7f8.webp"
-        },
-        {
-          "id": "2861424-rick-and-morty-2013",
-          "kind": "show",
-          "title": "Season 9, Episode 7",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/e4b0a989202df777df1ca917a3e2b4ac.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/e4b0a989202df777df1ca917a3e2b4ac.webp"
-        },
-        {
-          "id": "42647351-baddies-gone-wild-dr-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 9",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/0f780308ebc634ce1c9598da7d6f8309.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/0f780308ebc634ce1c9598da7d6f8309.webp"
-        },
-        {
-          "id": "11198330-house-of-the-dragon-2021",
-          "kind": "show",
-          "title": "Season 3, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/397205708f293b9e43abb77196954cc3.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/397205708f293b9e43abb77196954cc3.webp"
-        },
-        {
-          "id": "4770018-love-island-2015",
-          "kind": "show",
-          "title": "Season 13, Episode 35",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/9d0fa905745d470908bfcc79d1d8e485.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/9d0fa905745d470908bfcc79d1d8e485.webp"
-        },
-        {
-          "id": "39393581-the-husband-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/f0fad17ab84dd14301d752055ab5474f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/f0fad17ab84dd14301d752055ab5474f.webp"
-        },
-        {
-          "id": "39112665-the-ogres-bride-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 1",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/df46b019724102a8343d742321dac8c1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/df46b019724102a8343d742321dac8c1.webp"
-        },
-        {
-          "id": "39123043-the-classroom-of-a-black-cat-and-a-witch-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 13",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/8683c09794364ac4ad4e25e863ab6624.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/8683c09794364ac4ad4e25e863ab6624.webp"
-        },
-        {
-          "id": "41293112-the-worlds-strongest-rearguard-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 1",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/a371a9f44f40580357d953a3a24ed800.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/a371a9f44f40580357d953a3a24ed800.webp"
         }
       ]
     },
@@ -730,6 +730,14 @@
       "title": "Comedy",
       "items": [
         {
+          "id": "0067610-pretty-maids-all-in-a-row-1971",
+          "kind": "movie",
+          "title": "Pretty Maids All in a Row",
+          "year": 1971,
+          "poster": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp"
+        },
+        {
           "id": "7122106-bob-the-drag-queen-suspiciously-large-woman-2017",
           "kind": "movie",
           "title": "Bob the Drag Queen: Suspiciously Large Woman",
@@ -880,20 +888,20 @@
           "year": 1999,
           "poster": "https://lookmovie2.to/images/p/w400/78f5e9c5a9989c2cbbb67f33eaff481b.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/78f5e9c5a9989c2cbbb67f33eaff481b.webp"
-        },
-        {
-          "id": "32810496-diamonds-2024",
-          "kind": "movie",
-          "title": "Diamonds",
-          "year": 2024,
-          "poster": "https://lookmovie2.to/images/p/w400/67598aec241ac13d27c86f64f0dd58da.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/67598aec241ac13d27c86f64f0dd58da.webp"
         }
       ]
     },
     {
       "title": "Horror",
       "items": [
+        {
+          "id": "0069041-blue-eyes-of-the-broken-doll-1974",
+          "kind": "movie",
+          "title": "Blue Eyes of the Broken Doll",
+          "year": 1974,
+          "poster": "https://lookmovie2.to/images/p/w400/1f504e1eab41bbcdf3d51f2a9f983a70.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/1f504e1eab41bbcdf3d51f2a9f983a70.webp"
+        },
         {
           "id": "0100637-the-sleeping-car-1990",
           "kind": "movie",
@@ -1045,14 +1053,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/f1093e1404381ef11050f9d7eda97e88.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/f1093e1404381ef11050f9d7eda97e88.webp"
-        },
-        {
-          "id": "0187251-lovers-lane-2000",
-          "kind": "movie",
-          "title": "Lovers Lane",
-          "year": 2000,
-          "poster": "https://lookmovie2.to/images/p/w400/edab65d8801cb6757807e9343412649a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/edab65d8801cb6757807e9343412649a.webp"
         }
       ]
     },
@@ -1390,6 +1390,14 @@
       "title": "Crime",
       "items": [
         {
+          "id": "15761538-expert-witness-2021",
+          "kind": "show",
+          "title": "Expert Witness",
+          "year": 2021,
+          "poster": "https://lookmovie2.to/images/p/w400/e643f4b823c84072c42b9e42ea2f71a9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e643f4b823c84072c42b9e42ea2f71a9.webp"
+        },
+        {
           "id": "0054518-the-avengers-1961",
           "kind": "show",
           "title": "The Avengers",
@@ -1540,14 +1548,6 @@
           "year": 2019,
           "poster": "https://lookmovie2.to/images/p/w400/305b5dc3ba19172bd27a56bca4224894.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/305b5dc3ba19172bd27a56bca4224894.webp"
-        },
-        {
-          "id": "4659174-ice-2016",
-          "kind": "show",
-          "title": "Ice",
-          "year": 2016,
-          "poster": "https://lookmovie2.to/images/p/w400/6da4fd7fa18566f618df4e1ed81de3f1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/6da4fd7fa18566f618df4e1ed81de3f1.webp"
         }
       ]
     }

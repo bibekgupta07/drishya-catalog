@@ -630,12 +630,6 @@
     "category": "News"
   },
   {
-    "name": "Sony Entertainment HD",
-    "encodedUrl": "425",
-    "logo": "https://nettv1.nettv.com.np/channel_logo/Sony_Entertainment_HD_2022-11-06_09:11:07.png",
-    "category": "Entertainment"
-  },
-  {
     "name": "Colors HD",
     "encodedUrl": "243",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Colors_HD_2022-03-10_10:03:51.png",
@@ -660,6 +654,12 @@
     "category": "Entertainment"
   },
   {
+    "name": "Star Bharat HD",
+    "encodedUrl": "371",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Bharat_HD_2021-05-05_08:05:27.png",
+    "category": "Entertainment"
+  },
+  {
     "name": "Sony Sab HD",
     "encodedUrl": "916",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Sony_Sab_HD_2022-11-06_09:11:49.png",
@@ -681,6 +681,12 @@
     "name": "Star Plus",
     "encodedUrl": "1259",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Plus_2020-10-29_01:10:08.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Star Bharat",
+    "encodedUrl": "1303",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Bharat_2021-01-20_07:01:58.jpg",
     "category": "Entertainment"
   },
   {
@@ -768,6 +774,12 @@
     "category": "Movies"
   },
   {
+    "name": "Star Movies",
+    "encodedUrl": "1306",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Movies_2021-01-20_07:01:12.jpg",
+    "category": "Movies"
+  },
+  {
     "name": "Zee Bollywood",
     "encodedUrl": "308",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Zee_Bollywood_2025-06-10_12:06:45.png",
@@ -810,16 +822,16 @@
     "category": "Movies"
   },
   {
+    "name": "Star Utsav Movies",
+    "encodedUrl": "464",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Star_Utsav_Movies_2021-05-05_08:05:55.png",
+    "category": "Movies"
+  },
+  {
     "name": "Zee Classic",
     "encodedUrl": "316",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Zee_Classic_2025-06-10_12:06:01.png",
     "category": "Movies"
-  },
-  {
-    "name": "Sony Sports Ten 1 HD",
-    "encodedUrl": "346",
-    "logo": "https://nettv1.nettv.com.np/channel_logo/Sony_Ten_1_HD_2022-11-06_09:11:20.png",
-    "category": "Sports"
   },
   {
     "name": "Sony Sports Ten 2 HD",
@@ -966,12 +978,6 @@
     "category": "Kids "
   },
   {
-    "name": "Discovery Kids",
-    "encodedUrl": "1110",
-    "logo": "https://nettv1.nettv.com.np/channel_logo/Discovery_Kids_2019-11-06_08:11:28.png",
-    "category": "Kids "
-  },
-  {
     "name": "Sonic Nickelodeon",
     "encodedUrl": "1294",
     "logo": "https://nettv1.nettv.com.np/channel_logo/Nickelodeon_Sonic_2021-01-05_05:01:29.png",
@@ -1002,6 +1008,12 @@
     "category": "Adventures"
   },
   {
+    "name": "National Geographic",
+    "encodedUrl": "1300",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/National_Geographic_2021-01-19_07:01:27.png",
+    "category": "Adventures"
+  },
+  {
     "name": "History TV 18",
     "encodedUrl": "251",
     "logo": "https://nettv1.nettv.com.np/channel_logo/History_TV_18_2021-05-05_08:05:45.png",
@@ -1014,21 +1026,9 @@
     "category": "Adventures"
   },
   {
-    "name": "Discovery Turbo",
-    "encodedUrl": "384",
-    "logo": "https://nettv1.nettv.com.np/channel_logo/Discovery_Turbo_2021-05-05_08:05:35.png",
-    "category": "Adventures"
-  },
-  {
     "name": "TLC India",
     "encodedUrl": "931",
     "logo": "https://nettv1.nettv.com.np/channel_logo/TLC_India_2019-01-08_11:01:24.png",
-    "category": "Adventures"
-  },
-  {
-    "name": "Discovery Science",
-    "encodedUrl": "1405",
-    "logo": "https://nettv1.nettv.com.np/channel_logo/Discovery_Science_2023-08-02_01:08:38.jpg",
     "category": "Adventures"
   },
   {
@@ -1072,6 +1072,12 @@
     "encodedUrl": "880",
     "logo": "https://nettv1.nettv.com.np/channel_logo/KBS_Korea_2021-10-21_07:10:19.jpg",
     "category": "International"
+  },
+  {
+    "name": "Bhakti Darshan",
+    "encodedUrl": "239",
+    "logo": "https://nettv1.nettv.com.np/channel_logo/Bhakti_Darshan_2021-05-05_08:05:16.png",
+    "category": "Spiritual & Life"
   },
   {
     "name": "Divya Darshan HD",

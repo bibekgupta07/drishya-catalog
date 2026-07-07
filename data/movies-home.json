@@ -1,6 +1,14 @@
 {
   "hero": [
     {
+      "id": "12042730-project-hail-mary-2026",
+      "kind": "movie",
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/d1559f21e0f2ae206d0adbb85f4ba5b0.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/9168c47e9c69a1cc7cc12820a600330f.webp"
+    },
+    {
       "id": "28089784-satluj-2026",
       "kind": "movie",
       "title": "Satluj",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/9fab9301b46add3df495dc9cfc71835a.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/285b3dd496bc060bcc2854be6d8e41f6.webp"
-    },
-    {
-      "id": "33612209-the-devil-wears-prada-2-2026",
-      "kind": "movie",
-      "title": "The Devil Wears Prada 2",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/a4c3207767f92d0e992624899bfc70ba.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/8345083b9f9856ad2ba4c223a9b34fff.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "33612209-the-devil-wears-prada-2-2026",
+          "kind": "movie",
+          "title": "The Devil Wears Prada 2",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/a4c3207767f92d0e992624899bfc70ba.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/8345083b9f9856ad2ba4c223a9b34fff.webp"
+        },
         {
           "id": "33071426-the-drama-2026",
           "kind": "movie",
@@ -108,6 +116,14 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/1541d8427adf025908daef12e8d0b02b.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/046bbacd76fec6c55444114aa528d8dd.webp"
+        },
+        {
+          "id": "31189814-fuze-2026",
+          "kind": "movie",
+          "title": "Fuze",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/0baefab8d795d7fffe62de6be172401e.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/403b04b132ac18f61f6462cbd7bbe288.webp"
         },
         {
           "id": "32357218-shelter-2026",
@@ -174,14 +190,6 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/7eaae7c6fca511ad92be8e46e8e24c40.webp"
         },
         {
-          "id": "32267691-power-ballad-2026",
-          "kind": "movie",
-          "title": "Power Ballad",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/2c7ce5fbb7777b5f71c88943e910644f.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/ce58abc184093a78faf736997d383e90.webp"
-        },
-        {
           "id": "33296751-tuner-2026",
           "kind": "movie",
           "title": "Tuner",
@@ -220,20 +228,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/6cae1ee7c3d400ddb9e32a6b1d88ff59.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/752442cd45f3b0354ef7712487cac9df.webp"
-        },
-        {
-          "id": "33311069-the-furious-2026",
-          "kind": "movie",
-          "title": "The Furious",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/8e089862574f994daf4692e1d63cb45c.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/2c01ef6fe38c050cf905a0e2133e2f0d.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "12042730-project-hail-mary-2026",
+          "kind": "movie",
+          "title": "Project Hail Mary",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d1559f21e0f2ae206d0adbb85f4ba5b0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d1559f21e0f2ae206d0adbb85f4ba5b0.webp"
+        },
         {
           "id": "28089784-satluj-2026",
           "kind": "movie",
@@ -385,20 +393,28 @@
           "year": 1969,
           "poster": "https://lookmovie2.to/images/p/w400/f4f88082f290a03aaac3c0c7a1c90a56.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/f4f88082f290a03aaac3c0c7a1c90a56.webp"
-        },
-        {
-          "id": "0067610-pretty-maids-all-in-a-row-1971",
-          "kind": "movie",
-          "title": "Pretty Maids All in a Row",
-          "year": 1971,
-          "poster": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "37532599-yoroi-shin-den-samurai-troopers-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 13",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b0cdec4bce58e7daecf51034b97a3e39.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b0cdec4bce58e7daecf51034b97a3e39.webp"
+        },
+        {
+          "id": "41278636-the-oblivious-saint-cant-contain-her-power-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/3969619aeacd0416a04ce4cfc8bac234.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/3969619aeacd0416a04ce4cfc8bac234.webp"
+        },
         {
           "id": "35668156-better-late-than-single-2025",
           "kind": "show",
@@ -454,6 +470,14 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/a107f02b009a0263241c6d2c8fdeda88.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/a107f02b009a0263241c6d2c8fdeda88.webp"
+        },
+        {
+          "id": "1587934-american-ninja-warrior-2009",
+          "kind": "show",
+          "title": "Season 18, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/104446be4b3c2d22e71cbef26614cdfe.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/104446be4b3c2d22e71cbef26614cdfe.webp"
         },
         {
           "id": "31556788-lethally-blonde-2024",
@@ -518,30 +542,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp"
-        },
-        {
-          "id": "0092325-the-bold-and-the-beautiful-1987",
-          "kind": "show",
-          "title": "Season 39, Episode 205",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/7f43d9e895258c8ae4359cc6c0f15256.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/7f43d9e895258c8ae4359cc6c0f15256.webp"
-        },
-        {
-          "id": "14527610-harry-wild-0000",
-          "kind": "show",
-          "title": "Season 5, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/952f66c8d4a108b9dbdeabcd2152a807.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/952f66c8d4a108b9dbdeabcd2152a807.webp"
-        },
-        {
-          "id": "4770018-love-island-2015",
-          "kind": "show",
-          "title": "Season 13, Episode 36",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/9d0fa905745d470908bfcc79d1d8e485.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/9d0fa905745d470908bfcc79d1d8e485.webp"
         }
       ]
     },
@@ -1044,6 +1044,14 @@
       "title": "Sci-Fi",
       "items": [
         {
+          "id": "12042730-project-hail-mary-2026",
+          "kind": "movie",
+          "title": "Project Hail Mary",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d1559f21e0f2ae206d0adbb85f4ba5b0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d1559f21e0f2ae206d0adbb85f4ba5b0.webp"
+        },
+        {
           "id": "0051947-the-monster-of-piedras-blancas-1959",
           "kind": "movie",
           "title": "The Monster of Piedras Blancas",
@@ -1194,20 +1202,20 @@
           "year": 2018,
           "poster": "https://lookmovie2.to/images/p/w400/0e5b08395dea49e8e4a4ce5fe1fd2f0a.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/0e5b08395dea49e8e4a4ce5fe1fd2f0a.webp"
-        },
-        {
-          "id": "35261976-hindsight-services-0",
-          "kind": "movie",
-          "title": "Hindsight Services",
-          "year": 2026,
-          "poster": "",
-          "backdrop": ""
         }
       ]
     },
     {
       "title": "Drama",
       "items": [
+        {
+          "id": "0192263-longitude-2000",
+          "kind": "show",
+          "title": "Longitude",
+          "year": 2000,
+          "poster": "https://lookmovie2.to/images/p/w400/d310edadac76a4ddba82afb5c320c36e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d310edadac76a4ddba82afb5c320c36e.webp"
+        },
         {
           "id": "0859592-army-wives-2007",
           "kind": "show",
@@ -1305,36 +1313,12 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/952f66c8d4a108b9dbdeabcd2152a807.webp"
         },
         {
-          "id": "39281887-jaadugar-a-witch-in-mongolia-2026",
+          "id": "38840807-the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional-2026",
           "kind": "show",
-          "title": "Jaadugar: A Witch in Mongolia",
+          "title": "The Strongest Job Is Apparently Not a Hero or a Sage, But an Appraiser (Provisional)!",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/947aa6ff323fa6a0bc42450208a92546.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/947aa6ff323fa6a0bc42450208a92546.webp"
-        },
-        {
-          "id": "41962163-fifties-professionals-2026",
-          "kind": "show",
-          "title": "Fifties Professionals",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/c7b9bbc052ad6bc50452a0ff3e933de9.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/c7b9bbc052ad6bc50452a0ff3e933de9.webp"
-        },
-        {
-          "id": "42127457-agent-kim-reactivated-2026",
-          "kind": "show",
-          "title": "Agent Kim Reactivated",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/0f3acffa0a7010958c23d986362f7876.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/0f3acffa0a7010958c23d986362f7876.webp"
-        },
-        {
-          "id": "36270432-notes-from-the-last-row-2026",
-          "kind": "show",
-          "title": "Notes from the Last Row",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8f9ee4c25022b5488a028a8eb16f43f0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8f9ee4c25022b5488a028a8eb16f43f0.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/f8debbfbd1edb9d619abe54c43d3f7bb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/f8debbfbd1edb9d619abe54c43d3f7bb.webp"
         },
         {
           "id": "38734636-oasis-2026",
@@ -1345,20 +1329,36 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/19c299db486cd1ea1f73e1e681be442f.webp"
         },
         {
-          "id": "38840807-the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional-2026",
+          "id": "36270432-notes-from-the-last-row-2026",
           "kind": "show",
-          "title": "The Strongest Job Is Apparently Not a Hero or a Sage, But an Appraiser (Provisional)!",
+          "title": "Notes from the Last Row",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/f8debbfbd1edb9d619abe54c43d3f7bb.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f8debbfbd1edb9d619abe54c43d3f7bb.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/8f9ee4c25022b5488a028a8eb16f43f0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8f9ee4c25022b5488a028a8eb16f43f0.webp"
         },
         {
-          "id": "39048555-the-flowers-of-evil-2026",
+          "id": "42127457-agent-kim-reactivated-2026",
           "kind": "show",
-          "title": "The Flowers of Evil",
+          "title": "Agent Kim Reactivated",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/41a21d3ae9e163225313fe9ec4ac6090.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/41a21d3ae9e163225313fe9ec4ac6090.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/0f3acffa0a7010958c23d986362f7876.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0f3acffa0a7010958c23d986362f7876.webp"
+        },
+        {
+          "id": "41962163-fifties-professionals-2026",
+          "kind": "show",
+          "title": "Fifties Professionals",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/c7b9bbc052ad6bc50452a0ff3e933de9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c7b9bbc052ad6bc50452a0ff3e933de9.webp"
+        },
+        {
+          "id": "39281887-jaadugar-a-witch-in-mongolia-2026",
+          "kind": "show",
+          "title": "Jaadugar: A Witch in Mongolia",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/947aa6ff323fa6a0bc42450208a92546.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/947aa6ff323fa6a0bc42450208a92546.webp"
         },
         {
           "id": "35668813-unconditional-2026",

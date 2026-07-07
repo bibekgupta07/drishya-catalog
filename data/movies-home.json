@@ -1,6 +1,14 @@
 {
   "hero": [
     {
+      "id": "28089784-satluj-2026",
+      "kind": "movie",
+      "title": "Satluj",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/00350ec1811ce5e52e563e9d2f7295b0.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/488c2e54b2042b26766427c69ee0fe67.webp"
+    },
+    {
       "id": "32273171-the-death-of-robin-hood-2026",
       "kind": "movie",
       "title": "The Death of Robin Hood",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/a4c3207767f92d0e992624899bfc70ba.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/8345083b9f9856ad2ba4c223a9b34fff.webp"
-    },
-    {
-      "id": "33071426-the-drama-2026",
-      "kind": "movie",
-      "title": "The Drama",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/c20262907ad29cd73c1db8feed4763d1.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/3cb7f7da2e54c35a919bb2c9a2e65e15.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "33071426-the-drama-2026",
+          "kind": "movie",
+          "title": "The Drama",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/c20262907ad29cd73c1db8feed4763d1.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/3cb7f7da2e54c35a919bb2c9a2e65e15.webp"
+        },
         {
           "id": "35309713-citizen-vigilante-2026",
           "kind": "movie",
@@ -214,26 +222,26 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/752442cd45f3b0354ef7712487cac9df.webp"
         },
         {
-          "id": "32547691-pressure-2026",
+          "id": "33311069-the-furious-2026",
           "kind": "movie",
-          "title": "Pressure",
+          "title": "The Furious",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/d98615e5a8139b6b498a0c4a45d56012.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/9e46a1976272f4442b0b57d123da2fe2.webp"
-        },
-        {
-          "id": "33397980-office-romance-2026",
-          "kind": "movie",
-          "title": "Office Romance",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/bb055b5bcfb761796dd6ee69a844d4ad.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/f20f43e8acc89465d97efa26189cbc47.webp"
+          "poster": "https://lookmovie2.to/images/p/w500/8e089862574f994daf4692e1d63cb45c.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/2c01ef6fe38c050cf905a0e2133e2f0d.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "28089784-satluj-2026",
+          "kind": "movie",
+          "title": "Satluj",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/00350ec1811ce5e52e563e9d2f7295b0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/00350ec1811ce5e52e563e9d2f7295b0.webp"
+        },
         {
           "id": "0187553-the-busybody-1961",
           "kind": "movie",
@@ -385,20 +393,20 @@
           "year": 1971,
           "poster": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp"
-        },
-        {
-          "id": "0069041-blue-eyes-of-the-broken-doll-1974",
-          "kind": "movie",
-          "title": "Blue Eyes of the Broken Doll",
-          "year": 1974,
-          "poster": "https://lookmovie2.to/images/p/w400/1f504e1eab41bbcdf3d51f2a9f983a70.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1f504e1eab41bbcdf3d51f2a9f983a70.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "35668156-better-late-than-single-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/56fb6c2455fee9f96745343bbe6f9569.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/56fb6c2455fee9f96745343bbe6f9569.webp"
+        },
         {
           "id": "40385200-world-war-ii-with-tom-hanks-2026",
           "kind": "show",
@@ -534,22 +542,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/9d0fa905745d470908bfcc79d1d8e485.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/9d0fa905745d470908bfcc79d1d8e485.webp"
-        },
-        {
-          "id": "37158547-dover-247-britains-busiest-port-2025",
-          "kind": "show",
-          "title": "Season 2, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/bb4476075ef3155f0d44e5983dd4d4e0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/bb4476075ef3155f0d44e5983dd4d4e0.webp"
-        },
-        {
-          "id": "39184653-doctor-on-the-edge-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 11",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/611ed02e12d4440818344cae5d7d008e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/611ed02e12d4440818344cae5d7d008e.webp"
         }
       ]
     },
@@ -1217,6 +1209,14 @@
       "title": "Drama",
       "items": [
         {
+          "id": "0859592-army-wives-2007",
+          "kind": "show",
+          "title": "Army Wives",
+          "year": 2007,
+          "poster": "https://lookmovie2.to/images/p/w400/3c0ccfad4ae33aa27c6dd19f5d8ec1de.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3c0ccfad4ae33aa27c6dd19f5d8ec1de.webp"
+        },
+        {
           "id": "7660850-succession-2018",
           "kind": "show",
           "title": "Succession",
@@ -1367,20 +1367,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/d734df9f60447afe9387a471c30194d6.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/d734df9f60447afe9387a471c30194d6.webp"
-        },
-        {
-          "id": "34467643-trememb-2025",
-          "kind": "show",
-          "title": "TREMEMBÉ",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/7300af1b24cd970b56a01254be94fba8.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7300af1b24cd970b56a01254be94fba8.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "31556788-lethally-blonde-2024",
+          "kind": "show",
+          "title": "Lethally Blonde",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/4077856eb2ba1a77bdd289fa94f524a5.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/4077856eb2ba1a77bdd289fa94f524a5.webp"
+        },
         {
           "id": "28184020-contraband-seized-at-the-border-2023",
           "kind": "show",
@@ -1532,14 +1532,6 @@
           "year": 1989,
           "poster": "https://lookmovie2.to/images/p/w400/cc666ec06cc868adec93e65267bb5992.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/cc666ec06cc868adec93e65267bb5992.webp"
-        },
-        {
-          "id": "7016936-killing-eve-2018",
-          "kind": "show",
-          "title": "Killing Eve",
-          "year": 2018,
-          "poster": "https://lookmovie2.to/images/p/w400/1f6ae3c9d47bc3b334d183c6b6c657fa.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1f6ae3c9d47bc3b334d183c6b6c657fa.webp"
         }
       ]
     }

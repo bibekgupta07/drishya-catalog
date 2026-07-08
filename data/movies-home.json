@@ -25,6 +25,14 @@
       "backdrop": "https://lookmovie2.to/images/b/w1280/488c2e54b2042b26766427c69ee0fe67.webp"
     },
     {
+      "id": "33296064-night-of-the-living-dead-2026",
+      "kind": "movie",
+      "title": "Night of the Living Dead",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/6d674ddf7a40f76b6ea71200a1127e59.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/1875ec9105bffcf25c555b7ade1b705f.webp"
+    },
+    {
       "id": "34584846-man-of-war-2026",
       "kind": "movie",
       "title": "Man of War",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/890b414807c1696ef95308b254bf94e8.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/a039525d56bffe9d507212a3265dab23.webp"
-    },
-    {
-      "id": "37287335-obsession-2026",
-      "kind": "movie",
-      "title": "Obsession",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/9fab9301b46add3df495dc9cfc71835a.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/285b3dd496bc060bcc2854be6d8e41f6.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "37287335-obsession-2026",
+          "kind": "movie",
+          "title": "Obsession",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/9fab9301b46add3df495dc9cfc71835a.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/285b3dd496bc060bcc2854be6d8e41f6.webp"
+        },
         {
           "id": "33612209-the-devil-wears-prada-2-2026",
           "kind": "movie",
@@ -220,20 +228,28 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/a7dbc7d3dcc7ce59cad251fdf17549f2.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/3a0d941a0ed44b01bf6f4a4ab14965f4.webp"
-        },
-        {
-          "id": "10375624-voicemails-for-isabelle-2026",
-          "kind": "movie",
-          "title": "Voicemails for Isabelle",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/cf2bf2a632758b1a29fd44383af45cd5.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/331c94e74f3f0253bb53935400c022e3.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "32273171-the-death-of-robin-hood-2026",
+          "kind": "movie",
+          "title": "The Death of Robin Hood",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/664d423b8042daba72fc091c1db10501.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/664d423b8042daba72fc091c1db10501.webp"
+        },
+        {
+          "id": "37803799-now-i-met-her-2026",
+          "kind": "movie",
+          "title": "Now I Met Her",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/be8b19cef859f61e1bee1935b2e443b3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/be8b19cef859f61e1bee1935b2e443b3.webp"
+        },
         {
           "id": "40628748-the-specials-2026",
           "kind": "movie",
@@ -257,14 +273,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/a73c2dac237482e969c923cd868cb9e8.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/a73c2dac237482e969c923cd868cb9e8.webp"
-        },
-        {
-          "id": "32273171-the-death-of-robin-hood-2026",
-          "kind": "movie",
-          "title": "The Death of Robin Hood",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/664d423b8042daba72fc091c1db10501.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/664d423b8042daba72fc091c1db10501.webp"
         },
         {
           "id": "39139925-dhurandhar-the-revenge-2026",
@@ -385,14 +393,6 @@
           "year": 2017,
           "poster": "https://lookmovie2.to/images/p/w400/a7b3e391f0e16acc3184c7cbf061d00d.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/a7b3e391f0e16acc3184c7cbf061d00d.webp"
-        },
-        {
-          "id": "0088377-the-wannsee-conference-1984",
-          "kind": "movie",
-          "title": "The Wannsee Conference",
-          "year": 1984,
-          "poster": "https://lookmovie2.to/images/p/w400/493c2a558391cace1ed8726775e2493e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/493c2a558391cace1ed8726775e2493e.webp"
         }
       ]
     },
@@ -557,20 +557,20 @@
       "title": "Action",
       "items": [
         {
-          "id": "40628748-the-specials-2026",
-          "kind": "movie",
-          "title": "The Specials",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/0573c91a47e79214bc12c73a0251afe0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/0573c91a47e79214bc12c73a0251afe0.webp"
-        },
-        {
           "id": "32273171-the-death-of-robin-hood-2026",
           "kind": "movie",
           "title": "The Death of Robin Hood",
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/664d423b8042daba72fc091c1db10501.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/664d423b8042daba72fc091c1db10501.webp"
+        },
+        {
+          "id": "40628748-the-specials-2026",
+          "kind": "movie",
+          "title": "The Specials",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/0573c91a47e79214bc12c73a0251afe0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0573c91a47e79214bc12c73a0251afe0.webp"
         },
         {
           "id": "39139925-dhurandhar-the-revenge-2026",
@@ -722,6 +722,14 @@
       "title": "Comedy",
       "items": [
         {
+          "id": "37803799-now-i-met-her-2026",
+          "kind": "movie",
+          "title": "Now I Met Her",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/be8b19cef859f61e1bee1935b2e443b3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/be8b19cef859f61e1bee1935b2e443b3.webp"
+        },
+        {
           "id": "40628748-the-specials-2026",
           "kind": "movie",
           "title": "The Specials",
@@ -872,14 +880,6 @@
           "year": 2015,
           "poster": "https://lookmovie2.to/images/p/w400/12c10d5d1611adcc5c7af50fd70fdaf1.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/12c10d5d1611adcc5c7af50fd70fdaf1.webp"
-        },
-        {
-          "id": "3906724-keplers-dream-2016",
-          "kind": "movie",
-          "title": "Kepler's Dream",
-          "year": 2016,
-          "poster": "https://lookmovie2.to/images/p/w400/d914291899f8eb5ab59ec5b3c96bfa59.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d914291899f8eb5ab59ec5b3c96bfa59.webp"
         }
       ]
     },

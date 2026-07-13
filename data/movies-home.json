@@ -49,34 +49,26 @@
       "backdrop": "https://lookmovie2.to/images/b/w1280/a49b8944b0f4b5098bffccc0652489c7.webp"
     },
     {
-      "id": "28089784-satluj-2026",
-      "kind": "movie",
-      "title": "Satluj",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/00350ec1811ce5e52e563e9d2f7295b0.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/488c2e54b2042b26766427c69ee0fe67.webp"
-    },
-    {
       "id": "32273171-the-death-of-robin-hood-2026",
       "kind": "movie",
       "title": "The Death of Robin Hood",
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/664d423b8042daba72fc091c1db10501.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/bf75249a972f92338af73f1e80c73769.webp"
+    },
+    {
+      "id": "31195136-normal-2026",
+      "kind": "movie",
+      "title": "Normal",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/82bb04ac3a11d8018ad6a0ca57ee4738.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/3ba7c2dde48e8d26ffe0f67aaa0cb5c7.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
-        {
-          "id": "31195136-normal-2026",
-          "kind": "movie",
-          "title": "Normal",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/82bb04ac3a11d8018ad6a0ca57ee4738.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/3ba7c2dde48e8d26ffe0f67aaa0cb5c7.webp"
-        },
         {
           "id": "32315584-black-box-flight-298-2026",
           "kind": "movie",
@@ -228,6 +220,14 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/00d201529f521900f7dc4113845cc14e.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/aae2e64fe6d58efed213c7a7598aa671.webp"
+        },
+        {
+          "id": "0427340-masters-of-the-universe-2026",
+          "kind": "movie",
+          "title": "Masters of the Universe",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/039d29def0bae9bc4af2780dbaa4f69e.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/7eaae7c6fca511ad92be8e46e8e24c40.webp"
         }
       ]
     },
@@ -235,12 +235,60 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "0039317-the-devil-thumbs-a-ride-1947",
+          "kind": "movie",
+          "title": "The Devil Thumbs a Ride",
+          "year": 1947,
+          "poster": "https://lookmovie2.to/images/p/w400/1d259361e70966b5fa21552a4dfc4d01.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/1d259361e70966b5fa21552a4dfc4d01.webp"
+        },
+        {
+          "id": "1001520-the-last-voyage-of-the-demeter-2023",
+          "kind": "movie",
+          "title": "The Last Voyage of the Demeter",
+          "year": 2023,
+          "poster": "https://lookmovie2.to/images/p/w400/2f1fc503873fb5d58e56b69281f61c97.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2f1fc503873fb5d58e56b69281f61c97.webp"
+        },
+        {
+          "id": "0316465-radio-2003",
+          "kind": "movie",
+          "title": "Radio",
+          "year": 2003,
+          "poster": "https://lookmovie2.to/images/p/w400/3d48b48dff2620acf9a1f8d42cfaa4b0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3d48b48dff2620acf9a1f8d42cfaa4b0.webp"
+        },
+        {
+          "id": "13679286-black-forest-0",
+          "kind": "movie",
+          "title": "Black Forest",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/3eeb7fa27aecbebfa4416dc5fb27d4ae.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3eeb7fa27aecbebfa4416dc5fb27d4ae.webp"
+        },
+        {
+          "id": "41960290-the-one-next-door-2026",
+          "kind": "movie",
+          "title": "The One Next Door",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/f562fe13a95caa62db4f1c8c0184a592.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/f562fe13a95caa62db4f1c8c0184a592.webp"
+        },
+        {
+          "id": "5256640-lenin-2026",
+          "kind": "movie",
+          "title": "Lenin",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/58cbc83d46a2fe145705c33b2996ddcc.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/58cbc83d46a2fe145705c33b2996ddcc.webp"
+        },
+        {
           "id": "0073195-jaws-1975",
           "kind": "movie",
           "title": "Jaws",
           "year": 1975,
-          "poster": "https://lookmovie2.to/images/p/w400/4c202e2fdd0f91b139c36897fc8eaec4.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/4c202e2fdd0f91b139c36897fc8eaec4.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/2341b914b75e7f90a2e03ee1bbb50cf9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2341b914b75e7f90a2e03ee1bbb50cf9.webp"
         },
         {
           "id": "0042265-the-blue-lamp-1950",
@@ -345,60 +393,36 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/6ea54e84536fa40534ac3dc5f2a33a23.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/6ea54e84536fa40534ac3dc5f2a33a23.webp"
-        },
-        {
-          "id": "12869916-terror-toons-15-2006",
-          "kind": "movie",
-          "title": "Terror Toons 1.5",
-          "year": 2006,
-          "poster": "https://lookmovie2.to/images/p/w400/c038e6278e3577f0690596f0e9ad158c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/c038e6278e3577f0690596f0e9ad158c.webp"
-        },
-        {
-          "id": "3135152-terror-toons-3-2015",
-          "kind": "movie",
-          "title": "Terror Toons 3",
-          "year": 2015,
-          "poster": "https://lookmovie2.to/images/p/w400/3938b07f5d56313e15b9ff0ecb488a6e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3938b07f5d56313e15b9ff0ecb488a6e.webp"
-        },
-        {
-          "id": "0324213-terror-toons-2002",
-          "kind": "movie",
-          "title": "Terror Toons",
-          "year": 2002,
-          "poster": "https://lookmovie2.to/images/p/w400/07759787f58f72205a8bf11e7780d7a6.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/07759787f58f72205a8bf11e7780d7a6.webp"
-        },
-        {
-          "id": "31170389-evil-dead-burn-2026",
-          "kind": "movie",
-          "title": "Evil Dead Burn",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/d95e26bcb890e3acbc2dbfc168bfd0b0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d95e26bcb890e3acbc2dbfc168bfd0b0.webp"
-        },
-        {
-          "id": "1417075-in-darkness-2011",
-          "kind": "movie",
-          "title": "In Darkness",
-          "year": 2011,
-          "poster": "https://lookmovie2.to/images/p/w400/3d58494097014698c25568a9df18b745.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3d58494097014698c25568a9df18b745.webp"
-        },
-        {
-          "id": "6068960-hatred-2016",
-          "kind": "movie",
-          "title": "Hatred",
-          "year": 2016,
-          "poster": "https://lookmovie2.to/images/p/w400/8c10004ae1a512ad0804e1230d9b3386.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8c10004ae1a512ad0804e1230d9b3386.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "14527610-harry-wild-0000",
+          "kind": "show",
+          "title": "Season 5, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/952f66c8d4a108b9dbdeabcd2152a807.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/952f66c8d4a108b9dbdeabcd2152a807.webp"
+        },
+        {
+          "id": "39163341-murder-101-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/4f705b9a74cc0bcc0702a9c76da523d6.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/4f705b9a74cc0bcc0702a9c76da523d6.webp"
+        },
+        {
+          "id": "40914930-alliance-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 20",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/65855844a5fed8febc1fd874fc86af1c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/65855844a5fed8febc1fd874fc86af1c.webp"
+        },
         {
           "id": "33014623-in-the-eye-of-the-storm-2024",
           "kind": "show",
@@ -448,6 +472,30 @@
           "backdrop": "https://lookmovie2.to/images/p/w300/32ac5879e279bc1b33f2f9b3e45396e2.webp"
         },
         {
+          "id": "13787288-90-day-diaries-2021",
+          "kind": "show",
+          "title": "Season 8, Episode 10",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/78c83279d0f4a299059f24b254306db9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/78c83279d0f4a299059f24b254306db9.webp"
+        },
+        {
+          "id": "10098248-the-food-that-built-america-2019",
+          "kind": "show",
+          "title": "Season 7, Episode 12",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/a0f2b03d7df614fcae5e64973e589f9e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/a0f2b03d7df614fcae5e64973e589f9e.webp"
+        },
+        {
+          "id": "37110450-hazardous-history-with-henry-winkler-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 12",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b2a57a8eddbe2cc4382c83f36105f6e0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b2a57a8eddbe2cc4382c83f36105f6e0.webp"
+        },
+        {
           "id": "8819906-love-island-2019",
           "kind": "show",
           "title": "Season 8, Episode 35",
@@ -484,8 +532,8 @@
           "kind": "show",
           "title": "Season 17, Episode 14",
           "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/2d1229fc07474a594fff5e73a5af8a55.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/2d1229fc07474a594fff5e73a5af8a55.webp"
+          "poster": "https://lookmovie2.to/images/p/w300/7ee7438692ff906eae10e56420f9c448.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/7ee7438692ff906eae10e56420f9c448.webp"
         },
         {
           "id": "26894667-the-piano-2023",
@@ -510,60 +558,20 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/9d0fa905745d470908bfcc79d1d8e485.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/9d0fa905745d470908bfcc79d1d8e485.webp"
-        },
-        {
-          "id": "41293157-though-i-am-an-inept-villainess-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 1",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/d478a7bf6b9a5291e8195e3fda7f5e29.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/d478a7bf6b9a5291e8195e3fda7f5e29.webp"
-        },
-        {
-          "id": "39123043-the-classroom-of-a-black-cat-and-a-witch-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 14",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/8683c09794364ac4ad4e25e863ab6624.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/8683c09794364ac4ad4e25e863ab6624.webp"
-        },
-        {
-          "id": "39112665-the-ogres-bride-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/df46b019724102a8343d742321dac8c1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/df46b019724102a8343d742321dac8c1.webp"
-        },
-        {
-          "id": "43357366-the-apartment-job-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/a36154d194064cda9580632ad049de29.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/a36154d194064cda9580632ad049de29.webp"
-        },
-        {
-          "id": "17736900-lock-upp-2022",
-          "kind": "show",
-          "title": "Season 2, Episode 13",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/1335a923049b8471d9de90e19c4c5026.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/1335a923049b8471d9de90e19c4c5026.webp"
-        },
-        {
-          "id": "41293112-the-worlds-strongest-rearguard-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/260f41d36b1d40f24c96e8f00aa7d87c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/260f41d36b1d40f24c96e8f00aa7d87c.webp"
         }
       ]
     },
     {
       "title": "Action",
       "items": [
+        {
+          "id": "5256640-lenin-2026",
+          "kind": "movie",
+          "title": "Lenin",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/58cbc83d46a2fe145705c33b2996ddcc.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/58cbc83d46a2fe145705c33b2996ddcc.webp"
+        },
         {
           "id": "0042265-the-blue-lamp-1950",
           "kind": "movie",
@@ -715,14 +723,6 @@
           "year": 1993,
           "poster": "https://lookmovie2.to/images/p/w400/85b15b8794a660e0021f62dcaa5fceff.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/85b15b8794a660e0021f62dcaa5fceff.webp"
-        },
-        {
-          "id": "0293662-the-transporter-2002",
-          "kind": "movie",
-          "title": "The Transporter",
-          "year": 2002,
-          "poster": "https://lookmovie2.to/images/p/w400/75845e9b70aced6773c18585df37d61c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/75845e9b70aced6773c18585df37d61c.webp"
         }
       ]
     },
@@ -895,12 +895,28 @@
       "title": "Horror",
       "items": [
         {
+          "id": "1001520-the-last-voyage-of-the-demeter-2023",
+          "kind": "movie",
+          "title": "The Last Voyage of the Demeter",
+          "year": 2023,
+          "poster": "https://lookmovie2.to/images/p/w400/2f1fc503873fb5d58e56b69281f61c97.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2f1fc503873fb5d58e56b69281f61c97.webp"
+        },
+        {
+          "id": "13679286-black-forest-0",
+          "kind": "movie",
+          "title": "Black Forest",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/3eeb7fa27aecbebfa4416dc5fb27d4ae.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3eeb7fa27aecbebfa4416dc5fb27d4ae.webp"
+        },
+        {
           "id": "0073195-jaws-1975",
           "kind": "movie",
           "title": "Jaws",
           "year": 1975,
-          "poster": "https://lookmovie2.to/images/p/w400/4c202e2fdd0f91b139c36897fc8eaec4.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/4c202e2fdd0f91b139c36897fc8eaec4.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/2341b914b75e7f90a2e03ee1bbb50cf9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2341b914b75e7f90a2e03ee1bbb50cf9.webp"
         },
         {
           "id": "38226226-camp-2026",
@@ -1037,22 +1053,6 @@
           "year": 1981,
           "poster": "https://lookmovie2.to/images/p/w400/76f28b07b38141d0c1dd2eca02a43832.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/76f28b07b38141d0c1dd2eca02a43832.webp"
-        },
-        {
-          "id": "0087363-gremlins-1984",
-          "kind": "movie",
-          "title": "Gremlins",
-          "year": 1984,
-          "poster": "https://lookmovie2.to/images/p/w400/1c42f1b10f831e2957b1865d6afe56cd.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1c42f1b10f831e2957b1865d6afe56cd.webp"
-        },
-        {
-          "id": "0088993-day-of-the-dead-1985",
-          "kind": "movie",
-          "title": "Day of the Dead",
-          "year": 1985,
-          "poster": "https://lookmovie2.to/images/p/w400/76237bae1dbd43893d20de908749e159.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/76237bae1dbd43893d20de908749e159.webp"
         }
       ]
     },

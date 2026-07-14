@@ -158,6 +158,14 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/046bbacd76fec6c55444114aa528d8dd.webp"
         },
         {
+          "id": "31189814-fuze-2026",
+          "kind": "movie",
+          "title": "Fuze",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/0baefab8d795d7fffe62de6be172401e.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/403b04b132ac18f61f6462cbd7bbe288.webp"
+        },
+        {
           "id": "32357218-shelter-2026",
           "kind": "movie",
           "title": "Shelter",
@@ -220,20 +228,44 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/039d29def0bae9bc4af2780dbaa4f69e.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/7eaae7c6fca511ad92be8e46e8e24c40.webp"
-        },
-        {
-          "id": "32499466-finding-emily-2026",
-          "kind": "movie",
-          "title": "Finding Emily",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/45142b6099f1e81f8c65b55047b00970.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/134195a2c4be8ca21985f0c5b78262b6.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "34459219-the-breadwinner-2026",
+          "kind": "movie",
+          "title": "The Breadwinner",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/2d9bbed27f9af7c24b0062fd9122f15b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2d9bbed27f9af7c24b0062fd9122f15b.webp"
+        },
+        {
+          "id": "0067610-pretty-maids-all-in-a-row-1971",
+          "kind": "movie",
+          "title": "Pretty Maids All in a Row",
+          "year": 1971,
+          "poster": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp"
+        },
+        {
+          "id": "13651628-belle-2021",
+          "kind": "movie",
+          "title": "Belle",
+          "year": 2021,
+          "poster": "https://lookmovie2.to/images/p/w400/6706881c7e18e88cf3c8715dd9b35030.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6706881c7e18e88cf3c8715dd9b35030.webp"
+        },
+        {
+          "id": "0042851-pool-of-london-1951",
+          "kind": "movie",
+          "title": "Pool of London",
+          "year": 1951,
+          "poster": "https://lookmovie2.to/images/p/w400/65ef09ad009af999305daf43a53cecc9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/65ef09ad009af999305daf43a53cecc9.webp"
+        },
         {
           "id": "26657236-backrooms-2026",
           "kind": "movie",
@@ -361,38 +393,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/d0ef60ac5a74d02e56a585baf6dbf65a.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/d0ef60ac5a74d02e56a585baf6dbf65a.webp"
-        },
-        {
-          "id": "31415482-duse-2025",
-          "kind": "movie",
-          "title": "Duse",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/f0403bb634a9e2084cd2d787040a8ef0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f0403bb634a9e2084cd2d787040a8ef0.webp"
-        },
-        {
-          "id": "0068664-group-marriage-1973",
-          "kind": "movie",
-          "title": "Group Marriage",
-          "year": 1973,
-          "poster": "https://lookmovie2.to/images/p/w400/4aa03d3bddddc27da7c837ad43674ab0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/4aa03d3bddddc27da7c837ad43674ab0.webp"
-        },
-        {
-          "id": "1244659-extraordinary-measures-2010",
-          "kind": "movie",
-          "title": "Extraordinary Measures",
-          "year": 2010,
-          "poster": "https://lookmovie2.to/images/p/w400/5d9230c38a549e7eed0af327181fc299.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/5d9230c38a549e7eed0af327181fc299.webp"
-        },
-        {
-          "id": "39093540-oldest-and-newest-places-on-earth-2025",
-          "kind": "movie",
-          "title": "Oldest and Newest Places on Earth",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/7efdab301ca4315eee5821c1a7d51815.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7efdab301ca4315eee5821c1a7d51815.webp"
         }
       ]
     },
@@ -430,6 +430,46 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/557014b017b350ce28c11c8756d3ddbb.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/557014b017b350ce28c11c8756d3ddbb.webp"
+        },
+        {
+          "id": "37158547-dover-247-britains-busiest-port-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/bb4476075ef3155f0d44e5983dd4d4e0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/bb4476075ef3155f0d44e5983dd4d4e0.webp"
+        },
+        {
+          "id": "7414406-all-american-2018",
+          "kind": "show",
+          "title": "Season 8, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b62e8ada05de658d11bb6937acebd7ec.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b62e8ada05de658d11bb6937acebd7ec.webp"
+        },
+        {
+          "id": "40385200-world-war-ii-with-tom-hanks-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 16",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/8462944cf334b8fc6eab23290b277cba.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/8462944cf334b8fc6eab23290b277cba.webp"
+        },
+        {
+          "id": "40756634-tom-scott-england-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 17",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/42279bc78e8dc33781f808e8ffe74971.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/42279bc78e8dc33781f808e8ffe74971.webp"
+        },
+        {
+          "id": "5665418-below-deck-mediterranean-2016",
+          "kind": "show",
+          "title": "Season 11, Episode 6",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/ed6e04f92865ed2938e8eb309c45d150.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/ed6e04f92865ed2938e8eb309c45d150.webp"
         },
         {
           "id": "11011104-game-changer-2019",
@@ -502,46 +542,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/a8fd1414ac8e29c97347c2620a2ee571.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/a8fd1414ac8e29c97347c2620a2ee571.webp"
-        },
-        {
-          "id": "14476236-skeleton-knight-in-another-world-2022",
-          "kind": "show",
-          "title": "Season 2, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/b4f8b3d5d381d536a94f2ba7e5eadebf.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/b4f8b3d5d381d536a94f2ba7e5eadebf.webp"
-        },
-        {
-          "id": "39551287-a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/254270592c3ce18a041a036d8f979c01.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/254270592c3ce18a041a036d8f979c01.webp"
-        },
-        {
-          "id": "39304754-love-unseen-beneath-the-clear-night-sky-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/3f7976e1e3faddcd4151441b7cd6db17.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/3f7976e1e3faddcd4151441b7cd6db17.webp"
-        },
-        {
-          "id": "41278615-oh-boy-was-i-wrong-about-her-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/84c496a01d54aeddf1302dbe6d28d501.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/84c496a01d54aeddf1302dbe6d28d501.webp"
-        },
-        {
-          "id": "17736900-lock-upp-2022",
-          "kind": "show",
-          "title": "Season 2, Episode 14",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/1335a923049b8471d9de90e19c4c5026.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/1335a923049b8471d9de90e19c4c5026.webp"
         }
       ]
     },
@@ -714,6 +714,22 @@
       "title": "Comedy",
       "items": [
         {
+          "id": "34459219-the-breadwinner-2026",
+          "kind": "movie",
+          "title": "The Breadwinner",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/2d9bbed27f9af7c24b0062fd9122f15b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2d9bbed27f9af7c24b0062fd9122f15b.webp"
+        },
+        {
+          "id": "0067610-pretty-maids-all-in-a-row-1971",
+          "kind": "movie",
+          "title": "Pretty Maids All in a Row",
+          "year": 1971,
+          "poster": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e14aee1d3ecaad953cbfcaf183147818.webp"
+        },
+        {
           "id": "36744380-orange-justice-2026",
           "kind": "movie",
           "title": "Orange Justice",
@@ -856,22 +872,6 @@
           "year": 2015,
           "poster": "https://lookmovie2.to/images/p/w400/3938b07f5d56313e15b9ff0ecb488a6e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/3938b07f5d56313e15b9ff0ecb488a6e.webp"
-        },
-        {
-          "id": "0324213-terror-toons-2002",
-          "kind": "movie",
-          "title": "Terror Toons",
-          "year": 2002,
-          "poster": "https://lookmovie2.to/images/p/w400/07759787f58f72205a8bf11e7780d7a6.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/07759787f58f72205a8bf11e7780d7a6.webp"
-        },
-        {
-          "id": "0059419-le-majordome-1965",
-          "kind": "movie",
-          "title": "Le Majordome",
-          "year": 1965,
-          "poster": "https://lookmovie2.to/images/p/w400/14147205cd5ad73fab0002476499a0ee.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/14147205cd5ad73fab0002476499a0ee.webp"
         }
       ]
     },
@@ -1044,6 +1044,14 @@
       "title": "Sci-Fi",
       "items": [
         {
+          "id": "13651628-belle-2021",
+          "kind": "movie",
+          "title": "Belle",
+          "year": 2021,
+          "poster": "https://lookmovie2.to/images/p/w400/6706881c7e18e88cf3c8715dd9b35030.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6706881c7e18e88cf3c8715dd9b35030.webp"
+        },
+        {
           "id": "26657236-backrooms-2026",
           "kind": "movie",
           "title": "Backrooms",
@@ -1194,14 +1202,6 @@
           "year": 2018,
           "poster": "https://lookmovie2.to/images/p/w400/3b27a50300c77ef28149c985d976a4a8.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/3b27a50300c77ef28149c985d976a4a8.webp"
-        },
-        {
-          "id": "1373138-the-first-man-1996",
-          "kind": "movie",
-          "title": "The First Man",
-          "year": 1996,
-          "poster": "https://lookmovie2.to/images/p/w400/afeb7a3d966074faf2a4b31dbccbe5a8.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/afeb7a3d966074faf2a4b31dbccbe5a8.webp"
         }
       ]
     },

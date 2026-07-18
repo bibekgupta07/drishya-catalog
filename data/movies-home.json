@@ -235,6 +235,46 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "0120663-eyes-wide-shut-1999",
+          "kind": "movie",
+          "title": "Eyes Wide Shut",
+          "year": 1999,
+          "poster": "https://lookmovie2.to/images/p/w400/64ab2f04ad56f232f0793e5b61aa76a4.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/64ab2f04ad56f232f0793e5b61aa76a4.webp"
+        },
+        {
+          "id": "0875034-nine-2009",
+          "kind": "movie",
+          "title": "Nine",
+          "year": 2009,
+          "poster": "https://lookmovie2.to/images/p/w400/c64159c58647699bd23f05d066ac6040.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c64159c58647699bd23f05d066ac6040.webp"
+        },
+        {
+          "id": "1857913-the-sorcerer-and-the-white-snake-2011",
+          "kind": "movie",
+          "title": "The Sorcerer and the White Snake",
+          "year": 2011,
+          "poster": "https://lookmovie2.to/images/p/w400/a10a54a6ca05b44b6d678e45a8207e09.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a10a54a6ca05b44b6d678e45a8207e09.webp"
+        },
+        {
+          "id": "24225606-metro-in-dino-2025",
+          "kind": "movie",
+          "title": "Metro... In Dino",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/1ee328936cc63bf2206d61611f434a96.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/1ee328936cc63bf2206d61611f434a96.webp"
+        },
+        {
+          "id": "30177506-the-behemoth-2025",
+          "kind": "movie",
+          "title": "The Behemoth",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/6031f9c1c3e8b7dad8f70c1c8a1db4a9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6031f9c1c3e8b7dad8f70c1c8a1db4a9.webp"
+        },
+        {
           "id": "39028066-the-last-flight-2026",
           "kind": "movie",
           "title": "The Last Flight",
@@ -353,46 +393,6 @@
           "year": 1933,
           "poster": "https://lookmovie2.to/images/p/w400/08fec8caa6ea62db7a83b1c6968ddc1c.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/08fec8caa6ea62db7a83b1c6968ddc1c.webp"
-        },
-        {
-          "id": "0466646-adal-kz-1976",
-          "kind": "movie",
-          "title": "Adalı Kız",
-          "year": 1976,
-          "poster": "https://lookmovie2.to/images/p/w400/8aadc446b740e6560ab0f9faed8ffea6.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8aadc446b740e6560ab0f9faed8ffea6.webp"
-        },
-        {
-          "id": "0278286-alyorum-1973",
-          "kind": "movie",
-          "title": "Ağlıyorum",
-          "year": 1973,
-          "poster": "https://lookmovie2.to/images/p/w400/14faf521d47df64298fe80d4f5928c3a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/14faf521d47df64298fe80d4f5928c3a.webp"
-        },
-        {
-          "id": "4158834-8-seconds-2015",
-          "kind": "movie",
-          "title": "8 Seconds",
-          "year": 2015,
-          "poster": "https://lookmovie2.to/images/p/w400/265b0b0b06eaba02601c7d0364fbb5ab.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/265b0b0b06eaba02601c7d0364fbb5ab.webp"
-        },
-        {
-          "id": "0063876-boy-1969",
-          "kind": "movie",
-          "title": "Boy",
-          "year": 1969,
-          "poster": "https://lookmovie2.to/images/p/w400/1a33dc35710e5be3dd5b69e3c087fe04.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1a33dc35710e5be3dd5b69e3c087fe04.webp"
-        },
-        {
-          "id": "0279633-the-legend-of-mount-agr-1975",
-          "kind": "movie",
-          "title": "The Legend of Mount Agrı",
-          "year": 1975,
-          "poster": "https://lookmovie2.to/images/p/w400/390a57c744f40d866cdb1e46c91f3f50.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/390a57c744f40d866cdb1e46c91f3f50.webp"
         }
       ]
     },
@@ -516,6 +516,14 @@
     {
       "title": "Action",
       "items": [
+        {
+          "id": "1857913-the-sorcerer-and-the-white-snake-2011",
+          "kind": "movie",
+          "title": "The Sorcerer and the White Snake",
+          "year": 2011,
+          "poster": "https://lookmovie2.to/images/p/w400/a10a54a6ca05b44b6d678e45a8207e09.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a10a54a6ca05b44b6d678e45a8207e09.webp"
+        },
         {
           "id": "3544008-boy-7-2015",
           "kind": "movie",
@@ -667,20 +675,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/f4ccf1c3055bb79cd1b397c182b20a69.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/f4ccf1c3055bb79cd1b397c182b20a69.webp"
-        },
-        {
-          "id": "0770806-the-contractor-2007",
-          "kind": "movie",
-          "title": "The Contractor",
-          "year": 2007,
-          "poster": "https://lookmovie2.to/images/p/w400/088efbf46aee53760f5bbc2ac1764cef.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/088efbf46aee53760f5bbc2ac1764cef.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "24225606-metro-in-dino-2025",
+          "kind": "movie",
+          "title": "Metro... In Dino",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/1ee328936cc63bf2206d61611f434a96.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/1ee328936cc63bf2206d61611f434a96.webp"
+        },
         {
           "id": "0182731-arm-balm-peteim-1970",
           "kind": "movie",
@@ -832,20 +840,20 @@
           "year": 1975,
           "poster": "https://lookmovie2.to/images/p/w400/edcb931b0d52dbbb8032867d83cafd4e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/edcb931b0d52dbbb8032867d83cafd4e.webp"
-        },
-        {
-          "id": "8028526-boonie-bears-the-big-shrink-2018",
-          "kind": "movie",
-          "title": "Boonie Bears: The Big Shrink",
-          "year": 2018,
-          "poster": "https://lookmovie2.to/images/p/w400/7defc0c69ea52f56ab2dc8ff73bb0292.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7defc0c69ea52f56ab2dc8ff73bb0292.webp"
         }
       ]
     },
     {
       "title": "Horror",
       "items": [
+        {
+          "id": "30177506-the-behemoth-2025",
+          "kind": "movie",
+          "title": "The Behemoth",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/6031f9c1c3e8b7dad8f70c1c8a1db4a9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6031f9c1c3e8b7dad8f70c1c8a1db4a9.webp"
+        },
         {
           "id": "28800662-parvulos-children-of-the-apocalypse-2024",
           "kind": "movie",
@@ -997,14 +1005,6 @@
           "year": 2023,
           "poster": "https://lookmovie2.to/images/p/w400/ccfc2ce57b28f3851ded12574745363e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/ccfc2ce57b28f3851ded12574745363e.webp"
-        },
-        {
-          "id": "37371014-sunset-strip-killers-2026",
-          "kind": "movie",
-          "title": "Sunset Strip Killers",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/26cf958740aec0d19f5b640114418814.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/26cf958740aec0d19f5b640114418814.webp"
         }
       ]
     },
@@ -1177,6 +1177,14 @@
       "title": "Drama",
       "items": [
         {
+          "id": "14688458-silo-2023",
+          "kind": "show",
+          "title": "Silo",
+          "year": 2023,
+          "poster": "https://lookmovie2.to/images/p/w400/b054d23880e03f9a38c44a7437b87010.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b054d23880e03f9a38c44a7437b87010.webp"
+        },
+        {
           "id": "2674484-24-hours-in-ae-2011",
           "kind": "show",
           "title": "24 Hours in A&E",
@@ -1191,6 +1199,14 @@
           "year": 1992,
           "poster": "https://lookmovie2.to/images/p/w400/0f91ab293854b2e7e6b71f952602aae2.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/0f91ab293854b2e7e6b71f952602aae2.webp"
+        },
+        {
+          "id": "28022382-soul-land-2-the-peerless-tang-clan-2023",
+          "kind": "show",
+          "title": "Soul Land 2: The Peerless Tang Clan",
+          "year": 2023,
+          "poster": "https://lookmovie2.to/images/p/w400/399c1c3a4cfa8a2956ec09dd777fe417.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/399c1c3a4cfa8a2956ec09dd777fe417.webp"
         },
         {
           "id": "38273912-botan-kamiina-fully-blossoms-when-drunk-2026",
@@ -1239,14 +1255,6 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/73bab3f177102a09f4817f58e2567d17.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/73bab3f177102a09f4817f58e2567d17.webp"
-        },
-        {
-          "id": "28022382-soul-land-2-the-peerless-tang-clan-2023",
-          "kind": "show",
-          "title": "Soul Land 2: The Peerless Tang Clan",
-          "year": 2023,
-          "poster": "https://lookmovie2.to/images/p/w400/399c1c3a4cfa8a2956ec09dd777fe417.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/399c1c3a4cfa8a2956ec09dd777fe417.webp"
         },
         {
           "id": "39123061-the-ramparts-of-ice-2026",
@@ -1327,14 +1335,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/611ed02e12d4440818344cae5d7d008e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/611ed02e12d4440818344cae5d7d008e.webp"
-        },
-        {
-          "id": "33253070-mia-2026",
-          "kind": "show",
-          "title": "M.I.A.",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/70ad2ac505311f7caaa9347e1b7749e0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/70ad2ac505311f7caaa9347e1b7749e0.webp"
         }
       ]
     },

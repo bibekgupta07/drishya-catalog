@@ -41,14 +41,6 @@
       "backdrop": "https://lookmovie2.to/images/b/w1280/4b54e6cb5b0b77cfcd1ffdeba7908e45.webp"
     },
     {
-      "id": "27047903-scream-7-2026",
-      "kind": "movie",
-      "title": "Scream 7",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/62f027ea82992c6ebbcd80da222211b2.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/1b68b2c58e34f0e91c550808b8fdee69.webp"
-    },
-    {
       "id": "38128726-stop-that-train-2026",
       "kind": "movie",
       "title": "Stop! That! Train!",
@@ -63,20 +55,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/8e089862574f994daf4692e1d63cb45c.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/ce02b8c7ae7514b8c56ab733fe32b2f0.webp"
+    },
+    {
+      "id": "34459219-the-breadwinner-2026",
+      "kind": "movie",
+      "title": "The Breadwinner",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/2d9bbed27f9af7c24b0062fd9122f15b.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/577cbafca186ff5bf3db2e2348f3cd08.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
-        {
-          "id": "34459219-the-breadwinner-2026",
-          "kind": "movie",
-          "title": "The Breadwinner",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/2d9bbed27f9af7c24b0062fd9122f15b.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/577cbafca186ff5bf3db2e2348f3cd08.webp"
-        },
         {
           "id": "26657236-backrooms-2026",
           "kind": "movie",
@@ -228,12 +220,28 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/3aaa2107e2237f6612f0cc7f55cd3de6.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/848e7d3f2d890ccd2e2006e715162758.webp"
+        },
+        {
+          "id": "32890033-minions-monsters-2026",
+          "kind": "movie",
+          "title": "Minions & Monsters",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/b73b2ed5e7e7f841d0eaa3a7babb40c1.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/4f156c5b15059299931bc081d7003370.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "0061391-bedazzled-1967",
+          "kind": "movie",
+          "title": "Bedazzled",
+          "year": 1967,
+          "poster": "https://lookmovie2.to/images/p/w400/c985d9c017c8caffdfabf1deee745cfd.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c985d9c017c8caffdfabf1deee745cfd.webp"
+        },
         {
           "id": "8050610-lodging-2018",
           "kind": "movie",
@@ -385,20 +393,28 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/a7740741a2a66dbc440655e8695d57f6.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/a7740741a2a66dbc440655e8695d57f6.webp"
-        },
-        {
-          "id": "6380520-dhuruvangal-pathinaaru-2016",
-          "kind": "movie",
-          "title": "Dhuruvangal Pathinaaru",
-          "year": 2016,
-          "poster": "https://lookmovie2.to/images/p/w400/8373ba393209b59b3d23809ee5ae7736.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8373ba393209b59b3d23809ee5ae7736.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "42963873-iron-wok-jan-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/f63381e88cff4db0ddadd2323a87732d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/f63381e88cff4db0ddadd2323a87732d.webp"
+        },
+        {
+          "id": "43641418-the-vampire-lestat-after-dark-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/913a88faa18e9588be083e81cea45e0f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/913a88faa18e9588be083e81cea45e0f.webp"
+        },
         {
           "id": "37499375-digimon-beatbreak-2025",
           "kind": "show",
@@ -480,6 +496,22 @@
           "backdrop": "https://lookmovie2.to/images/p/w300/dd8443e783cb30e2aae642b41a9319f6.webp"
         },
         {
+          "id": "20883058-on-patrol-live-2022",
+          "kind": "show",
+          "title": "Season 5, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/71a5fc09a89d67b79eff1c717ff32fbe.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/71a5fc09a89d67b79eff1c717ff32fbe.webp"
+        },
+        {
+          "id": "1785123-storage-wars-2010",
+          "kind": "show",
+          "title": "Season 18, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/742c36a9b959093a2666023dc2975902.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/742c36a9b959093a2666023dc2975902.webp"
+        },
+        {
           "id": "29054468-alan-carrs-picture-slam-2023",
           "kind": "show",
           "title": "Season 4, Episode 1",
@@ -526,38 +558,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/cacd715d966be5962ca8f547f7b80a73.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/cacd715d966be5962ca8f547f7b80a73.webp"
-        },
-        {
-          "id": "41293320-sorry-about-my-little-brothers-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/895f7eef23f57a2a3a244b00d8c52dad.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/895f7eef23f57a2a3a244b00d8c52dad.webp"
-        },
-        {
-          "id": "41278620-the-cat-and-the-dragon-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/b186319ea2cd95edb5cad7bf1e0d9534.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/b186319ea2cd95edb5cad7bf1e0d9534.webp"
-        },
-        {
-          "id": "0096555-casualty-1986",
-          "kind": "show",
-          "title": "Season 46, Episode 11",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/2d45c176a71542bd774798ec5ddf4601.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/2d45c176a71542bd774798ec5ddf4601.webp"
-        },
-        {
-          "id": "0058796-days-of-our-lives-1965",
-          "kind": "show",
-          "title": "Season 61, Episode 235",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/74c30c3dd8e0d5cc407612ea3f00a073.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/74c30c3dd8e0d5cc407612ea3f00a073.webp"
         }
       ]
     },
@@ -730,6 +730,14 @@
       "title": "Comedy",
       "items": [
         {
+          "id": "0061391-bedazzled-1967",
+          "kind": "movie",
+          "title": "Bedazzled",
+          "year": 1967,
+          "poster": "https://lookmovie2.to/images/p/w400/c985d9c017c8caffdfabf1deee745cfd.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c985d9c017c8caffdfabf1deee745cfd.webp"
+        },
+        {
           "id": "0172156-bad-boys-ii-2003",
           "kind": "movie",
           "title": "Bad Boys II",
@@ -880,14 +888,6 @@
           "year": 1976,
           "poster": "https://lookmovie2.to/images/p/w400/8aadc446b740e6560ab0f9faed8ffea6.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/8aadc446b740e6560ab0f9faed8ffea6.webp"
-        },
-        {
-          "id": "6196406-boy-band-2019",
-          "kind": "movie",
-          "title": "Boy Band",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/cd7cd14f55713302b58b00e175c80098.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/cd7cd14f55713302b58b00e175c80098.webp"
         }
       ]
     },
@@ -1225,6 +1225,22 @@
       "title": "Drama",
       "items": [
         {
+          "id": "41793322-the-loyalty-game-2026",
+          "kind": "show",
+          "title": "The Loyalty Game",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/2e48bd422c0fa28b66c6b213f113b06e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2e48bd422c0fa28b66c6b213f113b06e.webp"
+        },
+        {
+          "id": "0096555-casualty-1986",
+          "kind": "show",
+          "title": "Casualty",
+          "year": 1986,
+          "poster": "https://lookmovie2.to/images/p/w400/667e1cd357d35fa690757fc05a696207.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/667e1cd357d35fa690757fc05a696207.webp"
+        },
+        {
           "id": "31849235-the-westies-2026",
           "kind": "show",
           "title": "The Westies",
@@ -1305,20 +1321,20 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/611ed02e12d4440818344cae5d7d008e.webp"
         },
         {
-          "id": "41278592-red-river-2026",
-          "kind": "show",
-          "title": "Red River",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/e5f0025a14d583c2bfda595d5d7f6cef.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/e5f0025a14d583c2bfda595d5d7f6cef.webp"
-        },
-        {
           "id": "41962163-fifties-professionals-2026",
           "kind": "show",
           "title": "Fifties Professionals",
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/c7b9bbc052ad6bc50452a0ff3e933de9.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/c7b9bbc052ad6bc50452a0ff3e933de9.webp"
+        },
+        {
+          "id": "41278592-red-river-2026",
+          "kind": "show",
+          "title": "Red River",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/e5f0025a14d583c2bfda595d5d7f6cef.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e5f0025a14d583c2bfda595d5d7f6cef.webp"
         },
         {
           "id": "40203669-flower-boy-2026",
@@ -1367,28 +1383,36 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/19664b796804fcbd152d3b88244155dd.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/19664b796804fcbd152d3b88244155dd.webp"
-        },
-        {
-          "id": "9730868-grisaia-phantom-trigger-2019",
-          "kind": "show",
-          "title": "Grisaia: Phantom Trigger",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/579399289562c6f7d4f95893e45279c3.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/579399289562c6f7d4f95893e45279c3.webp"
-        },
-        {
-          "id": "27722691-the-lesbian-homie-2023",
-          "kind": "show",
-          "title": "The Lesbian Homie",
-          "year": 2023,
-          "poster": "",
-          "backdrop": ""
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "2723810-snapped-killer-couples-2013",
+          "kind": "show",
+          "title": "Snapped: Killer Couples",
+          "year": 2013,
+          "poster": "https://lookmovie2.to/images/p/w400/64de3973d745c0d9c061de33b2bc4b0b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/64de3973d745c0d9c061de33b2bc4b0b.webp"
+        },
+        {
+          "id": "36933743-the-killer-among-us-2026",
+          "kind": "show",
+          "title": "The Killer Among Us",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/a6f00f314173d49d6b71f49b3d8f622e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a6f00f314173d49d6b71f49b3d8f622e.webp"
+        },
+        {
+          "id": "20883058-on-patrol-live-2022",
+          "kind": "show",
+          "title": "On Patrol: Live",
+          "year": 2022,
+          "poster": "https://lookmovie2.to/images/p/w400/71a5fc09a89d67b79eff1c717ff32fbe.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/71a5fc09a89d67b79eff1c717ff32fbe.webp"
+        },
         {
           "id": "31849235-the-westies-2026",
           "kind": "show",
@@ -1502,28 +1526,12 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/81f73808898d3c8dcc3bffaed2eca51a.webp"
         },
         {
-          "id": "36933743-the-killer-among-us-2026",
-          "kind": "show",
-          "title": "The Killer Among Us",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/a6f00f314173d49d6b71f49b3d8f622e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/a6f00f314173d49d6b71f49b3d8f622e.webp"
-        },
-        {
           "id": "0103396-dateline-nbc-1992",
           "kind": "show",
           "title": "Dateline",
           "year": 1992,
           "poster": "https://lookmovie2.to/images/p/w400/825f5870c7ac2e4a332de3d4ba02aa62.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/825f5870c7ac2e4a332de3d4ba02aa62.webp"
-        },
-        {
-          "id": "20883058-on-patrol-live-2022",
-          "kind": "show",
-          "title": "On Patrol: Live",
-          "year": 2022,
-          "poster": "https://lookmovie2.to/images/p/w400/71a5fc09a89d67b79eff1c717ff32fbe.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/71a5fc09a89d67b79eff1c717ff32fbe.webp"
         },
         {
           "id": "33253070-mia-2026",
@@ -1540,14 +1548,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/d734df9f60447afe9387a471c30194d6.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/d734df9f60447afe9387a471c30194d6.webp"
-        },
-        {
-          "id": "37745969-squatters-2025",
-          "kind": "show",
-          "title": "Squatters",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/a4851537daacc74907c28fc87be3bc9a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/a4851537daacc74907c28fc87be3bc9a.webp"
         }
       ]
     }

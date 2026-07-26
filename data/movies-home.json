@@ -235,6 +235,30 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "1681370-the-algerian-2014",
+          "kind": "movie",
+          "title": "The Algerian",
+          "year": 2014,
+          "poster": "https://lookmovie2.to/images/p/w400/8404f0be135be0a7b15abe03639f4087.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8404f0be135be0a7b15abe03639f4087.webp"
+        },
+        {
+          "id": "43439262-booking-2026",
+          "kind": "movie",
+          "title": "Booking",
+          "year": 2026,
+          "poster": "",
+          "backdrop": ""
+        },
+        {
+          "id": "0306047-scary-movie-3-2003",
+          "kind": "movie",
+          "title": "Scary Movie 3",
+          "year": 2003,
+          "poster": "https://lookmovie2.to/images/p/w400/5de8bde434aa39c6b716d275ef53221d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5de8bde434aa39c6b716d275ef53221d.webp"
+        },
+        {
           "id": "12856788-dangerous-2022",
           "kind": "movie",
           "title": "Dangerous",
@@ -369,36 +393,44 @@
           "year": 2013,
           "poster": "https://lookmovie2.to/images/p/w400/75de02936020ec8d0e55e0b7427446fb.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/75de02936020ec8d0e55e0b7427446fb.webp"
-        },
-        {
-          "id": "39385320-mutluyuz-muij-2026",
-          "kind": "movie",
-          "title": "Mutluyuz Mu?",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/502aa22ab74f8900dfe6506e66e55c51.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/502aa22ab74f8900dfe6506e66e55c51.webp"
-        },
-        {
-          "id": "33737583-euphoria-2026",
-          "kind": "movie",
-          "title": "Euphoria",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/f47b3cd0c84aab1ff1978a8cc5858d4e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f47b3cd0c84aab1ff1978a8cc5858d4e.webp"
-        },
-        {
-          "id": "34385135-colony-2026",
-          "kind": "movie",
-          "title": "Colony",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/3d69e7569d95489cdaccbba344d8fa26.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3d69e7569d95489cdaccbba344d8fa26.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "30495330-the-rapture-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 1",
+          "year": null,
+          "poster": "",
+          "backdrop": ""
+        },
+        {
+          "id": "37499375-digimon-beatbreak-2025",
+          "kind": "show",
+          "title": "Season 1, Episode 40",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/8f2994885f5674e23775905029fe1c4e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/8f2994885f5674e23775905029fe1c4e.webp"
+        },
+        {
+          "id": "31849235-the-westies-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/268faa691706aeb8e81a393bd35e6f7b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/268faa691706aeb8e81a393bd35e6f7b.webp"
+        },
+        {
+          "id": "14681924-my-adventures-with-superman-2023",
+          "kind": "show",
+          "title": "Season 3, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/50800c0de3c5235eb7b234d4d318bba3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/50800c0de3c5235eb7b234d4d318bba3.webp"
+        },
         {
           "id": "41047955-grow-up-show-sunflower-circus-2026",
           "kind": "show",
@@ -472,6 +504,14 @@
           "backdrop": "https://lookmovie2.to/images/p/w300/dd8443e783cb30e2aae642b41a9319f6.webp"
         },
         {
+          "id": "29054468-alan-carrs-picture-slam-2023",
+          "kind": "show",
+          "title": "Season 4, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/43f6b6471e31dee4f60d9768e564c672.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/43f6b6471e31dee4f60d9768e564c672.webp"
+        },
+        {
           "id": "4770018-love-island-2015",
           "kind": "show",
           "title": "Season 13, Episode 55",
@@ -518,52 +558,20 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/906c9901e8d871c6ea1698df18eb886c.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/906c9901e8d871c6ea1698df18eb886c.webp"
-        },
-        {
-          "id": "42127457-agent-kim-reactivated-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 10",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/dc515c1627fab845ba86d744a4c189c4.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/dc515c1627fab845ba86d744a4c189c4.webp"
-        },
-        {
-          "id": "11034066-welcome-to-demon-school-iruma-kun-2019",
-          "kind": "show",
-          "title": "Season 4, Episode 17",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/5e610c85908ac809694ad48e82b973d0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/5e610c85908ac809694ad48e82b973d0.webp"
-        },
-        {
-          "id": "41293320-sorry-about-my-little-brothers-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/895f7eef23f57a2a3a244b00d8c52dad.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/895f7eef23f57a2a3a244b00d8c52dad.webp"
-        },
-        {
-          "id": "41278620-the-cat-and-the-dragon-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/5daa73dbf5cecf0420f3f34371d41992.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/5daa73dbf5cecf0420f3f34371d41992.webp"
-        },
-        {
-          "id": "0096555-casualty-1986",
-          "kind": "show",
-          "title": "Season 46, Episode 12",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/2d45c176a71542bd774798ec5ddf4601.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/2d45c176a71542bd774798ec5ddf4601.webp"
         }
       ]
     },
     {
       "title": "Action",
       "items": [
+        {
+          "id": "1681370-the-algerian-2014",
+          "kind": "movie",
+          "title": "The Algerian",
+          "year": 2014,
+          "poster": "https://lookmovie2.to/images/p/w400/8404f0be135be0a7b15abe03639f4087.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8404f0be135be0a7b15abe03639f4087.webp"
+        },
         {
           "id": "12856788-dangerous-2022",
           "kind": "movie",
@@ -715,20 +723,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/becbd30a68a1541a01f59cf7e2509755.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/becbd30a68a1541a01f59cf7e2509755.webp"
-        },
-        {
-          "id": "9283920-the-rescue-2020",
-          "kind": "movie",
-          "title": "The Rescue",
-          "year": 2020,
-          "poster": "https://lookmovie2.to/images/p/w400/33a1df7e080e74cd87d9f61538c2a438.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/33a1df7e080e74cd87d9f61538c2a438.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "0306047-scary-movie-3-2003",
+          "kind": "movie",
+          "title": "Scary Movie 3",
+          "year": 2003,
+          "poster": "https://lookmovie2.to/images/p/w400/5de8bde434aa39c6b716d275ef53221d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5de8bde434aa39c6b716d275ef53221d.webp"
+        },
         {
           "id": "2170593-st-vincent-2014",
           "kind": "movie",
@@ -880,14 +888,6 @@
           "year": 2016,
           "poster": "https://lookmovie2.to/images/p/w400/c9d254bdf3ab9546ff292adf57b51376.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/c9d254bdf3ab9546ff292adf57b51376.webp"
-        },
-        {
-          "id": "2206844-dearly-departed-2013",
-          "kind": "movie",
-          "title": "Dearly Departed",
-          "year": 2013,
-          "poster": "",
-          "backdrop": ""
         }
       ]
     },
@@ -1225,6 +1225,14 @@
       "title": "Drama",
       "items": [
         {
+          "id": "31849235-the-westies-2026",
+          "kind": "show",
+          "title": "The Westies",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/268faa691706aeb8e81a393bd35e6f7b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/268faa691706aeb8e81a393bd35e6f7b.webp"
+        },
+        {
           "id": "34688214-pompeii-out-of-time-with-tom-hiddleston-2026",
           "kind": "show",
           "title": "Pompeii: Out of Time with Tom Hiddleston",
@@ -1375,20 +1383,20 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/93f93c673eb64f81e926bbe1d96deadc.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/93f93c673eb64f81e926bbe1d96deadc.webp"
-        },
-        {
-          "id": "10192576-one-spring-night-2019",
-          "kind": "show",
-          "title": "One Spring Night",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/b0c91f7dc566698a18a88cf4cc823026.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/b0c91f7dc566698a18a88cf4cc823026.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "31849235-the-westies-2026",
+          "kind": "show",
+          "title": "The Westies",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/268faa691706aeb8e81a393bd35e6f7b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/268faa691706aeb8e81a393bd35e6f7b.webp"
+        },
         {
           "id": "20883058-on-patrol-live-2022",
           "kind": "show",
@@ -1540,14 +1548,6 @@
           "year": 1992,
           "poster": "https://lookmovie2.to/images/p/w400/825f5870c7ac2e4a332de3d4ba02aa62.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/825f5870c7ac2e4a332de3d4ba02aa62.webp"
-        },
-        {
-          "id": "39399104-the-real-wolf-of-wall-street-2026",
-          "kind": "show",
-          "title": "The Real Wolf of Wall Street",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/f704d555f98a227f998bbd5aefb2947c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f704d555f98a227f998bbd5aefb2947c.webp"
         }
       ]
     }

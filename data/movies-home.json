@@ -235,6 +235,46 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "0062281-smashing-time-1967",
+          "kind": "movie",
+          "title": "Smashing Time",
+          "year": 1967,
+          "poster": "https://lookmovie2.to/images/p/w400/8ea4d16a3c3891491397de736d912835.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8ea4d16a3c3891491397de736d912835.webp"
+        },
+        {
+          "id": "0078898-boulevard-nights-1979",
+          "kind": "movie",
+          "title": "Boulevard Nights",
+          "year": 1979,
+          "poster": "https://lookmovie2.to/images/p/w400/76d689c55bd8716252e16950a19c2573.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/76d689c55bd8716252e16950a19c2573.webp"
+        },
+        {
+          "id": "0074251-brunet-will-call-1976",
+          "kind": "movie",
+          "title": "Brunet Will Call",
+          "year": 1976,
+          "poster": "https://lookmovie2.to/images/p/w400/d56c3d980ca32e4d6438c20fb5e4159a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d56c3d980ca32e4d6438c20fb5e4159a.webp"
+        },
+        {
+          "id": "0056934-nutty-naughty-chateau-1963",
+          "kind": "movie",
+          "title": "Nutty, Naughty Chateau",
+          "year": 1963,
+          "poster": "https://lookmovie2.to/images/p/w400/194c5d4c69828f2e19a7828226e0dba4.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/194c5d4c69828f2e19a7828226e0dba4.webp"
+        },
+        {
+          "id": "0087698-maybe-its-love-1984",
+          "kind": "movie",
+          "title": "Maybe It's Love",
+          "year": 1984,
+          "poster": "https://lookmovie2.to/images/p/w400/6126021c4d3ad34e9eaf60868010760e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6126021c4d3ad34e9eaf60868010760e.webp"
+        },
+        {
           "id": "0051372-araya-1959",
           "kind": "movie",
           "title": "Araya",
@@ -353,52 +393,28 @@
           "year": 2018,
           "poster": "https://lookmovie2.to/images/p/w400/e832e547e7cceddb435f4a8e40f20474.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/e832e547e7cceddb435f4a8e40f20474.webp"
-        },
-        {
-          "id": "0226874-female-prisoner-scorpion-jailhouse-41-1972",
-          "kind": "movie",
-          "title": "Female Prisoner Scorpion: Jailhouse 41",
-          "year": 1972,
-          "poster": "https://lookmovie2.to/images/p/w400/4352a4e08f7a5542b96e1d2132831b0b.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/4352a4e08f7a5542b96e1d2132831b0b.webp"
-        },
-        {
-          "id": "2835658-brothers-day-2015",
-          "kind": "movie",
-          "title": "Brothers' Day",
-          "year": 2015,
-          "poster": "https://lookmovie2.to/images/p/w400/b6c9160b3a337f8be67334850c8ce8f0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/b6c9160b3a337f8be67334850c8ce8f0.webp"
-        },
-        {
-          "id": "13093506-bruce-springsteens-letter-to-you-2020",
-          "kind": "movie",
-          "title": "Bruce Springsteen's Letter to You",
-          "year": 2020,
-          "poster": "https://lookmovie2.to/images/p/w400/67f63b326d7b6b486473b6b0113063d1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/67f63b326d7b6b486473b6b0113063d1.webp"
-        },
-        {
-          "id": "1529240-brownian-movement-2010",
-          "kind": "movie",
-          "title": "Brownian Movement",
-          "year": 2010,
-          "poster": "https://lookmovie2.to/images/p/w400/361bcec1236b79718950283c98470efe.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/361bcec1236b79718950283c98470efe.webp"
-        },
-        {
-          "id": "11157002-brothers-in-brothel-2019",
-          "kind": "movie",
-          "title": "Brothers in Brothel",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/1ab46df63bbd2e9dbad58e4ad193c227.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1ab46df63bbd2e9dbad58e4ad193c227.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "38960812-see-you-at-work-tomorrow-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 12",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/79ba5a552259ffedf4a741a8343392bc.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/79ba5a552259ffedf4a741a8343392bc.webp"
+        },
+        {
+          "id": "0419336-homes-under-the-hammer-2003",
+          "kind": "show",
+          "title": "Season 29, Episode 23",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5b4fd255e61e56552b1488b4dcb2881a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5b4fd255e61e56552b1488b4dcb2881a.webp"
+        },
         {
           "id": "0098911-shortland-street-1992",
           "kind": "show",
@@ -446,6 +462,14 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/ada49faee3f2256fb45472b12877049d.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/ada49faee3f2256fb45472b12877049d.webp"
+        },
+        {
+          "id": "40367753-dancing-with-the-stars-the-next-pro-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/3693d033d92d7f4f8731f6d74edfd0eb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/3693d033d92d7f4f8731f6d74edfd0eb.webp"
         },
         {
           "id": "1433870-masterchef-australia-2009",
@@ -526,38 +550,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/bcb9390ed4e1e7bd2f007503aabd6c67.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/bcb9390ed4e1e7bd2f007503aabd6c67.webp"
-        },
-        {
-          "id": "7414406-all-american-2018",
-          "kind": "show",
-          "title": "Season 8, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/2ad6105e41b4aa32d8b13eab40872b91.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/2ad6105e41b4aa32d8b13eab40872b91.webp"
-        },
-        {
-          "id": "0185103-wwe-raw-1993",
-          "kind": "show",
-          "title": "Season 34, Episode 30",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/47af2cc7f27d56c71738fca352cd52a3.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/47af2cc7f27d56c71738fca352cd52a3.webp"
-        },
-        {
-          "id": "0177465-university-challenge-1962",
-          "kind": "show",
-          "title": "Season 56, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/8bbbb5973e152e1571eb3481608695ec.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/8bbbb5973e152e1571eb3481608695ec.webp"
-        },
-        {
-          "id": "40385200-world-war-ii-with-tom-hanks-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 20",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/8462944cf334b8fc6eab23290b277cba.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/8462944cf334b8fc6eab23290b277cba.webp"
         }
       ]
     },
@@ -730,6 +722,30 @@
       "title": "Comedy",
       "items": [
         {
+          "id": "0062281-smashing-time-1967",
+          "kind": "movie",
+          "title": "Smashing Time",
+          "year": 1967,
+          "poster": "https://lookmovie2.to/images/p/w400/8ea4d16a3c3891491397de736d912835.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8ea4d16a3c3891491397de736d912835.webp"
+        },
+        {
+          "id": "0074251-brunet-will-call-1976",
+          "kind": "movie",
+          "title": "Brunet Will Call",
+          "year": 1976,
+          "poster": "https://lookmovie2.to/images/p/w400/d56c3d980ca32e4d6438c20fb5e4159a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d56c3d980ca32e4d6438c20fb5e4159a.webp"
+        },
+        {
+          "id": "0056934-nutty-naughty-chateau-1963",
+          "kind": "movie",
+          "title": "Nutty, Naughty Chateau",
+          "year": 1963,
+          "poster": "https://lookmovie2.to/images/p/w400/194c5d4c69828f2e19a7828226e0dba4.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/194c5d4c69828f2e19a7828226e0dba4.webp"
+        },
+        {
           "id": "16533244-christmas-at-mistletoe-manor-2025",
           "kind": "movie",
           "title": "Christmas at Mistletoe Manor",
@@ -864,30 +880,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/8267f109f915eab8ef70f0cb3ec13811.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/8267f109f915eab8ef70f0cb3ec13811.webp"
-        },
-        {
-          "id": "1114740-paul-blart-mall-cop-2009",
-          "kind": "movie",
-          "title": "Paul Blart: Mall Cop",
-          "year": 2009,
-          "poster": "https://lookmovie2.to/images/p/w400/96f38962379d5fa9b79c4a4645f7bc2b.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/96f38962379d5fa9b79c4a4645f7bc2b.webp"
-        },
-        {
-          "id": "38552526-oflu-hoca-5-evliluk-2025",
-          "kind": "movie",
-          "title": "Oflu Hoca 5: Evliluk",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/8b5ee07329a2380a8cfafcac60d5b576.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8b5ee07329a2380a8cfafcac60d5b576.webp"
-        },
-        {
-          "id": "41561164-paul-smith-pablo-live-2026",
-          "kind": "movie",
-          "title": "Paul Smith: Pablo Live",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/24e6753a56a858a9bfd24a3c75796ae7.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/24e6753a56a858a9bfd24a3c75796ae7.webp"
         }
       ]
     },
@@ -1225,6 +1217,38 @@
       "title": "Drama",
       "items": [
         {
+          "id": "8211564-outback-opal-hunters-2018",
+          "kind": "show",
+          "title": "Outback Opal Hunters",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/2197e0fe9aac5c960a4222862058f3ad.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2197e0fe9aac5c960a4222862058f3ad.webp"
+        },
+        {
+          "id": "38776795-summer-36-2026",
+          "kind": "show",
+          "title": "Summer '36",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/860e69a55e969693169725d0155b69fe.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/860e69a55e969693169725d0155b69fe.webp"
+        },
+        {
+          "id": "38960812-see-you-at-work-tomorrow-2026",
+          "kind": "show",
+          "title": "See You at Work Tomorrow!",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/79ba5a552259ffedf4a741a8343392bc.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/79ba5a552259ffedf4a741a8343392bc.webp"
+        },
+        {
+          "id": "10327830-for-life-2020",
+          "kind": "show",
+          "title": "For Life",
+          "year": 2020,
+          "poster": "https://lookmovie2.to/images/p/w400/3ad01478bab4608af051f96342fd301a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3ad01478bab4608af051f96342fd301a.webp"
+        },
+        {
           "id": "0098911-shortland-street-1992",
           "kind": "show",
           "title": "Shortland Street",
@@ -1351,44 +1375,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/86e9b4c6b180d7cb70e2a64e3a2bcb43.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/86e9b4c6b180d7cb70e2a64e3a2bcb43.webp"
-        },
-        {
-          "id": "40247521-spooky-in-love-2026",
-          "kind": "show",
-          "title": "Spooky in Love",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/48a9e085b96711acc07c20decad977ae.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/48a9e085b96711acc07c20decad977ae.webp"
-        },
-        {
-          "id": "41793322-the-loyalty-game-2026",
-          "kind": "show",
-          "title": "The Loyalty Game",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/2e48bd422c0fa28b66c6b213f113b06e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2e48bd422c0fa28b66c6b213f113b06e.webp"
-        },
-        {
-          "id": "39113208-the-ogres-bride-2026",
-          "kind": "show",
-          "title": "The Ogre's Bride",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/df130d05bef619ce0474d868cb020ed5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/df130d05bef619ce0474d868cb020ed5.webp"
-        },
-        {
-          "id": "42321618-new-zealand-spy-2026",
-          "kind": "show",
-          "title": "New Zealand Spy",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/afd6f3a46ea2552bf4a85fe77f6bc0a1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/afd6f3a46ea2552bf4a85fe77f6bc0a1.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "10327830-for-life-2020",
+          "kind": "show",
+          "title": "For Life",
+          "year": 2020,
+          "poster": "https://lookmovie2.to/images/p/w400/3ad01478bab4608af051f96342fd301a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3ad01478bab4608af051f96342fd301a.webp"
+        },
         {
           "id": "7599942-whiskey-cavalier-2019",
           "kind": "show",
@@ -1540,14 +1540,6 @@
           "year": 2020,
           "poster": "https://lookmovie2.to/images/p/w400/417f34464ccf58c469e62b86b98c78b5.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/417f34464ccf58c469e62b86b98c78b5.webp"
-        },
-        {
-          "id": "0083420-the-gentle-touch-1980",
-          "kind": "show",
-          "title": "The Gentle Touch",
-          "year": 1980,
-          "poster": "https://lookmovie2.to/images/p/w400/6987056d99c36951e3bd02e180b15f20.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/6987056d99c36951e3bd02e180b15f20.webp"
         }
       ]
     }

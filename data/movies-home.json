@@ -235,6 +235,30 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "35148005-achilles-returns-2026",
+          "kind": "movie",
+          "title": "Achilles Returns",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/291bacce13669cf6390269d5b158cbe3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/291bacce13669cf6390269d5b158cbe3.webp"
+        },
+        {
+          "id": "36415524-the-gentleman-thief-2026",
+          "kind": "movie",
+          "title": "The Gentleman Thief",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/050dca82652ceeaa5ca463d349e1ff24.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/050dca82652ceeaa5ca463d349e1ff24.webp"
+        },
+        {
+          "id": "0088000-revenge-of-the-nerds-1984",
+          "kind": "movie",
+          "title": "Revenge of the Nerds",
+          "year": 1984,
+          "poster": "https://lookmovie2.to/images/p/w400/5efdefb30c171761e31cf0f094e3eadc.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5efdefb30c171761e31cf0f094e3eadc.webp"
+        },
+        {
           "id": "35182033-gedelaraju-kakinada-taluka-2026",
           "kind": "movie",
           "title": "Gedelaraju Kakinada Taluka",
@@ -369,36 +393,28 @@
           "year": 1979,
           "poster": "https://lookmovie2.to/images/p/w400/76d689c55bd8716252e16950a19c2573.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/76d689c55bd8716252e16950a19c2573.webp"
-        },
-        {
-          "id": "0074251-brunet-will-call-1976",
-          "kind": "movie",
-          "title": "Brunet Will Call",
-          "year": 1976,
-          "poster": "https://lookmovie2.to/images/p/w400/d56c3d980ca32e4d6438c20fb5e4159a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d56c3d980ca32e4d6438c20fb5e4159a.webp"
-        },
-        {
-          "id": "0056934-nutty-naughty-chateau-1963",
-          "kind": "movie",
-          "title": "Nutty, Naughty Chateau",
-          "year": 1963,
-          "poster": "https://lookmovie2.to/images/p/w400/194c5d4c69828f2e19a7828226e0dba4.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/194c5d4c69828f2e19a7828226e0dba4.webp"
-        },
-        {
-          "id": "0087698-maybe-its-love-1984",
-          "kind": "movie",
-          "title": "Maybe It's Love",
-          "year": 1984,
-          "poster": "https://lookmovie2.to/images/p/w400/6126021c4d3ad34e9eaf60868010760e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/6126021c4d3ad34e9eaf60868010760e.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "43680755-the-idaho-murders-college-nightmare-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b866c2416c6c4a3a2b10a875112016cd.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b866c2416c6c4a3a2b10a875112016cd.webp"
+        },
+        {
+          "id": "11871764-the-proud-family-louder-and-prouder-2022",
+          "kind": "show",
+          "title": "Season 4, Episode 6",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/c286ce1aeee7c92f57b47783bd040edd.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/c286ce1aeee7c92f57b47783bd040edd.webp"
+        },
         {
           "id": "10982034-trying-2020",
           "kind": "show",
@@ -438,6 +454,54 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/ada49faee3f2256fb45472b12877049d.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/ada49faee3f2256fb45472b12877049d.webp"
+        },
+        {
+          "id": "43674625-kitchen-undercover-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/65a0b1c275dc67e929a29ccba3163da4.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/65a0b1c275dc67e929a29ccba3163da4.webp"
+        },
+        {
+          "id": "3205302-beat-bobby-flay-2014",
+          "kind": "show",
+          "title": "Season 44, Episode 8",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/ccfa9c8fb218092caaf0445caaa2b326.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/ccfa9c8fb218092caaf0445caaa2b326.webp"
+        },
+        {
+          "id": "0069658-the-young-and-the-restless-1973",
+          "kind": "show",
+          "title": "Season 53, Episode 204",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/c809b90cf89493423bcd2a2be9e0e0ba.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/c809b90cf89493423bcd2a2be9e0e0ba.webp"
+        },
+        {
+          "id": "6988910-lakefront-bargain-hunt-renovation-2017",
+          "kind": "show",
+          "title": "Season 6, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/38b960c8b096a98f56c34d91055a80c2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/38b960c8b096a98f56c34d91055a80c2.webp"
+        },
+        {
+          "id": "43583583-staged-deadly-deception-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 9",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/377af6e96afaa4935a9dd5b0b455c68d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/377af6e96afaa4935a9dd5b0b455c68d.webp"
+        },
+        {
+          "id": "9159144-dark-side-of-the-ring-2019",
+          "kind": "show",
+          "title": "Season 7, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/0c5d5efc22ef78ff53da3f0b10374587.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/0c5d5efc22ef78ff53da3f0b10374587.webp"
         },
         {
           "id": "0092325-the-bold-and-the-beautiful-1987",
@@ -486,76 +550,28 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/a05909d2bd0392fdcbd435cbc18de158.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/a05909d2bd0392fdcbd435cbc18de158.webp"
-        },
-        {
-          "id": "35668156-better-late-than-single-2025",
-          "kind": "show",
-          "title": "Season 2, Episode 9",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/56fb6c2455fee9f96745343bbe6f9569.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/56fb6c2455fee9f96745343bbe6f9569.webp"
-        },
-        {
-          "id": "17736900-lock-upp-2022",
-          "kind": "show",
-          "title": "Season 2, Episode 27",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/1335a923049b8471d9de90e19c4c5026.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/1335a923049b8471d9de90e19c4c5026.webp"
-        },
-        {
-          "id": "37532599-yoroi-shin-den-samurai-troopers-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 16",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/b0cdec4bce58e7daecf51034b97a3e39.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/b0cdec4bce58e7daecf51034b97a3e39.webp"
-        },
-        {
-          "id": "41278636-the-oblivious-saint-cant-contain-her-power-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 5",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/3969619aeacd0416a04ce4cfc8bac234.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/3969619aeacd0416a04ce4cfc8bac234.webp"
-        },
-        {
-          "id": "37015024-young-ladies-dont-play-fighting-games-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/04aac1154c940f2295e904abace4cd5b.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/04aac1154c940f2295e904abace4cd5b.webp"
-        },
-        {
-          "id": "15073262-the-cheap-seats-2021",
-          "kind": "show",
-          "title": "Season 6, Episode 15",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/efc8c91b60cdd54ab9072c84f8d6ed90.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/efc8c91b60cdd54ab9072c84f8d6ed90.webp"
-        },
-        {
-          "id": "36056731-i-want-to-love-you-till-your-dying-day-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/f2a9bb6871628e5c69a61054ac891133.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/f2a9bb6871628e5c69a61054ac891133.webp"
-        },
-        {
-          "id": "38960812-see-you-at-work-tomorrow-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 12",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/79ba5a552259ffedf4a741a8343392bc.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/79ba5a552259ffedf4a741a8343392bc.webp"
         }
       ]
     },
     {
       "title": "Action",
       "items": [
+        {
+          "id": "35148005-achilles-returns-2026",
+          "kind": "movie",
+          "title": "Achilles Returns",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/291bacce13669cf6390269d5b158cbe3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/291bacce13669cf6390269d5b158cbe3.webp"
+        },
+        {
+          "id": "36415524-the-gentleman-thief-2026",
+          "kind": "movie",
+          "title": "The Gentleman Thief",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/050dca82652ceeaa5ca463d349e1ff24.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/050dca82652ceeaa5ca463d349e1ff24.webp"
+        },
         {
           "id": "35182033-gedelaraju-kakinada-taluka-2026",
           "kind": "movie",
@@ -699,28 +715,20 @@
           "year": 2013,
           "poster": "https://lookmovie2.to/images/p/w400/75de02936020ec8d0e55e0b7427446fb.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/75de02936020ec8d0e55e0b7427446fb.webp"
-        },
-        {
-          "id": "34385135-colony-2026",
-          "kind": "movie",
-          "title": "Colony",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/3d69e7569d95489cdaccbba344d8fa26.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3d69e7569d95489cdaccbba344d8fa26.webp"
-        },
-        {
-          "id": "1050160-the-machine-girl-2008",
-          "kind": "movie",
-          "title": "The Machine Girl",
-          "year": 2008,
-          "poster": "https://lookmovie2.to/images/p/w400/a833ac881f2034263c456493dcb21966.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/a833ac881f2034263c456493dcb21966.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "0088000-revenge-of-the-nerds-1984",
+          "kind": "movie",
+          "title": "Revenge of the Nerds",
+          "year": 1984,
+          "poster": "https://lookmovie2.to/images/p/w400/5efdefb30c171761e31cf0f094e3eadc.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5efdefb30c171761e31cf0f094e3eadc.webp"
+        },
         {
           "id": "0790723-just-add-water-2008",
           "kind": "movie",
@@ -872,14 +880,6 @@
           "year": 2013,
           "poster": "https://lookmovie2.to/images/p/w400/75de02936020ec8d0e55e0b7427446fb.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/75de02936020ec8d0e55e0b7427446fb.webp"
-        },
-        {
-          "id": "39385320-mutluyuz-muij-2026",
-          "kind": "movie",
-          "title": "Mutluyuz Mu?",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/502aa22ab74f8900dfe6506e66e55c51.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/502aa22ab74f8900dfe6506e66e55c51.webp"
         }
       ]
     },
@@ -1217,6 +1217,30 @@
       "title": "Drama",
       "items": [
         {
+          "id": "0069658-the-young-and-the-restless-1973",
+          "kind": "show",
+          "title": "The Young and the Restless",
+          "year": 1973,
+          "poster": "https://lookmovie2.to/images/p/w400/c809b90cf89493423bcd2a2be9e0e0ba.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c809b90cf89493423bcd2a2be9e0e0ba.webp"
+        },
+        {
+          "id": "9159144-dark-side-of-the-ring-2019",
+          "kind": "show",
+          "title": "Dark Side of the Ring",
+          "year": 2019,
+          "poster": "https://lookmovie2.to/images/p/w400/0c5d5efc22ef78ff53da3f0b10374587.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0c5d5efc22ef78ff53da3f0b10374587.webp"
+        },
+        {
+          "id": "32125269-beyond-the-gates-2025",
+          "kind": "show",
+          "title": "Beyond the Gates",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/4544cd21fa054d5a9dc78a12356ce36e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/4544cd21fa054d5a9dc78a12356ce36e.webp"
+        },
+        {
           "id": "10982034-trying-2020",
           "kind": "show",
           "title": "Trying",
@@ -1351,30 +1375,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/588ee2d59f48c6335a6a401c75c53bd9.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/588ee2d59f48c6335a6a401c75c53bd9.webp"
-        },
-        {
-          "id": "37841222-walking-on-thin-ice-2025",
-          "kind": "show",
-          "title": "Walking on Thin Ice",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/7ae9d56072de87ca24f88a1dbc8a7b1c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7ae9d56072de87ca24f88a1dbc8a7b1c.webp"
-        },
-        {
-          "id": "33241853-victoria-beckham-2025",
-          "kind": "show",
-          "title": "Victoria Beckham",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/489de9193b281661a0e5fcbc855a16d0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/489de9193b281661a0e5fcbc855a16d0.webp"
-        },
-        {
-          "id": "39403976-needy-girl-overdose-2026",
-          "kind": "show",
-          "title": "NEEDY GIRL OVERDOSE",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/47fe594211236ef9335a77252b30fdd5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/47fe594211236ef9335a77252b30fdd5.webp"
         }
       ]
     },
@@ -1388,6 +1388,14 @@
           "year": 2020,
           "poster": "https://lookmovie2.to/images/p/w400/a05909d2bd0392fdcbd435cbc18de158.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/a05909d2bd0392fdcbd435cbc18de158.webp"
+        },
+        {
+          "id": "43583583-staged-deadly-deception-2026",
+          "kind": "show",
+          "title": "Staged: Deadly Deception",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/377af6e96afaa4935a9dd5b0b455c68d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/377af6e96afaa4935a9dd5b0b455c68d.webp"
         },
         {
           "id": "37510653-the-dark-2026",
@@ -1532,14 +1540,6 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/1f9745532dcd9fd421412586fa8101be.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/1f9745532dcd9fd421412586fa8101be.webp"
-        },
-        {
-          "id": "35495063-elite-force-2026",
-          "kind": "show",
-          "title": "Elite Force",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/27402d78d2d36aca2282e4178cbd421a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/27402d78d2d36aca2282e4178cbd421a.webp"
         }
       ]
     }

@@ -1,6 +1,22 @@
 {
   "hero": [
     {
+      "id": "0427340-masters-of-the-universe-2026",
+      "kind": "movie",
+      "title": "Masters of the Universe",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/2fdbf0407721fa5fb4758a9e8416b963.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/7eaae7c6fca511ad92be8e46e8e24c40.webp"
+    },
+    {
+      "id": "32820897-demon-slayer-kimetsu-no-yaiba-infinity-castle-2025",
+      "kind": "movie",
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "year": 2025,
+      "poster": "https://lookmovie2.to/images/p/w500/d09e12c9348f87c2f924483364b25b95.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/356eee045aa8e1034e75e216b8e60dbf.webp"
+    },
+    {
       "id": "32273171-the-death-of-robin-hood-2026",
       "kind": "movie",
       "title": "The Death of Robin Hood",
@@ -47,28 +63,28 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/ee6964e4a2b47b37063b1633620984a8.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/9ad3576b7e6085f720a7f8d9b8d5cff8.webp"
-    },
-    {
-      "id": "36619926-heartstopper-forever-2026",
-      "kind": "movie",
-      "title": "Heartstopper Forever",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/171c4ddccc8e67572597067e2da04130.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/f3185c25bbb7435e24d2a3d1ed6ed453.webp"
-    },
-    {
-      "id": "43595399-shipwrecked-nightmare-at-sea-2026",
-      "kind": "movie",
-      "title": "Shipwrecked: Nightmare at Sea",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/51f32e846f2112bda77778e2a13bb19e.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/8216244f8ea740952ce97c910adc7f15.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "36619926-heartstopper-forever-2026",
+          "kind": "movie",
+          "title": "Heartstopper Forever",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/171c4ddccc8e67572597067e2da04130.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/f3185c25bbb7435e24d2a3d1ed6ed453.webp"
+        },
+        {
+          "id": "43595399-shipwrecked-nightmare-at-sea-2026",
+          "kind": "movie",
+          "title": "Shipwrecked: Nightmare at Sea",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/51f32e846f2112bda77778e2a13bb19e.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/8216244f8ea740952ce97c910adc7f15.webp"
+        },
         {
           "id": "33764258-the-odyssey-2026",
           "kind": "movie",
@@ -212,28 +228,68 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/c20262907ad29cd73c1db8feed4763d1.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/3cb7f7da2e54c35a919bb2c9a2e65e15.webp"
-        },
-        {
-          "id": "35309713-citizen-vigilante-2026",
-          "kind": "movie",
-          "title": "Citizen Vigilante",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/844333b891ab6061fd5305f3e03ffd97.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/9fced8e17353d3bc8364717258bc9a16.webp"
-        },
-        {
-          "id": "34888871-little-brother-2026",
-          "kind": "movie",
-          "title": "Little Brother",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/1db35e9ae66d48bb630d2e5131fa36ff.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/4b8a49b72f6e3d74db9cf2f0d3cac660.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "0226873-female-prisoner-scorpion-701s-grudge-song-1973",
+          "kind": "movie",
+          "title": "Female Prisoner Scorpion: #701's Grudge Song",
+          "year": 1973,
+          "poster": "https://lookmovie2.to/images/p/w400/c27eecb76a4c912367f6c6c2267b7974.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c27eecb76a4c912367f6c6c2267b7974.webp"
+        },
+        {
+          "id": "2835494-doctor-proctors-fart-powder-2014",
+          "kind": "movie",
+          "title": "Doctor Proctor's Fart Powder",
+          "year": 2014,
+          "poster": "https://lookmovie2.to/images/p/w400/b65b99340398e396d3b872f9e50c5231.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b65b99340398e396d3b872f9e50c5231.webp"
+        },
+        {
+          "id": "0427340-masters-of-the-universe-2026",
+          "kind": "movie",
+          "title": "Masters of the Universe",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/2fdbf0407721fa5fb4758a9e8416b963.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2fdbf0407721fa5fb4758a9e8416b963.webp"
+        },
+        {
+          "id": "31495504-the-tank-2025",
+          "kind": "movie",
+          "title": "The Tank",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/04f685d6e053ca8e75d7404287c75d8b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/04f685d6e053ca8e75d7404287c75d8b.webp"
+        },
+        {
+          "id": "36304003-72-hours-2026",
+          "kind": "movie",
+          "title": "72 HOURS",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/c94b57fadd817cafd015dbc3526f295f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c94b57fadd817cafd015dbc3526f295f.webp"
+        },
+        {
+          "id": "32820897-demon-slayer-kimetsu-no-yaiba-infinity-castle-2025",
+          "kind": "movie",
+          "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/d09e12c9348f87c2f924483364b25b95.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d09e12c9348f87c2f924483364b25b95.webp"
+        },
+        {
+          "id": "0049487-the-maverick-queen-1956",
+          "kind": "movie",
+          "title": "The Maverick Queen",
+          "year": 1956,
+          "poster": "https://lookmovie2.to/images/p/w400/ba0ee925b27568c8e97993926b21b496.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ba0ee925b27568c8e97993926b21b496.webp"
+        },
         {
           "id": "15979666-the-archies-2023",
           "kind": "movie",
@@ -323,14 +379,6 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/4239ef0b40620a893dd0c5b4cdab493e.webp"
         },
         {
-          "id": "22084616-spider-man-brand-new-day-2026",
-          "kind": "movie",
-          "title": "Spider-Man: Brand New Day",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8c81a5852408b428ddc7d4be809b1130.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8c81a5852408b428ddc7d4be809b1130.webp"
-        },
-        {
           "id": "8502306-capps-crossing-wrong-side-of-dead-2026",
           "kind": "movie",
           "title": "Capps Crossing: Wrong Side of Dead",
@@ -345,54 +393,6 @@
           "year": 2017,
           "poster": "https://lookmovie2.to/images/p/w400/271cfc841277c349be598a0b6a210718.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/271cfc841277c349be598a0b6a210718.webp"
-        },
-        {
-          "id": "36958312-the-devils-mouth-2026",
-          "kind": "movie",
-          "title": "The Devil's Mouth",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/198506070a2f08d632b01d7177acd73a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/198506070a2f08d632b01d7177acd73a.webp"
-        },
-        {
-          "id": "1020937-awarapan-2007",
-          "kind": "movie",
-          "title": "Awarapan",
-          "year": 2007,
-          "poster": "https://lookmovie2.to/images/p/w400/24de5446177bbfcf3f07f1c9eb2ecca9.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/24de5446177bbfcf3f07f1c9eb2ecca9.webp"
-        },
-        {
-          "id": "31414242-the-patient-2025",
-          "kind": "movie",
-          "title": "The Patient",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/1605a8e9cfd0ba5fdb6aa9c3c91b3362.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1605a8e9cfd0ba5fdb6aa9c3c91b3362.webp"
-        },
-        {
-          "id": "27627800-the-mysterious-mr-lagerfeld-2023",
-          "kind": "movie",
-          "title": "The Mysterious Mr. Lagerfeld",
-          "year": 2023,
-          "poster": "https://lookmovie2.to/images/p/w400/23a752c1c4ceab47e852cc0158d66a30.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/23a752c1c4ceab47e852cc0158d66a30.webp"
-        },
-        {
-          "id": "0043766-m-1951",
-          "kind": "movie",
-          "title": "M",
-          "year": 1951,
-          "poster": "https://lookmovie2.to/images/p/w400/76b58ad71d261c48a2122e5081094c58.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/76b58ad71d261c48a2122e5081094c58.webp"
-        },
-        {
-          "id": "36415524-the-gentleman-thief-2026",
-          "kind": "movie",
-          "title": "The Gentleman Thief",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/050dca82652ceeaa5ca463d349e1ff24.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/050dca82652ceeaa5ca463d349e1ff24.webp"
         }
       ]
     },
@@ -422,6 +422,30 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/112275ffc6016ec15f5440e9a63c9507.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/112275ffc6016ec15f5440e9a63c9507.webp"
+        },
+        {
+          "id": "43639906-swamp-patrol-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 13",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/91eb0b64d1220bf11dabf1956d0f8608.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/91eb0b64d1220bf11dabf1956d0f8608.webp"
+        },
+        {
+          "id": "28512193-my-strange-arrest-2023",
+          "kind": "show",
+          "title": "Season 4, Episode 14",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/1d82037135718d4607da4c28b9e9c09e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/1d82037135718d4607da4c28b9e9c09e.webp"
+        },
+        {
+          "id": "32125269-beyond-the-gates-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 135",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp"
         },
         {
           "id": "9425082-body-cam-2018",
@@ -526,30 +550,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/3594c5e06f6a24927a8e99d6d1f80f8b.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/3594c5e06f6a24927a8e99d6d1f80f8b.webp"
-        },
-        {
-          "id": "11942952-money-for-nothing-2015",
-          "kind": "show",
-          "title": "Season 18, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/1105bdcf5a0c3d20ff6058c3c92e0f95.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/1105bdcf5a0c3d20ff6058c3c92e0f95.webp"
-        },
-        {
-          "id": "42814597-allegedly-with-ellison-barber-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 14",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/14cb3f14f706cf29cd54093662f1be3a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/14cb3f14f706cf29cd54093662f1be3a.webp"
-        },
-        {
-          "id": "27371519-alone-australia-2023",
-          "kind": "show",
-          "title": "Season 4, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/271c6ef7627ce205d59be633c5dedac5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/271c6ef7627ce205d59be633c5dedac5.webp"
         }
       ]
     },
@@ -557,12 +557,36 @@
       "title": "Action",
       "items": [
         {
-          "id": "22084616-spider-man-brand-new-day-2026",
+          "id": "0226873-female-prisoner-scorpion-701s-grudge-song-1973",
           "kind": "movie",
-          "title": "Spider-Man: Brand New Day",
+          "title": "Female Prisoner Scorpion: #701's Grudge Song",
+          "year": 1973,
+          "poster": "https://lookmovie2.to/images/p/w400/c27eecb76a4c912367f6c6c2267b7974.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c27eecb76a4c912367f6c6c2267b7974.webp"
+        },
+        {
+          "id": "0427340-masters-of-the-universe-2026",
+          "kind": "movie",
+          "title": "Masters of the Universe",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8c81a5852408b428ddc7d4be809b1130.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8c81a5852408b428ddc7d4be809b1130.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/2fdbf0407721fa5fb4758a9e8416b963.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2fdbf0407721fa5fb4758a9e8416b963.webp"
+        },
+        {
+          "id": "31495504-the-tank-2025",
+          "kind": "movie",
+          "title": "The Tank",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/04f685d6e053ca8e75d7404287c75d8b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/04f685d6e053ca8e75d7404287c75d8b.webp"
+        },
+        {
+          "id": "32820897-demon-slayer-kimetsu-no-yaiba-infinity-castle-2025",
+          "kind": "movie",
+          "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/d09e12c9348f87c2f924483364b25b95.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d09e12c9348f87c2f924483364b25b95.webp"
         },
         {
           "id": "1020937-awarapan-2007",
@@ -691,36 +715,28 @@
           "year": 2021,
           "poster": "https://lookmovie2.to/images/p/w400/82eddb8c5db0d0f4426a63873492330c.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/82eddb8c5db0d0f4426a63873492330c.webp"
-        },
-        {
-          "id": "1681370-the-algerian-2014",
-          "kind": "movie",
-          "title": "The Algerian",
-          "year": 2014,
-          "poster": "https://lookmovie2.to/images/p/w400/8404f0be135be0a7b15abe03639f4087.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8404f0be135be0a7b15abe03639f4087.webp"
-        },
-        {
-          "id": "12856788-dangerous-2022",
-          "kind": "movie",
-          "title": "Dangerous",
-          "year": 2022,
-          "poster": "https://lookmovie2.to/images/p/w400/ddf3fb0db348f18bf18f1784f26fa8f0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/ddf3fb0db348f18bf18f1784f26fa8f0.webp"
-        },
-        {
-          "id": "39749953-the-debt-collector-2026",
-          "kind": "movie",
-          "title": "The Debt Collector",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/d36d5e0ac2945e8ac86df85a0c409477.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d36d5e0ac2945e8ac86df85a0c409477.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "2835494-doctor-proctors-fart-powder-2014",
+          "kind": "movie",
+          "title": "Doctor Proctor's Fart Powder",
+          "year": 2014,
+          "poster": "https://lookmovie2.to/images/p/w400/b65b99340398e396d3b872f9e50c5231.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b65b99340398e396d3b872f9e50c5231.webp"
+        },
+        {
+          "id": "36304003-72-hours-2026",
+          "kind": "movie",
+          "title": "72 HOURS",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/c94b57fadd817cafd015dbc3526f295f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c94b57fadd817cafd015dbc3526f295f.webp"
+        },
         {
           "id": "15979666-the-archies-2023",
           "kind": "movie",
@@ -850,14 +866,6 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/20d05071020b10e0a34abc5290405966.webp"
         },
         {
-          "id": "36304003-72-hours-2026",
-          "kind": "movie",
-          "title": "72 HOURS",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/c94b57fadd817cafd015dbc3526f295f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/c94b57fadd817cafd015dbc3526f295f.webp"
-        },
-        {
           "id": "0067398-the-marriage-of-a-young-stockbroker-1971",
           "kind": "movie",
           "title": "The Marriage of a Young Stockbroker",
@@ -872,14 +880,6 @@
           "year": 2020,
           "poster": "https://lookmovie2.to/images/p/w400/288c0b5d4483f8c66afa319817c98246.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/288c0b5d4483f8c66afa319817c98246.webp"
-        },
-        {
-          "id": "1992097-bruce-bruce-losin-it-2011",
-          "kind": "movie",
-          "title": "Bruce Bruce: Losin' It!",
-          "year": 2011,
-          "poster": "https://lookmovie2.to/images/p/w400/0eca66e6b20b3b5d9a4973d7edc04277.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/0eca66e6b20b3b5d9a4973d7edc04277.webp"
         }
       ]
     },
@@ -1052,20 +1052,20 @@
       "title": "Sci-Fi",
       "items": [
         {
+          "id": "0427340-masters-of-the-universe-2026",
+          "kind": "movie",
+          "title": "Masters of the Universe",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/2fdbf0407721fa5fb4758a9e8416b963.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2fdbf0407721fa5fb4758a9e8416b963.webp"
+        },
+        {
           "id": "26548535-eve-is-dead-2023",
           "kind": "movie",
           "title": "Eve is Dead",
           "year": 2023,
           "poster": "https://lookmovie2.to/images/p/w400/feef4528b07bb2d24f4934e28fbbf7e4.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/feef4528b07bb2d24f4934e28fbbf7e4.webp"
-        },
-        {
-          "id": "22084616-spider-man-brand-new-day-2026",
-          "kind": "movie",
-          "title": "Spider-Man: Brand New Day",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8c81a5852408b428ddc7d4be809b1130.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8c81a5852408b428ddc7d4be809b1130.webp"
         },
         {
           "id": "9849644-mind-thief-2022",
@@ -1382,6 +1382,14 @@
       "title": "Crime",
       "items": [
         {
+          "id": "9425082-body-cam-2018",
+          "kind": "show",
+          "title": "Body Cam",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/be0f9fd7842c0e4763e358c2faafd608.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/be0f9fd7842c0e4763e358c2faafd608.webp"
+        },
+        {
           "id": "11833446-murder-247-2020",
           "kind": "show",
           "title": "Murder 24/7",
@@ -1532,14 +1540,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/b866c2416c6c4a3a2b10a875112016cd.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/b866c2416c6c4a3a2b10a875112016cd.webp"
-        },
-        {
-          "id": "43583583-staged-deadly-deception-2026",
-          "kind": "show",
-          "title": "Staged: Deadly Deception",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/377af6e96afaa4935a9dd5b0b455c68d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/377af6e96afaa4935a9dd5b0b455c68d.webp"
         }
       ]
     }

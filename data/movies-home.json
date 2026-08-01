@@ -174,14 +174,6 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/4b54e6cb5b0b77cfcd1ffdeba7908e45.webp"
         },
         {
-          "id": "27047903-scream-7-2026",
-          "kind": "movie",
-          "title": "Scream 7",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/62f027ea82992c6ebbcd80da222211b2.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/1b68b2c58e34f0e91c550808b8fdee69.webp"
-        },
-        {
           "id": "33311069-the-furious-2026",
           "kind": "movie",
           "title": "The Furious",
@@ -228,6 +220,14 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/639a019f23881ac59170bab4f975e235.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/9a6fcc1f791c6c74aee6125ea9754f5b.webp"
+        },
+        {
+          "id": "32278481-enola-holmes-3-2026",
+          "kind": "movie",
+          "title": "Enola Holmes 3",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/890b414807c1696ef95308b254bf94e8.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/a039525d56bffe9d507212a3265dab23.webp"
         }
       ]
     },
@@ -424,6 +424,38 @@
           "backdrop": "https://lookmovie2.to/images/p/w300/1f7ba2dcd395c427f51551d51d06176b.webp"
         },
         {
+          "id": "0058796-days-of-our-lives-1965",
+          "kind": "show",
+          "title": "Season 61, Episode 245",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/816e004046e048929114809c2a47fc8d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/816e004046e048929114809c2a47fc8d.webp"
+        },
+        {
+          "id": "32308214-zillow-gone-wild-2024",
+          "kind": "show",
+          "title": "Season 3, Episode 13",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/95410f06e6bff57ac48b96a0365607ff.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/95410f06e6bff57ac48b96a0365607ff.webp"
+        },
+        {
+          "id": "10098498-the-unxplained-2019",
+          "kind": "show",
+          "title": "Season 8, Episode 14",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/6e652ec660a3cccc2732790278e3abf8.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/6e652ec660a3cccc2732790278e3abf8.webp"
+        },
+        {
+          "id": "0227972-wwe-smackdown-live-1999",
+          "kind": "show",
+          "title": "Season 28, Episode 31",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/2e0603e0947cebfb00966926cd9e5138.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/2e0603e0947cebfb00966926cd9e5138.webp"
+        },
+        {
           "id": "0056758-general-hospital-1963",
           "kind": "show",
           "title": "Season 63, Episode 225",
@@ -518,14 +550,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/a4276217d4215134f4c459d241427448.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/a4276217d4215134f4c459d241427448.webp"
-        },
-        {
-          "id": "7721986-love-after-lockup-2018",
-          "kind": "show",
-          "title": "Season 7, Episode 18",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/e166f353b0084834327e64f86075bc3c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/e166f353b0084834327e64f86075bc3c.webp"
         }
       ]
     },
@@ -1193,6 +1217,30 @@
       "title": "Drama",
       "items": [
         {
+          "id": "0058796-days-of-our-lives-1965",
+          "kind": "show",
+          "title": "Days of Our Lives",
+          "year": 1965,
+          "poster": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp"
+        },
+        {
+          "id": "0413573-greys-anatomy-2005",
+          "kind": "show",
+          "title": "Grey's Anatomy",
+          "year": 2005,
+          "poster": "https://lookmovie2.to/images/p/w400/2900f1a1e4883adb4bb5a11f77b836eb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2900f1a1e4883adb4bb5a11f77b836eb.webp"
+        },
+        {
+          "id": "6905756-pagan-peak-2018",
+          "kind": "show",
+          "title": "Pagan Peak",
+          "year": 2019,
+          "poster": "https://lookmovie2.to/images/p/w400/ef39ff975e98f0118002c1065c1bd2d1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ef39ff975e98f0118002c1065c1bd2d1.webp"
+        },
+        {
           "id": "27776045-aew-collision-2023",
           "kind": "show",
           "title": "All Elite Wrestling: Collision",
@@ -1327,36 +1375,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/947aa6ff323fa6a0bc42450208a92546.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/947aa6ff323fa6a0bc42450208a92546.webp"
-        },
-        {
-          "id": "39665097-musafir-cafe-2026",
-          "kind": "show",
-          "title": "Musafir Cafe",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/c0a1355e86528f8cb237d91bdb2e630e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/c0a1355e86528f8cb237d91bdb2e630e.webp"
-        },
-        {
-          "id": "30495330-the-rapture-2026",
-          "kind": "show",
-          "title": "The Rapture",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/fca6ba8c9e4cd746405e93e82144497a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/fca6ba8c9e4cd746405e93e82144497a.webp"
-        },
-        {
-          "id": "36303968-furious-2026",
-          "kind": "show",
-          "title": "Furious",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/1a0eb2d2015c33749309f2b9333684cb.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1a0eb2d2015c33749309f2b9333684cb.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "6905756-pagan-peak-2018",
+          "kind": "show",
+          "title": "Pagan Peak",
+          "year": 2019,
+          "poster": "https://lookmovie2.to/images/p/w400/ef39ff975e98f0118002c1065c1bd2d1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ef39ff975e98f0118002c1065c1bd2d1.webp"
+        },
         {
           "id": "24512262-fightland-2026",
           "kind": "show",
@@ -1382,20 +1414,20 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/1a0eb2d2015c33749309f2b9333684cb.webp"
         },
         {
-          "id": "38626699-killing-grounds-the-gilgo-beach-murders-2026",
-          "kind": "show",
-          "title": "Killing Grounds: The Gilgo Beach Murders",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/42b4319add7db6f54cbaba3512168fbe.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/42b4319add7db6f54cbaba3512168fbe.webp"
-        },
-        {
           "id": "43639906-swamp-patrol-2026",
           "kind": "show",
           "title": "Swamp Patrol",
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/91eb0b64d1220bf11dabf1956d0f8608.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/91eb0b64d1220bf11dabf1956d0f8608.webp"
+        },
+        {
+          "id": "38626699-killing-grounds-the-gilgo-beach-murders-2026",
+          "kind": "show",
+          "title": "Killing Grounds: The Gilgo Beach Murders",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/42b4319add7db6f54cbaba3512168fbe.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/42b4319add7db6f54cbaba3512168fbe.webp"
         },
         {
           "id": "43357366-the-apartment-job-2026",
@@ -1414,12 +1446,12 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/906c9901e8d871c6ea1698df18eb886c.webp"
         },
         {
-          "id": "15555328-fare-dodgers-at-war-with-the-law-2019",
+          "id": "33298903-made-in-korea-2025",
           "kind": "show",
-          "title": "Fare Dodgers: At War with the Law",
-          "year": 2019,
-          "poster": "https://lookmovie2.to/images/p/w400/1f032d9719bb78528b424205f0fb53e7.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1f032d9719bb78528b424205f0fb53e7.webp"
+          "title": "Made in Korea",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/18a54d82095ce084067b095f05abbab2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/18a54d82095ce084067b095f05abbab2.webp"
         },
         {
           "id": "36125791-qui-sme-le-vent-2025",
@@ -1430,12 +1462,12 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/8a4d6517735b861575b337242029c934.webp"
         },
         {
-          "id": "33298903-made-in-korea-2025",
+          "id": "15555328-fare-dodgers-at-war-with-the-law-2019",
           "kind": "show",
-          "title": "Made in Korea",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/18a54d82095ce084067b095f05abbab2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/18a54d82095ce084067b095f05abbab2.webp"
+          "title": "Fare Dodgers: At War with the Law",
+          "year": 2019,
+          "poster": "https://lookmovie2.to/images/p/w400/1f032d9719bb78528b424205f0fb53e7.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/1f032d9719bb78528b424205f0fb53e7.webp"
         },
         {
           "id": "17372734-saint-x-2023",
@@ -1508,14 +1540,6 @@
           "year": 2011,
           "poster": "https://lookmovie2.to/images/p/w400/842f534af781a18f4db6889437500853.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/842f534af781a18f4db6889437500853.webp"
-        },
-        {
-          "id": "34675596-cape-fear-2026",
-          "kind": "show",
-          "title": "Cape Fear",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8543e19e704105c6a40cc310459305bd.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8543e19e704105c6a40cc310459305bd.webp"
         }
       ]
     }

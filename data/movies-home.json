@@ -1,6 +1,14 @@
 {
   "hero": [
     {
+      "id": "32654916-soulm8te-2026",
+      "kind": "movie",
+      "title": "Soulm8te",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/b2621358f423ce586aab7898da95a3c3.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/bfa2eeb04f0d56a083d9ac9e818364e4.webp"
+    },
+    {
       "id": "34383465-nightborn-2026",
       "kind": "movie",
       "title": "Nightborn",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/6537650f34e7360b1c67fabbf439e97b.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/8c1b95a103aa8933e12051ef97ad63eb.webp"
-    },
-    {
-      "id": "36958312-the-devils-mouth-2026",
-      "kind": "movie",
-      "title": "The Devil's Mouth",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/198506070a2f08d632b01d7177acd73a.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/109d553b41663df8bafe04f30f05c75b.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "36958312-the-devils-mouth-2026",
+          "kind": "movie",
+          "title": "The Devil's Mouth",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/198506070a2f08d632b01d7177acd73a.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/109d553b41663df8bafe04f30f05c75b.webp"
+        },
         {
           "id": "36415524-the-gentleman-thief-2026",
           "kind": "movie",
@@ -190,14 +198,6 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/4b54e6cb5b0b77cfcd1ffdeba7908e45.webp"
         },
         {
-          "id": "27047903-scream-7-2026",
-          "kind": "movie",
-          "title": "Scream 7",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/62f027ea82992c6ebbcd80da222211b2.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/1b68b2c58e34f0e91c550808b8fdee69.webp"
-        },
-        {
           "id": "33311069-the-furious-2026",
           "kind": "movie",
           "title": "The Furious",
@@ -234,6 +234,54 @@
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "36607196-mikael-pemburu-dua-alam-2026",
+          "kind": "movie",
+          "title": "Mikael: Pemburu Dua Alam",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/0eb208cc28f632d8337aa102e5012cf6.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0eb208cc28f632d8337aa102e5012cf6.webp"
+        },
+        {
+          "id": "32065777-nagabandham-the-secret-treasure-2026",
+          "kind": "movie",
+          "title": "Nagabandham: The Secret Treasure",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/2943ad7e550bfce32a55cc624ec8bd8d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2943ad7e550bfce32a55cc624ec8bd8d.webp"
+        },
+        {
+          "id": "32654916-soulm8te-2026",
+          "kind": "movie",
+          "title": "Soulm8te",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/b2621358f423ce586aab7898da95a3c3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b2621358f423ce586aab7898da95a3c3.webp"
+        },
+        {
+          "id": "35295730-a-business-proposal-2025",
+          "kind": "movie",
+          "title": "A Business Proposal",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/e346fb7dcf81066c444cb11a3a4a602c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e346fb7dcf81066c444cb11a3a4a602c.webp"
+        },
+        {
+          "id": "37916864-the-penance-2025",
+          "kind": "movie",
+          "title": "The Penance",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/a4c861bf7dc131d7f4a95c2ecdf7b2e3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a4c861bf7dc131d7f4a95c2ecdf7b2e3.webp"
+        },
+        {
+          "id": "38266573-survivors-the-spectre-of-threads-2025",
+          "kind": "movie",
+          "title": "Survivors: The Spectre of Threads",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/45169a43645f090777707d283f24a56d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/45169a43645f090777707d283f24a56d.webp"
+        },
         {
           "id": "35674521-rose-of-nevada-2026",
           "kind": "movie",
@@ -345,54 +393,6 @@
           "year": 1914,
           "poster": "https://lookmovie2.to/images/p/w400/a61e52ee27e73d364e5b94c502f1c121.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/a61e52ee27e73d364e5b94c502f1c121.webp"
-        },
-        {
-          "id": "7104578-going-for-gold-2018",
-          "kind": "movie",
-          "title": "Going for Gold",
-          "year": 2018,
-          "poster": "https://lookmovie2.to/images/p/w400/a292b0af611fd9fffe1c3231d44da3c5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/a292b0af611fd9fffe1c3231d44da3c5.webp"
-        },
-        {
-          "id": "0021749-city-lights-1931",
-          "kind": "movie",
-          "title": "City Lights",
-          "year": 1931,
-          "poster": "https://lookmovie2.to/images/p/w400/686c80645e5e9e5fffc128151286563c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/686c80645e5e9e5fffc128151286563c.webp"
-        },
-        {
-          "id": "42839367-snoopy-presents-theres-no-place-like-home-snoopy-2026",
-          "kind": "movie",
-          "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/84b64d136cafe1e965dd8e43172745d4.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/84b64d136cafe1e965dd8e43172745d4.webp"
-        },
-        {
-          "id": "0018773-the-circus-1928",
-          "kind": "movie",
-          "title": "The Circus",
-          "year": 1928,
-          "poster": "https://lookmovie2.to/images/p/w400/8d8e025390ffe8133f6c45159322c1e2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8d8e025390ffe8133f6c45159322c1e2.webp"
-        },
-        {
-          "id": "1124037-free-state-of-jones-2016",
-          "kind": "movie",
-          "title": "Free State of Jones",
-          "year": 2016,
-          "poster": "https://lookmovie2.to/images/p/w400/434a673c54783a76dba7e52a8078c912.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/434a673c54783a76dba7e52a8078c912.webp"
-        },
-        {
-          "id": "21230558-bhuvanam-gaganam-2025",
-          "kind": "movie",
-          "title": "Bhuvanam Gaganam",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/8c47a9d3521120984323f9f0cfa5aa6e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8c47a9d3521120984323f9f0cfa5aa6e.webp"
         }
       ]
     },
@@ -565,6 +565,30 @@
       "title": "Action",
       "items": [
         {
+          "id": "36607196-mikael-pemburu-dua-alam-2026",
+          "kind": "movie",
+          "title": "Mikael: Pemburu Dua Alam",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/0eb208cc28f632d8337aa102e5012cf6.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0eb208cc28f632d8337aa102e5012cf6.webp"
+        },
+        {
+          "id": "32065777-nagabandham-the-secret-treasure-2026",
+          "kind": "movie",
+          "title": "Nagabandham: The Secret Treasure",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/2943ad7e550bfce32a55cc624ec8bd8d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2943ad7e550bfce32a55cc624ec8bd8d.webp"
+        },
+        {
+          "id": "37916864-the-penance-2025",
+          "kind": "movie",
+          "title": "The Penance",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/a4c861bf7dc131d7f4a95c2ecdf7b2e3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a4c861bf7dc131d7f4a95c2ecdf7b2e3.webp"
+        },
+        {
           "id": "43659029-murder-game-2026",
           "kind": "movie",
           "title": "Murder Game",
@@ -699,36 +723,28 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/050dca82652ceeaa5ca463d349e1ff24.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/050dca82652ceeaa5ca463d349e1ff24.webp"
-        },
-        {
-          "id": "35148005-achilles-returns-2026",
-          "kind": "movie",
-          "title": "Achilles Returns",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/291bacce13669cf6390269d5b158cbe3.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/291bacce13669cf6390269d5b158cbe3.webp"
-        },
-        {
-          "id": "35182033-gedelaraju-kakinada-taluka-2026",
-          "kind": "movie",
-          "title": "Gedelaraju Kakinada Taluka",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/3c381916092c864fd066ed2bb147daaf.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3c381916092c864fd066ed2bb147daaf.webp"
-        },
-        {
-          "id": "0164521-the-awaken-punch-1973",
-          "kind": "movie",
-          "title": "The Awaken Punch",
-          "year": 1973,
-          "poster": "https://lookmovie2.to/images/p/w400/59e88a45ae5c46c96d7091c45b9e92be.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/59e88a45ae5c46c96d7091c45b9e92be.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "36607196-mikael-pemburu-dua-alam-2026",
+          "kind": "movie",
+          "title": "Mikael: Pemburu Dua Alam",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/0eb208cc28f632d8337aa102e5012cf6.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0eb208cc28f632d8337aa102e5012cf6.webp"
+        },
+        {
+          "id": "35295730-a-business-proposal-2025",
+          "kind": "movie",
+          "title": "A Business Proposal",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/e346fb7dcf81066c444cb11a3a4a602c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e346fb7dcf81066c444cb11a3a4a602c.webp"
+        },
         {
           "id": "32293052-the-fall-of-sir-douglas-weatherford-2026",
           "kind": "movie",
@@ -872,28 +888,28 @@
           "year": 1984,
           "poster": "https://lookmovie2.to/images/p/w400/5efdefb30c171761e31cf0f094e3eadc.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/5efdefb30c171761e31cf0f094e3eadc.webp"
-        },
-        {
-          "id": "0790723-just-add-water-2008",
-          "kind": "movie",
-          "title": "Just Add Water",
-          "year": 2008,
-          "poster": "https://lookmovie2.to/images/p/w400/d0061a2b17e78c5a0d9980d10f9a26c7.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d0061a2b17e78c5a0d9980d10f9a26c7.webp"
-        },
-        {
-          "id": "29194740-my-dead-summer-2026",
-          "kind": "movie",
-          "title": "My Dead Summer",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/5903309f615c8f8673ca89b0c171c068.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/5903309f615c8f8673ca89b0c171c068.webp"
         }
       ]
     },
     {
       "title": "Horror",
       "items": [
+        {
+          "id": "36607196-mikael-pemburu-dua-alam-2026",
+          "kind": "movie",
+          "title": "Mikael: Pemburu Dua Alam",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/0eb208cc28f632d8337aa102e5012cf6.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0eb208cc28f632d8337aa102e5012cf6.webp"
+        },
+        {
+          "id": "32654916-soulm8te-2026",
+          "kind": "movie",
+          "title": "Soulm8te",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/b2621358f423ce586aab7898da95a3c3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b2621358f423ce586aab7898da95a3c3.webp"
+        },
         {
           "id": "34383465-nightborn-2026",
           "kind": "movie",
@@ -1037,28 +1053,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/93b34d14ba709e0dec12089b21bc8ca7.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/93b34d14ba709e0dec12089b21bc8ca7.webp"
-        },
-        {
-          "id": "39143902-leviticus-2026",
-          "kind": "movie",
-          "title": "Leviticus",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/383b64127ccbe3ec085c4cd3f719c3a6.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/383b64127ccbe3ec085c4cd3f719c3a6.webp"
-        },
-        {
-          "id": "0260162-the-mangler-2-2002",
-          "kind": "movie",
-          "title": "The Mangler 2",
-          "year": 2002,
-          "poster": "https://lookmovie2.to/images/p/w400/b6c44d615cab33d942b19b0fca36d122.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/b6c44d615cab33d942b19b0fca36d122.webp"
         }
       ]
     },
     {
       "title": "Sci-Fi",
       "items": [
+        {
+          "id": "32654916-soulm8te-2026",
+          "kind": "movie",
+          "title": "Soulm8te",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/b2621358f423ce586aab7898da95a3c3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b2621358f423ce586aab7898da95a3c3.webp"
+        },
         {
           "id": "22084616-spider-man-brand-new-day-2026",
           "kind": "movie",
@@ -1210,14 +1218,6 @@
           "year": 2008,
           "poster": "https://lookmovie2.to/images/p/w400/681888eda21a62d0d853b8790f506992.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/681888eda21a62d0d853b8790f506992.webp"
-        },
-        {
-          "id": "0356618-the-forgotten-2004",
-          "kind": "movie",
-          "title": "The Forgotten",
-          "year": 2004,
-          "poster": "https://lookmovie2.to/images/p/w400/1d03afa228b2290c5e7b1d695a29a9b9.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1d03afa228b2290c5e7b1d695a29a9b9.webp"
         }
       ]
     },

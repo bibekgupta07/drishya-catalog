@@ -174,28 +174,12 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/44f597ff5e81f6efb9491c06b202a603.webp"
         },
         {
-          "id": "34477910-descendants-wicked-wonderland-2026",
-          "kind": "movie",
-          "title": "Descendants: Wicked Wonderland",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/ee6964e4a2b47b37063b1633620984a8.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/9ad3576b7e6085f720a7f8d9b8d5cff8.webp"
-        },
-        {
           "id": "36619926-heartstopper-forever-2026",
           "kind": "movie",
           "title": "Heartstopper Forever",
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/171c4ddccc8e67572597067e2da04130.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/f3185c25bbb7435e24d2a3d1ed6ed453.webp"
-        },
-        {
-          "id": "43595399-shipwrecked-nightmare-at-sea-2026",
-          "kind": "movie",
-          "title": "Shipwrecked: Nightmare at Sea",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/51f32e846f2112bda77778e2a13bb19e.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/8216244f8ea740952ce97c910adc7f15.webp"
         },
         {
           "id": "33764258-the-odyssey-2026",
@@ -228,6 +212,22 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/fe308323b64f347db83c4957f94b9390.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/34cbce944572c20e1d54f82023880b17.webp"
+        },
+        {
+          "id": "27419466-moana-2026",
+          "kind": "movie",
+          "title": "Moana",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/639a019f23881ac59170bab4f975e235.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/9a6fcc1f791c6c74aee6125ea9754f5b.webp"
+        },
+        {
+          "id": "32278481-enola-holmes-3-2026",
+          "kind": "movie",
+          "title": "Enola Holmes 3",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/890b414807c1696ef95308b254bf94e8.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/a039525d56bffe9d507212a3265dab23.webp"
         }
       ]
     },
@@ -432,6 +432,14 @@
           "backdrop": "https://lookmovie2.to/images/p/w300/112275ffc6016ec15f5440e9a63c9507.webp"
         },
         {
+          "id": "0176095-the-challenge-1998",
+          "kind": "show",
+          "title": "Season 42, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/281e22af0f2c1f841b09c568f5f07955.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/281e22af0f2c1f841b09c568f5f07955.webp"
+        },
+        {
           "id": "42006748-house-of-stassi-2026",
           "kind": "show",
           "title": "Season 1, Episode 3",
@@ -518,22 +526,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/3693d033d92d7f4f8731f6d74edfd0eb.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/3693d033d92d7f4f8731f6d74edfd0eb.webp"
-        },
-        {
-          "id": "42423511-crashers-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 9",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/f342c4da6be08a49cdb9e1e80fc5448b.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/f342c4da6be08a49cdb9e1e80fc5448b.webp"
-        },
-        {
-          "id": "28304310-90-day-the-last-resort-2023",
-          "kind": "show",
-          "title": "Season 3, Episode 10",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/638f1a2d0577690a4b45ce82a7560a4f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/638f1a2d0577690a4b45ce82a7560a4f.webp"
         }
       ]
     },

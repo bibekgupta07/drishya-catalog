@@ -41,6 +41,14 @@
       "backdrop": "https://lookmovie2.to/images/b/w1280/4a22372aaf7aa9ff9577b2e182275d3d.webp"
     },
     {
+      "id": "35064672-cocktail-2-2026",
+      "kind": "movie",
+      "title": "Cocktail 2",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/f82c65900069f6a9300f92b35312cdff.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/feb9b343bbd134fba49f34295f9da186.webp"
+    },
+    {
       "id": "36590417-dont-say-good-luck-2026",
       "kind": "movie",
       "title": "Don't Say Good Luck",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/57ad9b8a90a903bfe0f5a5af7ea76f74.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/48bae22319df7cac990472355163fe28.webp"
-    },
-    {
-      "id": "32104007-young-washington-2026",
-      "kind": "movie",
-      "title": "Young Washington",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/5797b4d0e5192bf6fe71cc2450222fa4.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/9703dab03f00c57bb5b1375a4ea43d9b.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "32104007-young-washington-2026",
+          "kind": "movie",
+          "title": "Young Washington",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/5797b4d0e5192bf6fe71cc2450222fa4.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/9703dab03f00c57bb5b1375a4ea43d9b.webp"
+        },
         {
           "id": "27165187-the-end-of-oak-street-2026",
           "kind": "movie",
@@ -220,20 +228,52 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/c676d84c7e3e6d5df1ee8ac96fac8f74.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/86bf96f6abe79db95453e404a0f8d714.webp"
-        },
-        {
-          "id": "15047880-disclosure-day-2026",
-          "kind": "movie",
-          "title": "Disclosure Day",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/670ede4dd0d12cbe28ddb91a99a859f8.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/002e2f74e25740c45c5720319a21ffa2.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "43702934-disney-worldbuilders-2026",
+          "kind": "movie",
+          "title": "Disney Worldbuilders",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/371df3f919ac2db75a3a8e0f878089ee.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/371df3f919ac2db75a3a8e0f878089ee.webp"
+        },
+        {
+          "id": "8125842-blind-spot-2018",
+          "kind": "movie",
+          "title": "Blind Spot",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/b5259e6d8490558613c187fd823ca03d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b5259e6d8490558613c187fd823ca03d.webp"
+        },
+        {
+          "id": "3001826-portraits-in-the-forest-2017",
+          "kind": "movie",
+          "title": "Portraits in the Forest",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/81d6943cb6130fd4ce0629e6821f5a2f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/81d6943cb6130fd4ce0629e6821f5a2f.webp"
+        },
+        {
+          "id": "0068524-man-of-the-east-1972",
+          "kind": "movie",
+          "title": "Man of the East",
+          "year": 1972,
+          "poster": "https://lookmovie2.to/images/p/w400/f479992476171160a5dd83040d2af8e1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/f479992476171160a5dd83040d2af8e1.webp"
+        },
+        {
+          "id": "13446050-covid-19-the-system-2020",
+          "kind": "movie",
+          "title": "COVID-19: The System",
+          "year": 2020,
+          "poster": "https://lookmovie2.to/images/p/w400/7735d1722fa6faf93e95ee3b2081bd9d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/7735d1722fa6faf93e95ee3b2081bd9d.webp"
+        },
         {
           "id": "23667558-altna-hucum-2022",
           "kind": "movie",
@@ -299,14 +339,6 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/41316976e24dee72838b5a3a0a2347fc.webp"
         },
         {
-          "id": "0068524-man-of-the-east-1972",
-          "kind": "movie",
-          "title": "Man of the East",
-          "year": 1972,
-          "poster": "https://lookmovie2.to/images/p/w400/f479992476171160a5dd83040d2af8e1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f479992476171160a5dd83040d2af8e1.webp"
-        },
-        {
           "id": "0065420-long-live-robin-hood-1971",
           "kind": "movie",
           "title": "Long Live Robin Hood",
@@ -361,44 +393,60 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/8560e77d8396367ef5b4886a5b99d452.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/8560e77d8396367ef5b4886a5b99d452.webp"
-        },
-        {
-          "id": "30887701-pinocchio-unstrung-2026",
-          "kind": "movie",
-          "title": "Pinocchio: Unstrung",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/5214c32233ed486e2eab9a70fa388fdd.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/5214c32233ed486e2eab9a70fa388fdd.webp"
-        },
-        {
-          "id": "43612895-chunks-2026",
-          "kind": "movie",
-          "title": "Chunks",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/35f54e60e4dac35a07b5927ca650718d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/35f54e60e4dac35a07b5927ca650718d.webp"
-        },
-        {
-          "id": "9000310-ghost-in-the-cell-2026",
-          "kind": "movie",
-          "title": "Ghost in the Cell",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/1f0bb346e87c970186e6e3ba88538a90.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/1f0bb346e87c970186e6e3ba88538a90.webp"
-        },
-        {
-          "id": "0126333-the-heat-of-the-day-1989",
-          "kind": "movie",
-          "title": "The Heat of the Day",
-          "year": 1989,
-          "poster": "https://lookmovie2.to/images/p/w400/4bae1e69aa5119419291be4ca2bfd208.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/4bae1e69aa5119419291be4ca2bfd208.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "11942952-money-for-nothing-2015",
+          "kind": "show",
+          "title": "Season 18, Episode 16",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/2bc36c120d54f2bacc274853678744be.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/2bc36c120d54f2bacc274853678744be.webp"
+        },
+        {
+          "id": "37614297-smoking-behind-the-supermarket-with-you-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/703d01fc76ebee4615698c0766799895.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/703d01fc76ebee4615698c0766799895.webp"
+        },
+        {
+          "id": "43587102-mebius-dust-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/14a6b76f23f9d7976d17774a45ced00b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/14a6b76f23f9d7976d17774a45ced00b.webp"
+        },
+        {
+          "id": "38267477-bang-dream-yumemita-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 10",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/f9c41d374ae598a49428c6e811f23a85.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/f9c41d374ae598a49428c6e811f23a85.webp"
+        },
+        {
+          "id": "39195667-dara-san-of-reiwa-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 8",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/228d9d9c791fa46301a33b9f016d5675.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/228d9d9c791fa46301a33b9f016d5675.webp"
+        },
+        {
+          "id": "13192574-bungo-stray-dogs-wan-2021",
+          "kind": "show",
+          "title": "Season 2, Episode 8",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/2b27af5e0b55d079e61ab41bf371dbfb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/2b27af5e0b55d079e61ab41bf371dbfb.webp"
+        },
         {
           "id": "10054992-dope-unit-2026",
           "kind": "show",
@@ -626,20 +674,28 @@
       "title": "Comedy",
       "items": [
         {
-          "id": "33083310-ak-ve-yemek-2025",
-          "kind": "movie",
-          "title": "Aşk ve Yemek",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/603a9f8d8f20a3a2e1d092c84a3043d2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/603a9f8d8f20a3a2e1d092c84a3043d2.webp"
-        },
-        {
           "id": "0068524-man-of-the-east-1972",
           "kind": "movie",
           "title": "Man of the East",
           "year": 1972,
           "poster": "https://lookmovie2.to/images/p/w400/f479992476171160a5dd83040d2af8e1.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/f479992476171160a5dd83040d2af8e1.webp"
+        },
+        {
+          "id": "23667558-altna-hucum-2022",
+          "kind": "movie",
+          "title": "Altına Hücum",
+          "year": 2022,
+          "poster": "https://lookmovie2.to/images/p/w400/f9413a5c43d244bcd2fe4461c01474dd.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/f9413a5c43d244bcd2fe4461c01474dd.webp"
+        },
+        {
+          "id": "33083310-ak-ve-yemek-2025",
+          "kind": "movie",
+          "title": "Aşk ve Yemek",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/603a9f8d8f20a3a2e1d092c84a3043d2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/603a9f8d8f20a3a2e1d092c84a3043d2.webp"
         },
         {
           "id": "29518653-lone-wolves-2024",
@@ -776,14 +832,6 @@
           "year": 2024,
           "poster": "https://lookmovie2.to/images/p/w400/954d3f6ca52ad227518feb0c3acd13a8.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/954d3f6ca52ad227518feb0c3acd13a8.webp"
-        },
-        {
-          "id": "2322932-the-hunted-2015",
-          "kind": "movie",
-          "title": "The Hunted",
-          "year": 2015,
-          "poster": "https://lookmovie2.to/images/p/w400/171aaab5a0c12c7274e2f567da53dc58.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/171aaab5a0c12c7274e2f567da53dc58.webp"
         }
       ]
     },
@@ -1286,6 +1334,14 @@
       "title": "Crime",
       "items": [
         {
+          "id": "10054992-dope-unit-2026",
+          "kind": "show",
+          "title": "D.O.P.E. Unit",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/03672abc32b261f9096c5ed876e66159.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/03672abc32b261f9096c5ed876e66159.webp"
+        },
+        {
           "id": "37724480-911-did-the-killer-call-2025",
           "kind": "show",
           "title": "911: Did the Killer Call?",
@@ -1340,14 +1396,6 @@
           "year": 2023,
           "poster": "https://lookmovie2.to/images/p/w400/1cdb3379bb3137ee3a668c10e39cddaa.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/1cdb3379bb3137ee3a668c10e39cddaa.webp"
-        },
-        {
-          "id": "10054992-dope-unit-2026",
-          "kind": "show",
-          "title": "D.O.P.E. Unit",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/407ba85451a07a34533bad20faee9765.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/407ba85451a07a34533bad20faee9765.webp"
         },
         {
           "id": "43383307-elvis-the-colonel-and-the-mob-2026",

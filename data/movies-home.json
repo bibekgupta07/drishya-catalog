@@ -235,6 +235,14 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "0082031-arthur-1981",
+          "kind": "movie",
+          "title": "Arthur",
+          "year": 1981,
+          "poster": "https://lookmovie2.to/images/p/w400/ef1fa20620ead7c9666548e92c611beb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ef1fa20620ead7c9666548e92c611beb.webp"
+        },
+        {
           "id": "0120669-fear-and-loathing-in-las-vegas-1998",
           "kind": "movie",
           "title": "Fear and Loathing in Las Vegas",
@@ -385,14 +393,6 @@
           "year": 1998,
           "poster": "https://lookmovie2.to/images/p/w400/ee8d70c1b275edeb69ce9b71255a83c9.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/ee8d70c1b275edeb69ce9b71255a83c9.webp"
-        },
-        {
-          "id": "36733913-everyone-is-lying-to-you-for-money-2026",
-          "kind": "movie",
-          "title": "Everyone Is Lying to You for Money",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8d64ce5f30fe7c573bc99801b3369bc8.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8d64ce5f30fe7c573bc99801b3369bc8.webp"
         }
       ]
     },
@@ -674,6 +674,14 @@
       "title": "Comedy",
       "items": [
         {
+          "id": "0082031-arthur-1981",
+          "kind": "movie",
+          "title": "Arthur",
+          "year": 1981,
+          "poster": "https://lookmovie2.to/images/p/w400/ef1fa20620ead7c9666548e92c611beb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ef1fa20620ead7c9666548e92c611beb.webp"
+        },
+        {
           "id": "0120669-fear-and-loathing-in-las-vegas-1998",
           "kind": "movie",
           "title": "Fear and Loathing in Las Vegas",
@@ -824,14 +832,6 @@
           "year": 2011,
           "poster": "https://lookmovie2.to/images/p/w400/b0319305eeaba5e334c55c213dfe17b0.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/b0319305eeaba5e334c55c213dfe17b0.webp"
-        },
-        {
-          "id": "1295021-scooby-doo-and-the-goblin-king-2008",
-          "kind": "movie",
-          "title": "Scooby-Doo! and the Goblin King",
-          "year": 2008,
-          "poster": "https://lookmovie2.to/images/p/w400/2e442243fca41d96e9d50fffb5be0bba.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2e442243fca41d96e9d50fffb5be0bba.webp"
         }
       ]
     },
@@ -1169,6 +1169,14 @@
       "title": "Drama",
       "items": [
         {
+          "id": "0386950-mayday-2003",
+          "kind": "show",
+          "title": "Mayday",
+          "year": 2003,
+          "poster": "https://lookmovie2.to/images/p/w400/a49411ec7977d3e2e92d0e060ba684ee.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a49411ec7977d3e2e92d0e060ba684ee.webp"
+        },
+        {
           "id": "27208330-new-bandits-2023",
           "kind": "show",
           "title": "Cangaço Novo",
@@ -1319,20 +1327,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/957f6ff53176743711226e1d171f3daa.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/957f6ff53176743711226e1d171f3daa.webp"
-        },
-        {
-          "id": "39379411-banksters-2026",
-          "kind": "show",
-          "title": "Banksters",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/a9de268308a7dab7d1f9077422cc768d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/a9de268308a7dab7d1f9077422cc768d.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "0386950-mayday-2003",
+          "kind": "show",
+          "title": "Mayday",
+          "year": 2003,
+          "poster": "https://lookmovie2.to/images/p/w400/a49411ec7977d3e2e92d0e060ba684ee.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a49411ec7977d3e2e92d0e060ba684ee.webp"
+        },
         {
           "id": "27208330-new-bandits-2023",
           "kind": "show",
@@ -1484,14 +1492,6 @@
           "year": 2021,
           "poster": "https://lookmovie2.to/images/p/w400/a148345de6340c943518a65c7de97805.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/a148345de6340c943518a65c7de97805.webp"
-        },
-        {
-          "id": "10119542-cruise-ship-killers-2020",
-          "kind": "show",
-          "title": "Cruise Ship Killers",
-          "year": 2020,
-          "poster": "https://lookmovie2.to/images/p/w400/6a7bbdb6defbcde6f7941e8beb7d312a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/6a7bbdb6defbcde6f7941e8beb7d312a.webp"
         }
       ]
     }

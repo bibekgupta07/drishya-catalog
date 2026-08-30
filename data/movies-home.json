@@ -166,14 +166,6 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/e34c9b8fe35f09bb5c186ebb15284f23.webp"
         },
         {
-          "id": "29516222-deep-water-2026",
-          "kind": "movie",
-          "title": "Deep Water",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/de52054cdc184f03e06809ace19b1a00.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/8836e746d27544ed66ea7bf85310769d.webp"
-        },
-        {
           "id": "2012616-motor-city-2026",
           "kind": "movie",
           "title": "Motor City",
@@ -228,6 +220,14 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/070c3e7a445ddfefa02e4dbe458d371a.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/449d783ccd6b85cf6495308234ff2e53.webp"
+        },
+        {
+          "id": "6743524-camp-rock-3-2026",
+          "kind": "movie",
+          "title": "Camp Rock 3",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/776d718a3ac379de5b70e632669d53ee.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/5394d6f455bd54e2583d274a85842ad5.webp"
         }
       ]
     },
@@ -400,6 +400,14 @@
       "title": "New TV Shows",
       "items": [
         {
+          "id": "13111078-special-ops-lioness-2023",
+          "kind": "show",
+          "title": "Season 3, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5a791a8529f4b804a54c81f25b6e511b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5a791a8529f4b804a54c81f25b6e511b.webp"
+        },
+        {
           "id": "41276828-hanaori-san-still-wants-to-fight-in-the-next-life-2026",
           "kind": "show",
           "title": "Season 1, Episode 8",
@@ -550,14 +558,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/b527d5e2e564cef95d42d025d58af92e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/b527d5e2e564cef95d42d025d58af92e.webp"
-        },
-        {
-          "id": "37577523-mao-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 22",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/fb29a5c918a90a6d322c8bd6068a9228.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/fb29a5c918a90a6d322c8bd6068a9228.webp"
         }
       ]
     },
@@ -1225,6 +1225,14 @@
       "title": "Drama",
       "items": [
         {
+          "id": "13111078-special-ops-lioness-2023",
+          "kind": "show",
+          "title": "Lioness",
+          "year": 2023,
+          "poster": "https://lookmovie2.to/images/p/w400/5a791a8529f4b804a54c81f25b6e511b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5a791a8529f4b804a54c81f25b6e511b.webp"
+        },
+        {
           "id": "42344158-paris-is-always-a-good-idea-2026",
           "kind": "show",
           "title": "Paris is Always a Good Idea",
@@ -1375,14 +1383,6 @@
           "year": 1988,
           "poster": "https://lookmovie2.to/images/p/w400/7c987cc3be29982f1a80c501102f527f.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7c987cc3be29982f1a80c501102f527f.webp"
-        },
-        {
-          "id": "38876221-dalliance-2026",
-          "kind": "show",
-          "title": "Dalliance",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8c4a4f5ce460aebce0e3e2eb5c56f4d8.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8c4a4f5ce460aebce0e3e2eb5c56f4d8.webp"
         }
       ]
     },

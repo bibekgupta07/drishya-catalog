@@ -78,14 +78,6 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/a956ca069a54640fff2620e12195d7f6.webp"
         },
         {
-          "id": "43706402-barreda-2026",
-          "kind": "movie",
-          "title": "Barreda",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/7586f843bd744eb3706302c422bf1e06.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/8ae722617aadd3d7dfcd6f230b7a6775.webp"
-        },
-        {
           "id": "35060353-the-wrong-girls-2026",
           "kind": "movie",
           "title": "The Wrong Girls",
@@ -228,6 +220,14 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/31c1f757f994876c807e66c78fa49393.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/2d3ab3fa253d5338dd8121d97aa84e3b.webp"
+        },
+        {
+          "id": "17490712-mortal-kombat-ii-2026",
+          "kind": "movie",
+          "title": "Mortal Kombat II",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/1541d8427adf025908daef12e8d0b02b.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/786d75b11d961bfd7948890a38525576.webp"
         }
       ]
     },
@@ -1217,12 +1217,28 @@
       "title": "Drama",
       "items": [
         {
+          "id": "0059978-dark-shadows-1966",
+          "kind": "show",
+          "title": "Dark Shadows",
+          "year": 1966,
+          "poster": "https://lookmovie2.to/images/p/w400/4ce58f044ac782f301f355f185c3ccd2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/4ce58f044ac782f301f355f185c3ccd2.webp"
+        },
+        {
           "id": "0058796-days-of-our-lives-1965",
           "kind": "show",
           "title": "Days of Our Lives",
           "year": 1965,
-          "poster": "https://lookmovie2.to/images/p/w400/01fcc19e98b23502cb0510c3e766a5ca.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/01fcc19e98b23502cb0510c3e766a5ca.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp"
+        },
+        {
+          "id": "0069658-the-young-and-the-restless-1973",
+          "kind": "show",
+          "title": "The Young and the Restless",
+          "year": 1973,
+          "poster": "https://lookmovie2.to/images/p/w400/422dc31a666e60d022549dcb3fece424.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/422dc31a666e60d022549dcb3fece424.webp"
         },
         {
           "id": "0094481-home-and-away-1988",
@@ -1345,14 +1361,6 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/b700081af7a4e8f6866f1d527b303956.webp"
         },
         {
-          "id": "32465417-le-retour-danna-brodeur-2024",
-          "kind": "show",
-          "title": "Anna Comes Home",
-          "year": 2024,
-          "poster": "https://lookmovie2.to/images/p/w400/73d23e34be24773e9e647c9f22695eaa.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/73d23e34be24773e9e647c9f22695eaa.webp"
-        },
-        {
           "id": "35836656-he-had-it-coming-2025",
           "kind": "show",
           "title": "He Had It Coming",
@@ -1367,20 +1375,20 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/e0e687c0323d0454969b1b51c9f5de0e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/e0e687c0323d0454969b1b51c9f5de0e.webp"
-        },
-        {
-          "id": "23052950-deli-boys-2025",
-          "kind": "show",
-          "title": "Deli Boys",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/5ac320b17fc97b3ada1083736ca717df.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/5ac320b17fc97b3ada1083736ca717df.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "26542864-green-eyed-killers-2021",
+          "kind": "show",
+          "title": "Green Eyed Killers",
+          "year": 2021,
+          "poster": "https://lookmovie2.to/images/p/w400/a1d0bfbbeee751a4faee53b09306e71c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a1d0bfbbeee751a4faee53b09306e71c.webp"
+        },
         {
           "id": "8135220-sprawiedliwi-wydzial-kryminalny-2016",
           "kind": "show",
@@ -1524,14 +1532,6 @@
           "year": 1982,
           "poster": "https://lookmovie2.to/images/p/w400/b7d12a8275b6eecf10bf36a23d71d00d.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/b7d12a8275b6eecf10bf36a23d71d00d.webp"
-        },
-        {
-          "id": "26542864-green-eyed-killers-2021",
-          "kind": "show",
-          "title": "Green Eyed Killers",
-          "year": 2021,
-          "poster": "https://lookmovie2.to/images/p/w400/a1d0bfbbeee751a4faee53b09306e71c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/a1d0bfbbeee751a4faee53b09306e71c.webp"
         },
         {
           "id": "24512262-fightland-2026",

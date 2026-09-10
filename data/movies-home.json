@@ -78,14 +78,6 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/ff22e4a165b4cb2cf523cbd0004ee8f1.webp"
         },
         {
-          "id": "37752275-clash-of-the-thundermans-2026",
-          "kind": "movie",
-          "title": "Clash of the Thundermans",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/d4eacfe2d9f83c1418c21c07bd20aa54.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/b49a1b0652997f02c8a894cc01bd0b9a.webp"
-        },
-        {
           "id": "21285562-the-dog-stars-2026",
           "kind": "movie",
           "title": "The Dog Stars",
@@ -206,6 +198,14 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/284fc4efc388dcd883effc85269e8525.webp"
         },
         {
+          "id": "32612507-lee-cronins-the-mummy-2026",
+          "kind": "movie",
+          "title": "Lee Cronin's The Mummy",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/81819c1b26ac8d37493ffb8de122e52c.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/214e80edb55f764a3cfce9c8a84bf6a5.webp"
+        },
+        {
           "id": "31195136-normal-2026",
           "kind": "movie",
           "title": "Normal",
@@ -234,6 +234,22 @@
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "43696908-the-hunted-2026",
+          "kind": "movie",
+          "title": "The Hunted",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/ff3a946ca6b7a07d8282794ed939ccd6.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ff3a946ca6b7a07d8282794ed939ccd6.webp"
+        },
+        {
+          "id": "0030311-career-1938",
+          "kind": "movie",
+          "title": "Career",
+          "year": 1938,
+          "poster": "https://lookmovie2.to/images/p/w400/a64614cc23a7716e9fe2edfe33dd5b99.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a64614cc23a7716e9fe2edfe33dd5b99.webp"
+        },
         {
           "id": "0317303-daddy-day-care-2003",
           "kind": "movie",
@@ -377,22 +393,6 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/3d52090dc40b3dc7498be026c8d6ca09.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/3d52090dc40b3dc7498be026c8d6ca09.webp"
-        },
-        {
-          "id": "0098297-the-lady-of-the-orient-express-1989",
-          "kind": "movie",
-          "title": "The Lady of the Orient-Express",
-          "year": 1989,
-          "poster": "https://lookmovie2.to/images/p/w400/149d8d115baf94e5605ea4b1ec24a6fe.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/149d8d115baf94e5605ea4b1ec24a6fe.webp"
-        },
-        {
-          "id": "0100910-bury-me-high-1991",
-          "kind": "movie",
-          "title": "Bury Me High",
-          "year": 1991,
-          "poster": "https://lookmovie2.to/images/p/w400/bbd1156373ca49efb42ca54b9d9d689c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/bbd1156373ca49efb42ca54b9d9d689c.webp"
         }
       ]
     },
@@ -400,12 +400,52 @@
       "title": "New TV Shows",
       "items": [
         {
+          "id": "38267477-bang-dream-yumemita-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 13",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/f9c41d374ae598a49428c6e811f23a85.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/f9c41d374ae598a49428c6e811f23a85.webp"
+        },
+        {
           "id": "0094481-home-and-away-1988",
           "kind": "show",
-          "title": "Season 39, Episode 152",
+          "title": "Season 39, Episode 153",
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/7c987cc3be29982f1a80c501102f527f.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/7c987cc3be29982f1a80c501102f527f.webp"
+        },
+        {
+          "id": "39195667-dara-san-of-reiwa-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 11",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/228d9d9c791fa46301a33b9f016d5675.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/228d9d9c791fa46301a33b9f016d5675.webp"
+        },
+        {
+          "id": "13192574-bungo-stray-dogs-wan-2021",
+          "kind": "show",
+          "title": "Season 2, Episode 11",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/2b27af5e0b55d079e61ab41bf371dbfb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/2b27af5e0b55d079e61ab41bf371dbfb.webp"
+        },
+        {
+          "id": "0068069-emmerdale-1972",
+          "kind": "show",
+          "title": "Season 55, Episode 168",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/18b480eb847f78d857c194ca9affa5c0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/18b480eb847f78d857c194ca9affa5c0.webp"
+        },
+        {
+          "id": "0053494-coronation-street-1960",
+          "kind": "show",
+          "title": "Season 67, Episode 168",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/beeea3ada7a293794c364c4c725d8710.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/beeea3ada7a293794c364c4c725d8710.webp"
         },
         {
           "id": "12327578-star-trek-strange-new-worlds-2022",
@@ -446,30 +486,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/f009dd487b46967a3a48f03fa0ceec2e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/f009dd487b46967a3a48f03fa0ceec2e.webp"
-        },
-        {
-          "id": "31091039-the-secret-lives-of-mormon-wives-2024",
-          "kind": "show",
-          "title": "Season 5, Episode 5",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/d308b1535cf058d4ac8c77132e91078a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/d308b1535cf058d4ac8c77132e91078a.webp"
-        },
-        {
-          "id": "10054992-dope-unit-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 6",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/407ba85451a07a34533bad20faee9765.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/407ba85451a07a34533bad20faee9765.webp"
-        },
-        {
-          "id": "41279522-the-world-is-dancing-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 11",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/4fd45fd12e4c3b9aa1de79ecc81f1322.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/4fd45fd12e4c3b9aa1de79ecc81f1322.webp"
         }
       ]
     },
@@ -1145,6 +1161,30 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/7c987cc3be29982f1a80c501102f527f.webp"
         },
         {
+          "id": "17371078-the-ark-2023",
+          "kind": "show",
+          "title": "The Ark",
+          "year": 2023,
+          "poster": "https://lookmovie2.to/images/p/w400/0d6632af3281a24d9952735f34ee33d7.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/0d6632af3281a24d9952735f34ee33d7.webp"
+        },
+        {
+          "id": "0068069-emmerdale-1972",
+          "kind": "show",
+          "title": "Emmerdale",
+          "year": 1972,
+          "poster": "https://lookmovie2.to/images/p/w400/18b480eb847f78d857c194ca9affa5c0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/18b480eb847f78d857c194ca9affa5c0.webp"
+        },
+        {
+          "id": "0053494-coronation-street-1960",
+          "kind": "show",
+          "title": "Coronation Street",
+          "year": 1960,
+          "poster": "https://lookmovie2.to/images/p/w400/beeea3ada7a293794c364c4c725d8710.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/beeea3ada7a293794c364c4c725d8710.webp"
+        },
+        {
           "id": "9288030-jack-reacher-2021",
           "kind": "show",
           "title": "Reacher",
@@ -1183,14 +1223,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/3776bf2ee20cd45c1b761c6f00436e5c.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/3776bf2ee20cd45c1b761c6f00436e5c.webp"
-        },
-        {
-          "id": "17371078-the-ark-2023",
-          "kind": "show",
-          "title": "The Ark",
-          "year": 2023,
-          "poster": "https://lookmovie2.to/images/p/w400/415fab5602559154e52927a60f568153.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/415fab5602559154e52927a60f568153.webp"
         },
         {
           "id": "13368190-judy-justice-2021",
@@ -1279,28 +1311,20 @@
           "year": 2019,
           "poster": "https://lookmovie2.to/images/p/w400/22bca803276da604ac6c0b2d2440c254.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/22bca803276da604ac6c0b2d2440c254.webp"
-        },
-        {
-          "id": "36210894-the-drop-a-snowfall-saga-2026",
-          "kind": "show",
-          "title": "The Drop: A Snowfall Saga",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8bd246bdd5e6db95eec6266637cfe0c7.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8bd246bdd5e6db95eec6266637cfe0c7.webp"
-        },
-        {
-          "id": "0068069-emmerdale-1972",
-          "kind": "show",
-          "title": "Emmerdale",
-          "year": 1972,
-          "poster": "https://lookmovie2.to/images/p/w400/18b480eb847f78d857c194ca9affa5c0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/18b480eb847f78d857c194ca9affa5c0.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "28196636-booked-first-day-in-2023",
+          "kind": "show",
+          "title": "Booked: First Day In",
+          "year": 2023,
+          "poster": "https://lookmovie2.to/images/p/w400/70db3df657cab208d2d0234a3f777242.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/70db3df657cab208d2d0234a3f777242.webp"
+        },
         {
           "id": "9288030-jack-reacher-2021",
           "kind": "show",
@@ -1452,14 +1476,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/1a9b7d091992ee51bcc682c752365519.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/1a9b7d091992ee51bcc682c752365519.webp"
-        },
-        {
-          "id": "34824890-to-kill-a-dictator-2024",
-          "kind": "show",
-          "title": "To Kill a Dictator",
-          "year": 2024,
-          "poster": "https://lookmovie2.to/images/p/w400/f9cb46c0fbaea942752a0134ded51710.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f9cb46c0fbaea942752a0134ded51710.webp"
         }
       ]
     }

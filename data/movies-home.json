@@ -235,6 +235,22 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "0284837-ali-g-indahouse-2002",
+          "kind": "movie",
+          "title": "Ali G Indahouse",
+          "year": 2002,
+          "poster": "https://lookmovie2.to/images/p/w400/cb96146b239337ad7d0f7f3cc735f956.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/cb96146b239337ad7d0f7f3cc735f956.webp"
+        },
+        {
+          "id": "0081794-the-young-tiger-1973",
+          "kind": "movie",
+          "title": "The Young Tiger",
+          "year": 1973,
+          "poster": "https://lookmovie2.to/images/p/w400/5d0a28de4557e8c27361ae0930fc8b57.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5d0a28de4557e8c27361ae0930fc8b57.webp"
+        },
+        {
           "id": "2664880-dark-woods-ii-2015",
           "kind": "movie",
           "title": "Dark Woods II",
@@ -377,22 +393,6 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/451ba794137a7648f6e821aab1f95dd4.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/451ba794137a7648f6e821aab1f95dd4.webp"
-        },
-        {
-          "id": "0115832-carlas-song-1996",
-          "kind": "movie",
-          "title": "Carla's Song",
-          "year": 1996,
-          "poster": "https://lookmovie2.to/images/p/w400/fa374b43f5a3b12775c2857d0b51c880.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/fa374b43f5a3b12775c2857d0b51c880.webp"
-        },
-        {
-          "id": "32780794-shadows-of-willow-cabin-2025",
-          "kind": "movie",
-          "title": "Shadows of Willow Cabin",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/a607c3d0b60dc297a2fb447954372d4a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/a607c3d0b60dc297a2fb447954372d4a.webp"
         }
       ]
     },
@@ -430,6 +430,54 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/119f5136daaea875c6e54cbbdcfa93bc.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/119f5136daaea875c6e54cbbdcfa93bc.webp"
+        },
+        {
+          "id": "0446809-deadliest-catch-2005",
+          "kind": "show",
+          "title": "Season 22, Episode 17",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/1b7a881f0886e5b3d677f7a963405709.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/1b7a881f0886e5b3d677f7a963405709.webp"
+        },
+        {
+          "id": "42694084-roast-my-rental-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 8",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5fdb00c47ef65fb7fe24c70aea67831b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5fdb00c47ef65fb7fe24c70aea67831b.webp"
+        },
+        {
+          "id": "0227972-wwe-smackdown-live-1999",
+          "kind": "show",
+          "title": "Season 28, Episode 37",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/58238813c8f8a78df67cf6d372a9c404.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/58238813c8f8a78df67cf6d372a9c404.webp"
+        },
+        {
+          "id": "0058796-days-of-our-lives-1965",
+          "kind": "show",
+          "title": "Season 62, Episode 15",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/816e004046e048929114809c2a47fc8d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/816e004046e048929114809c2a47fc8d.webp"
+        },
+        {
+          "id": "0056758-general-hospital-1963",
+          "kind": "show",
+          "title": "Season 64, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/6e113b187ce135281dcd691bfc7789b1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/6e113b187ce135281dcd691bfc7789b1.webp"
+        },
+        {
+          "id": "36937503-anna-pigeon-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 6",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp"
         },
         {
           "id": "0350448-real-time-with-bill-maher-2003",
@@ -494,52 +542,20 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/390c87a315cf36ec3b6194260eba076c.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/390c87a315cf36ec3b6194260eba076c.webp"
-        },
-        {
-          "id": "43595727-the-producer-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/d75538a5e2852d806108bb484448126f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/d75538a5e2852d806108bb484448126f.webp"
-        },
-        {
-          "id": "9054364-that-time-i-got-reincarnated-as-a-slime-2018",
-          "kind": "show",
-          "title": "Season 4, Episode 22",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/1e15a7284bc0427c48bdc9306d3a5d99.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/1e15a7284bc0427c48bdc9306d3a5d99.webp"
-        },
-        {
-          "id": "39026840-the-drops-of-god-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 23",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/6612976374891a369686c5761c3207b5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/6612976374891a369686c5761c3207b5.webp"
-        },
-        {
-          "id": "0053494-coronation-street-1960",
-          "kind": "show",
-          "title": "Season 67, Episode 169",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/beeea3ada7a293794c364c4c725d8710.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/beeea3ada7a293794c364c4c725d8710.webp"
-        },
-        {
-          "id": "13368190-judy-justice-2021",
-          "kind": "show",
-          "title": "Season 4, Episode 90",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/e6993339bfd69058f8bbbd08f6735fa9.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/e6993339bfd69058f8bbbd08f6735fa9.webp"
         }
       ]
     },
     {
       "title": "Action",
       "items": [
+        {
+          "id": "0081794-the-young-tiger-1973",
+          "kind": "movie",
+          "title": "The Young Tiger",
+          "year": 1973,
+          "poster": "https://lookmovie2.to/images/p/w400/5d0a28de4557e8c27361ae0930fc8b57.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5d0a28de4557e8c27361ae0930fc8b57.webp"
+        },
         {
           "id": "0407707-deadly-cargo-2003",
           "kind": "movie",
@@ -691,20 +707,20 @@
           "year": 1988,
           "poster": "https://lookmovie2.to/images/p/w400/66d05857cb4c2a95679ad93f24dd4c02.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/66d05857cb4c2a95679ad93f24dd4c02.webp"
-        },
-        {
-          "id": "38935876-demo-2025",
-          "kind": "movie",
-          "title": "DEMO",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/104636ff634adfefd5814461f34e10c3.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/104636ff634adfefd5814461f34e10c3.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "0284837-ali-g-indahouse-2002",
+          "kind": "movie",
+          "title": "Ali G Indahouse",
+          "year": 2002,
+          "poster": "https://lookmovie2.to/images/p/w400/cb96146b239337ad7d0f7f3cc735f956.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/cb96146b239337ad7d0f7f3cc735f956.webp"
+        },
         {
           "id": "4147596-breaking-legs-2017",
           "kind": "movie",
@@ -856,14 +872,6 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/ea60ccd9d741ea9c3e2fda84e7a7d0bb.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/ea60ccd9d741ea9c3e2fda84e7a7d0bb.webp"
-        },
-        {
-          "id": "29543015-portal-to-hell-2025",
-          "kind": "movie",
-          "title": "Portal to Hell",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/3d52090dc40b3dc7498be026c8d6ca09.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3d52090dc40b3dc7498be026c8d6ca09.webp"
         }
       ]
     },
@@ -1201,6 +1209,30 @@
       "title": "Drama",
       "items": [
         {
+          "id": "10885406-ascendance-of-a-bookworm-2019",
+          "kind": "show",
+          "title": "Ascendance of a Bookworm",
+          "year": 2019,
+          "poster": "https://lookmovie2.to/images/p/w400/c076eff9b59c79eb02ecf6dcb83b80db.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c076eff9b59c79eb02ecf6dcb83b80db.webp"
+        },
+        {
+          "id": "0058796-days-of-our-lives-1965",
+          "kind": "show",
+          "title": "Days of Our Lives",
+          "year": 1965,
+          "poster": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp"
+        },
+        {
+          "id": "36937503-anna-pigeon-2026",
+          "kind": "show",
+          "title": "Anna Pigeon",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp"
+        },
+        {
           "id": "27982433-diarra-from-detroit-2024",
           "kind": "show",
           "title": "Diarra from Detroit",
@@ -1335,36 +1367,20 @@
           "year": 2023,
           "poster": "https://lookmovie2.to/images/p/w400/3374d94a28fcecbd181825202161072d.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/3374d94a28fcecbd181825202161072d.webp"
-        },
-        {
-          "id": "43693764-deep-revenge-2026",
-          "kind": "show",
-          "title": "Deep Revenge",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/7302cd0c2d72579a9c38faf45ccc09aa.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7302cd0c2d72579a9c38faf45ccc09aa.webp"
-        },
-        {
-          "id": "14976292-link-click-2021",
-          "kind": "show",
-          "title": "LINK CLICK",
-          "year": 2021,
-          "poster": "https://lookmovie2.to/images/p/w400/ccbaa488529f4af07ae490bf1a219f16.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/ccbaa488529f4af07ae490bf1a219f16.webp"
-        },
-        {
-          "id": "0058796-days-of-our-lives-1965",
-          "kind": "show",
-          "title": "Days of Our Lives",
-          "year": 1965,
-          "poster": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "36937503-anna-pigeon-2026",
+          "kind": "show",
+          "title": "Anna Pigeon",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp"
+        },
         {
           "id": "27982433-diarra-from-detroit-2024",
           "kind": "show",
@@ -1452,14 +1468,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/7019351cf1725f77bab7d808a1aa4389.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7019351cf1725f77bab7d808a1aa4389.webp"
-        },
-        {
-          "id": "36937503-anna-pigeon-2026",
-          "kind": "show",
-          "title": "Anna Pigeon",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp"
         },
         {
           "id": "43657402-umthetho-2026",

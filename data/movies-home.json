@@ -214,12 +214,12 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/a49b8944b0f4b5098bffccc0652489c7.webp"
         },
         {
-          "id": "43749709-grand-theft-auto-vi-an-extended-look-2026",
+          "id": "31195136-normal-2026",
           "kind": "movie",
-          "title": "Grand Theft Auto VI: An Extended Look",
+          "title": "Normal",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/ceebb307fc0cb0dc4050b13df9ad4afa.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/284fc4efc388dcd883effc85269e8525.webp"
+          "poster": "https://lookmovie2.to/images/p/w500/31c1f757f994876c807e66c78fa49393.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/2d3ab3fa253d5338dd8121d97aa84e3b.webp"
         },
         {
           "id": "17490712-mortal-kombat-ii-2026",
@@ -234,6 +234,46 @@
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "0338427-shopgirl-2005",
+          "kind": "movie",
+          "title": "Shopgirl",
+          "year": 2005,
+          "poster": "https://lookmovie2.to/images/p/w400/49e2d68319776d8572672ffa6963e0a8.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/49e2d68319776d8572672ffa6963e0a8.webp"
+        },
+        {
+          "id": "32267711-rufus-the-sea-serpent-who-couldnt-swim-2025",
+          "kind": "movie",
+          "title": "Rufus: The Sea Serpent Who Couldn't Swim",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/5021b71b0261dff1aed824f2f12a6c00.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5021b71b0261dff1aed824f2f12a6c00.webp"
+        },
+        {
+          "id": "29514817-best-boy-2026",
+          "kind": "movie",
+          "title": "Best Boy",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/c8affab3f7996169a3acb1767313312c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c8affab3f7996169a3acb1767313312c.webp"
+        },
+        {
+          "id": "36809539-after-impact-2026",
+          "kind": "movie",
+          "title": "After Impact",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/39a31e392e2ee555b3ddf133cadab081.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/39a31e392e2ee555b3ddf133cadab081.webp"
+        },
+        {
+          "id": "29512655-rage-of-stars-2026",
+          "kind": "movie",
+          "title": "Rage of Stars",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/e31e3908164f48b3b34f6b164f162ac1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e31e3908164f48b3b34f6b164f162ac1.webp"
+        },
         {
           "id": "40231163-run-hide-fight-infidels-2026",
           "kind": "movie",
@@ -353,52 +393,60 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/899c5c1de0a934a311e81c857c89826a.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/899c5c1de0a934a311e81c857c89826a.webp"
-        },
-        {
-          "id": "33095251-tony-2026",
-          "kind": "movie",
-          "title": "Tony",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/ac11f84c44a296bdc336be3e6480cb2a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/ac11f84c44a296bdc336be3e6480cb2a.webp"
-        },
-        {
-          "id": "0108067-the-last-lieutenant-1993",
-          "kind": "movie",
-          "title": "The Last Lieutenant",
-          "year": 1993,
-          "poster": "https://lookmovie2.to/images/p/w400/e1a281c6f3512f5ab525c1a5db067e8f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/e1a281c6f3512f5ab525c1a5db067e8f.webp"
-        },
-        {
-          "id": "28553375-de-gaulle-resistance-2026",
-          "kind": "movie",
-          "title": "De Gaulle: Résistance",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/efab24538bffc3f5d02da11fcd3da3e7.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/efab24538bffc3f5d02da11fcd3da3e7.webp"
-        },
-        {
-          "id": "0119858-paradise-falls-1997",
-          "kind": "movie",
-          "title": "Paradise Falls",
-          "year": 1997,
-          "poster": "https://lookmovie2.to/images/p/w400/d52ed753050c9aa325b56e729f05400f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d52ed753050c9aa325b56e729f05400f.webp"
-        },
-        {
-          "id": "13239670-thomas-vs-thomas-a-sensational-theory-regarding-an-insignificant-life-in-the-multiverse-2022",
-          "kind": "movie",
-          "title": "Thomas vs. Thomas (A Sensational Theory Regarding an Insignificant Life in the Multiverse)",
-          "year": 2022,
-          "poster": "https://lookmovie2.to/images/p/w400/2b4b06092445d963dae8ca85012eecd8.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2b4b06092445d963dae8ca85012eecd8.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "21352768-help-we-bought-a-village-2022",
+          "kind": "show",
+          "title": "Season 5, Episode 8",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/1d342651fdee767d1e2f00d1431a278b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/1d342651fdee767d1e2f00d1431a278b.webp"
+        },
+        {
+          "id": "11942952-money-for-nothing-2015",
+          "kind": "show",
+          "title": "Season 19, Episode 11",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/2bc36c120d54f2bacc274853678744be.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/2bc36c120d54f2bacc274853678744be.webp"
+        },
+        {
+          "id": "43589481-thunder-3-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 11",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/71a15b56fe9e6acd436be4fe6c928084.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/71a15b56fe9e6acd436be4fe6c928084.webp"
+        },
+        {
+          "id": "23030000-jet-lag-the-game-2022",
+          "kind": "show",
+          "title": "Season 19, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/3594c5e06f6a24927a8e99d6d1f80f8b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/3594c5e06f6a24927a8e99d6d1f80f8b.webp"
+        },
+        {
+          "id": "35346717-from-old-country-bumpkin-to-master-swordsman-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 11",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/7594eda7b28b5f9428ed57d82a1ed350.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/7594eda7b28b5f9428ed57d82a1ed350.webp"
+        },
+        {
+          "id": "6354184-garden-rescue-2016",
+          "kind": "show",
+          "title": "Season 11, Episode 21",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/2056f14b821b9112c8971a0cc6a0c010.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/2056f14b821b9112c8971a0cc6a0c010.webp"
+        },
         {
           "id": "16255458-trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-2022",
           "kind": "show",
@@ -478,20 +526,20 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/f7d6d05221aa38db82856578cb2ce49c.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/f7d6d05221aa38db82856578cb2ce49c.webp"
-        },
-        {
-          "id": "39390479-physical-100-mexico-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 1",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/7385ed98a823d296eba8fd15fe50b902.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/7385ed98a823d296eba8fd15fe50b902.webp"
         }
       ]
     },
     {
       "title": "Action",
       "items": [
+        {
+          "id": "29512655-rage-of-stars-2026",
+          "kind": "movie",
+          "title": "Rage of Stars",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/e31e3908164f48b3b34f6b164f162ac1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e31e3908164f48b3b34f6b164f162ac1.webp"
+        },
         {
           "id": "40231163-run-hide-fight-infidels-2026",
           "kind": "movie",
@@ -643,20 +691,28 @@
           "year": 2020,
           "poster": "https://lookmovie2.to/images/p/w400/7e4c6eaaaf3d0dc8eb73e27a4b35a0bf.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7e4c6eaaaf3d0dc8eb73e27a4b35a0bf.webp"
-        },
-        {
-          "id": "0185511-war-of-the-shaolin-temple-1980",
-          "kind": "movie",
-          "title": "War of the Shaolin Temple",
-          "year": 1980,
-          "poster": "https://lookmovie2.to/images/p/w400/49feac4d79f32f229ebe89a877db49fc.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/49feac4d79f32f229ebe89a877db49fc.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "0338427-shopgirl-2005",
+          "kind": "movie",
+          "title": "Shopgirl",
+          "year": 2005,
+          "poster": "https://lookmovie2.to/images/p/w400/49e2d68319776d8572672ffa6963e0a8.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/49e2d68319776d8572672ffa6963e0a8.webp"
+        },
+        {
+          "id": "29514817-best-boy-2026",
+          "kind": "movie",
+          "title": "Best Boy",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/c8affab3f7996169a3acb1767313312c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c8affab3f7996169a3acb1767313312c.webp"
+        },
         {
           "id": "32588798-practical-magic-2-2026",
           "kind": "movie",
@@ -800,22 +856,6 @@
           "year": 1991,
           "poster": "https://lookmovie2.to/images/p/w400/b9bce0afd2a36e4f772842f4b7589d22.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/b9bce0afd2a36e4f772842f4b7589d22.webp"
-        },
-        {
-          "id": "35396916-national-theatre-live-the-importance-of-being-earnest-2025",
-          "kind": "movie",
-          "title": "National Theatre Live: The Importance of Being Earnest",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/e1eae47cc5599ba8bd2f9a6cac4ef61e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/e1eae47cc5599ba8bd2f9a6cac4ef61e.webp"
-        },
-        {
-          "id": "0096223-tapeheads-1988",
-          "kind": "movie",
-          "title": "Tapeheads",
-          "year": 1988,
-          "poster": "https://lookmovie2.to/images/p/w400/2a6fe888e7422a51522082328bc5c07d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2a6fe888e7422a51522082328bc5c07d.webp"
         }
       ]
     },
@@ -988,6 +1028,14 @@
       "title": "Sci-Fi",
       "items": [
         {
+          "id": "29512655-rage-of-stars-2026",
+          "kind": "movie",
+          "title": "Rage of Stars",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/e31e3908164f48b3b34f6b164f162ac1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e31e3908164f48b3b34f6b164f162ac1.webp"
+        },
+        {
           "id": "23027908-goldmine-2026",
           "kind": "movie",
           "title": "Goldmine",
@@ -1138,20 +1186,36 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/cd129e0d1f67f6519702192e42360954.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/cd129e0d1f67f6519702192e42360954.webp"
-        },
-        {
-          "id": "43679852-lego-star-wars-the-mandalorian-2026",
-          "kind": "movie",
-          "title": "LEGO Star Wars: The Mandalorian",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/962fd13c00b2ddedef02602cf27b4b68.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/962fd13c00b2ddedef02602cf27b4b68.webp"
         }
       ]
     },
     {
       "title": "Drama",
       "items": [
+        {
+          "id": "0413573-greys-anatomy-2005",
+          "kind": "show",
+          "title": "Grey's Anatomy",
+          "year": 2005,
+          "poster": "https://lookmovie2.to/images/p/w400/2900f1a1e4883adb4bb5a11f77b836eb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2900f1a1e4883adb4bb5a11f77b836eb.webp"
+        },
+        {
+          "id": "38646611-hana-kimi-2026",
+          "kind": "show",
+          "title": "Hana-Kimi",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/5799a92dfd39d957ee0ae670c79e97b2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5799a92dfd39d957ee0ae670c79e97b2.webp"
+        },
+        {
+          "id": "6455986-saga-of-tanya-the-evil-2017",
+          "kind": "show",
+          "title": "Saga of Tanya the Evil",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/150aeab6bc75eb658fe57290b4a9d1cb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/150aeab6bc75eb658fe57290b4a9d1cb.webp"
+        },
         {
           "id": "32991344-kurebatesu-maj-no-to-akago-to-kabane-no-ysha-2025",
           "kind": "show",
@@ -1287,30 +1351,6 @@
           "year": 2022,
           "poster": "https://lookmovie2.to/images/p/w400/e8e0ceaa8ed1148010feebe42bc00fc5.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/e8e0ceaa8ed1148010feebe42bc00fc5.webp"
-        },
-        {
-          "id": "6037988-last-seen-2026",
-          "kind": "show",
-          "title": "Last Seen",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/65db699c8a7263abdb13359432f8a4f5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/65db699c8a7263abdb13359432f8a4f5.webp"
-        },
-        {
-          "id": "37063558-rj-decker-2026",
-          "kind": "show",
-          "title": "R.J. Decker",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/961fb23c8eb2448a32d98880cdaac5e9.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/961fb23c8eb2448a32d98880cdaac5e9.webp"
-        },
-        {
-          "id": "0069658-the-young-and-the-restless-1973",
-          "kind": "show",
-          "title": "The Young and the Restless",
-          "year": 1973,
-          "poster": "https://lookmovie2.to/images/p/w400/c809b90cf89493423bcd2a2be9e0e0ba.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/c809b90cf89493423bcd2a2be9e0e0ba.webp"
         }
       ]
     },

@@ -235,6 +235,30 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "32881442-monkeys-magic-merry-go-round-2026",
+          "kind": "movie",
+          "title": "Monkey’s Magic Merry Go Round",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/ad4ef10c224643f71344d0e190ca86df.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ad4ef10c224643f71344d0e190ca86df.webp"
+        },
+        {
+          "id": "4018322-abductee-2024",
+          "kind": "movie",
+          "title": "Abductee",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/c8b22f546dcf019f70ed49be9dcb2022.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c8b22f546dcf019f70ed49be9dcb2022.webp"
+        },
+        {
+          "id": "41169250-breaking-point-0",
+          "kind": "movie",
+          "title": "Breaking Point",
+          "year": 2026,
+          "poster": "",
+          "backdrop": ""
+        },
+        {
           "id": "10472102-comidark-films-2-the-pawn-2020",
           "kind": "movie",
           "title": "Comidark Films 2: The Pawn",
@@ -369,36 +393,36 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/16b3c6538a9b6a604d54e9a0337970b7.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/16b3c6538a9b6a604d54e9a0337970b7.webp"
-        },
-        {
-          "id": "9114286-black-panther-wakanda-forever-2022",
-          "kind": "movie",
-          "title": "Black Panther: Wakanda Forever",
-          "year": 2022,
-          "poster": "https://lookmovie2.to/images/p/w400/480402eea3b89b3091c2a67ef180beb1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/480402eea3b89b3091c2a67ef180beb1.webp"
-        },
-        {
-          "id": "28553375-de-gaulle-resistance-2026",
-          "kind": "movie",
-          "title": "De Gaulle: Résistance",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/efab24538bffc3f5d02da11fcd3da3e7.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/efab24538bffc3f5d02da11fcd3da3e7.webp"
-        },
-        {
-          "id": "11892482-all-the-moons-2020",
-          "kind": "movie",
-          "title": "All the Moons",
-          "year": 2020,
-          "poster": "https://lookmovie2.to/images/p/w400/30f20e98f434b4313bc5e4ec83998646.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/30f20e98f434b4313bc5e4ec83998646.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "41276849-recommendations-from-iwamoto-senpai-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 12",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/63c5c6be2a2829a3ccae1f615fe11e1f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/63c5c6be2a2829a3ccae1f615fe11e1f.webp"
+        },
+        {
+          "id": "11034066-welcome-to-demon-school-iruma-kun-2019",
+          "kind": "show",
+          "title": "Season 4, Episode 23",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5e610c85908ac809694ad48e82b973d0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5e610c85908ac809694ad48e82b973d0.webp"
+        },
+        {
+          "id": "37532893-black-torch-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 12",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/3d7b941281c5f8aabdc400c6c3637b6f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/3d7b941281c5f8aabdc400c6c3637b6f.webp"
+        },
         {
           "id": "38646634-hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing-2026",
           "kind": "show",
@@ -432,12 +456,20 @@
           "backdrop": "https://lookmovie2.to/images/p/w300/5daa73dbf5cecf0420f3f34371d41992.webp"
         },
         {
+          "id": "0072584-wheel-of-fortune-1983",
+          "kind": "show",
+          "title": "Season 44, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5667b0e730c8d0d4e54e802f46c9563f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5667b0e730c8d0d4e54e802f46c9563f.webp"
+        },
+        {
           "id": "36937503-anna-pigeon-2026",
           "kind": "show",
           "title": "Season 1, Episode 7",
           "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/166d7625473e60da6bb7313a92bfbf53.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/166d7625473e60da6bb7313a92bfbf53.webp"
+          "poster": "https://lookmovie2.to/images/p/w300/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp"
         },
         {
           "id": "0446809-deadliest-catch-2005",
@@ -526,30 +558,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/1a3dd7791b44a609748d61d73f657ac4.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/1a3dd7791b44a609748d61d73f657ac4.webp"
-        },
-        {
-          "id": "32125269-beyond-the-gates-2025",
-          "kind": "show",
-          "title": "Season 2, Episode 171",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp"
-        },
-        {
-          "id": "43619535-ja-z-in-8-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/dc521cf15395fae4256573a4e6ee8584.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/dc521cf15395fae4256573a4e6ee8584.webp"
-        },
-        {
-          "id": "32230839-smartypants-2024",
-          "kind": "show",
-          "title": "Season 3, Episode 8",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/96f12c6266c259f2a28c376b82337f61.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/96f12c6266c259f2a28c376b82337f61.webp"
         }
       ]
     },
@@ -887,6 +895,22 @@
       "title": "Horror",
       "items": [
         {
+          "id": "32881442-monkeys-magic-merry-go-round-2026",
+          "kind": "movie",
+          "title": "Monkey’s Magic Merry Go Round",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/ad4ef10c224643f71344d0e190ca86df.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ad4ef10c224643f71344d0e190ca86df.webp"
+        },
+        {
+          "id": "4018322-abductee-2024",
+          "kind": "movie",
+          "title": "Abductee",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/c8b22f546dcf019f70ed49be9dcb2022.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c8b22f546dcf019f70ed49be9dcb2022.webp"
+        },
+        {
           "id": "10546796-the-plantation-2025",
           "kind": "movie",
           "title": "The Plantation",
@@ -1029,28 +1053,20 @@
           "year": 2009,
           "poster": "https://lookmovie2.to/images/p/w400/4b16b7ce7927a46f77766f28c5f12b0f.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/4b16b7ce7927a46f77766f28c5f12b0f.webp"
-        },
-        {
-          "id": "33253206-the-last-kiss-2026",
-          "kind": "movie",
-          "title": "The Last Kiss",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/899c5c1de0a934a311e81c857c89826a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/899c5c1de0a934a311e81c857c89826a.webp"
-        },
-        {
-          "id": "3629032-bunnyman-vengeance-2017",
-          "kind": "movie",
-          "title": "Bunnyman Vengeance",
-          "year": 2017,
-          "poster": "https://lookmovie2.to/images/p/w400/18395640947ab5c0837e4f134826ceb3.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/18395640947ab5c0837e4f134826ceb3.webp"
         }
       ]
     },
     {
       "title": "Sci-Fi",
       "items": [
+        {
+          "id": "4018322-abductee-2024",
+          "kind": "movie",
+          "title": "Abductee",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/c8b22f546dcf019f70ed49be9dcb2022.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c8b22f546dcf019f70ed49be9dcb2022.webp"
+        },
         {
           "id": "0242653-the-matrix-revolutions-2003",
           "kind": "movie",
@@ -1202,20 +1218,28 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/6d9d10a06bf8aa74cd3c2a6f1d7ab097.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/6d9d10a06bf8aa74cd3c2a6f1d7ab097.webp"
-        },
-        {
-          "id": "4818168-mamaboy-2016",
-          "kind": "movie",
-          "title": "Mamaboy",
-          "year": 2016,
-          "poster": "https://lookmovie2.to/images/p/w400/3044ff74ca0dfb7138f9fbc9e5ef29aa.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3044ff74ca0dfb7138f9fbc9e5ef29aa.webp"
         }
       ]
     },
     {
       "title": "Drama",
       "items": [
+        {
+          "id": "11034066-welcome-to-demon-school-iruma-kun-2019",
+          "kind": "show",
+          "title": "Welcome to Demon School! Iruma-kun",
+          "year": 2019,
+          "poster": "https://lookmovie2.to/images/p/w400/5e610c85908ac809694ad48e82b973d0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5e610c85908ac809694ad48e82b973d0.webp"
+        },
+        {
+          "id": "36937503-anna-pigeon-2026",
+          "kind": "show",
+          "title": "Anna Pigeon",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp"
+        },
         {
           "id": "0069658-the-young-and-the-restless-1973",
           "kind": "show",
@@ -1359,22 +1383,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/407ba85451a07a34533bad20faee9765.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/407ba85451a07a34533bad20faee9765.webp"
-        },
-        {
-          "id": "43657402-umthetho-2026",
-          "kind": "show",
-          "title": "Umthetho",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/cb4e04814449227f5fa3dae576363ddb.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/cb4e04814449227f5fa3dae576363ddb.webp"
-        },
-        {
-          "id": "38828946-my-royal-nemesis-2026",
-          "kind": "show",
-          "title": "My Royal Nemesis",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/24d5ee329f9a57d4543f896ef16db85e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/24d5ee329f9a57d4543f896ef16db85e.webp"
         }
       ]
     },
@@ -1386,8 +1394,16 @@
           "kind": "show",
           "title": "Anna Pigeon",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/166d7625473e60da6bb7313a92bfbf53.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/166d7625473e60da6bb7313a92bfbf53.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp"
+        },
+        {
+          "id": "0103396-dateline-nbc-1992",
+          "kind": "show",
+          "title": "Dateline",
+          "year": 1992,
+          "poster": "https://lookmovie2.to/images/p/w400/825f5870c7ac2e4a332de3d4ba02aa62.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/825f5870c7ac2e4a332de3d4ba02aa62.webp"
         },
         {
           "id": "45972488-sydney-harbour-cops-2026",
@@ -1532,14 +1548,6 @@
           "year": 2020,
           "poster": "https://lookmovie2.to/images/p/w400/7433d88bab3ce0fea11d7bd17b7bd7c8.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7433d88bab3ce0fea11d7bd17b7bd7c8.webp"
-        },
-        {
-          "id": "11899030-the-responder-2021",
-          "kind": "show",
-          "title": "The Responder",
-          "year": 2022,
-          "poster": "https://lookmovie2.to/images/p/w400/2cedd63e8dd5a15698ff8c1e946338a2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2cedd63e8dd5a15698ff8c1e946338a2.webp"
         }
       ]
     }

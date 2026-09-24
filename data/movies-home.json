@@ -9,6 +9,14 @@
       "backdrop": "https://lookmovie2.to/images/b/w1280/ec12e825d79eb1430e128cfa53e92ea5.webp"
     },
     {
+      "id": "12446086-legend-of-the-white-dragon-2026",
+      "kind": "movie",
+      "title": "Legend of the White Dragon",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/19a34111a8e4327797a39b25d99ca2f1.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/924960e6975842453c4d0664efe2a8e2.webp"
+    },
+    {
       "id": "8820258-super-troopers-3-2026",
       "kind": "movie",
       "title": "Super Troopers 3",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/7767cb38573d5fc4b80864f2522a35d7.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/1f34ac7a5a9ac7de68861ecec8ec1f58.webp"
-    },
-    {
-      "id": "9601292-the-fix-2026",
-      "kind": "movie",
-      "title": "The Fix",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/a7cd15e0df1ea63728cb6d7448ca11cd.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/5db1a786e15876f087c45c990f6e18bc.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "9601292-the-fix-2026",
+          "kind": "movie",
+          "title": "The Fix",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/a7cd15e0df1ea63728cb6d7448ca11cd.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/5db1a786e15876f087c45c990f6e18bc.webp"
+        },
         {
           "id": "33305867-spa-weekend-2026",
           "kind": "movie",
@@ -132,14 +140,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/1f32ad13e83d63c947e0bc51f7704736.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/1b3128c74233585b7464c18d22bac7e4.webp"
-        },
-        {
-          "id": "33253206-the-last-kiss-2026",
-          "kind": "movie",
-          "title": "The Last Kiss",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/899c5c1de0a934a311e81c857c89826a.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/98265f8fedc3d901245aae398fdb1242.webp"
         },
         {
           "id": "33095251-tony-2026",
@@ -222,18 +222,26 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/9c4d9eb6b2c09d1ec493c9565135cd82.webp"
         },
         {
-          "id": "10794054-the-weight-2026",
+          "id": "32332915-i-want-your-sex-2026",
           "kind": "movie",
-          "title": "The Weight",
+          "title": "I Want Your Sex",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/80fbcaba1438810855e4574e639e4f8a.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/b2b9bddfdbde034a97377badc30dc36f.webp"
+          "poster": "https://lookmovie2.to/images/p/w500/69871cf55a870fbadfbec48b4fbc6165.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/b0c42d8dc88744ff64d9996d34c1a803.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "5882970-tubelight-2017",
+          "kind": "movie",
+          "title": "Tubelight",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/843c165ce74862017855cd30d261fe72.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/843c165ce74862017855cd30d261fe72.webp"
+        },
         {
           "id": "22526100-the-love-hypothesis-2026",
           "kind": "movie",
@@ -385,20 +393,76 @@
           "year": 2003,
           "poster": "https://lookmovie2.to/images/p/w400/db1ce4740eb65f8a80da2f5c63d93cb5.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/db1ce4740eb65f8a80da2f5c63d93cb5.webp"
-        },
-        {
-          "id": "0118655-austin-powers-international-man-of-mystery-1997",
-          "kind": "movie",
-          "title": "Austin Powers: International Man of Mystery",
-          "year": 1997,
-          "poster": "https://lookmovie2.to/images/p/w400/c767f25b354e3854df026f62025c7336.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/c767f25b354e3854df026f62025c7336.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "41279522-the-world-is-dancing-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 13",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/7a515d623a71cbd7313ed366bafcc4cf.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/7a515d623a71cbd7313ed366bafcc4cf.webp"
+        },
+        {
+          "id": "19231492-dark-matter-2024",
+          "kind": "show",
+          "title": "Season 2, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/35cc96c7d5bdf4c385c2a273af524511.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/35cc96c7d5bdf4c385c2a273af524511.webp"
+        },
+        {
+          "id": "38646611-hana-kimi-2026",
+          "kind": "show",
+          "title": "Season 2, Episode 13",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5799a92dfd39d957ee0ae670c79e97b2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5799a92dfd39d957ee0ae670c79e97b2.webp"
+        },
+        {
+          "id": "38956012-lol-next-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/d3a85347a346ae488ea19c934fb78b5b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/d3a85347a346ae488ea19c934fb78b5b.webp"
+        },
+        {
+          "id": "27846061-ludwig-2024",
+          "kind": "show",
+          "title": "Season 2, Episode 6",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/f009dd487b46967a3a48f03fa0ceec2e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/f009dd487b46967a3a48f03fa0ceec2e.webp"
+        },
+        {
+          "id": "38876221-dalliance-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/8c4a4f5ce460aebce0e3e2eb5c56f4d8.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/8c4a4f5ce460aebce0e3e2eb5c56f4d8.webp"
+        },
+        {
+          "id": "37614297-smoking-behind-the-supermarket-with-you-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 12",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b8c48ea4f16e8294f2508bd19ec90cbb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b8c48ea4f16e8294f2508bd19ec90cbb.webp"
+        },
+        {
+          "id": "2632434-four-in-a-bed-2010",
+          "kind": "show",
+          "title": "Season 31, Episode 14",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/f0587ac4ad0a436cfefe5f0e9d299d48.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/f0587ac4ad0a436cfefe5f0e9d299d48.webp"
+        },
         {
           "id": "33321873-traitors-2024",
           "kind": "show",
@@ -494,30 +558,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/a76b38a99639bb90c23dc8401ce70048.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/a76b38a99639bb90c23dc8401ce70048.webp"
-        },
-        {
-          "id": "39390479-physical-100-mexico-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 8",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/bea5719070f2e17e565e1461adb21a57.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/bea5719070f2e17e565e1461adb21a57.webp"
-        },
-        {
-          "id": "45390981-the-wargame-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/91ccac89b59021edde081b2699f07918.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/91ccac89b59021edde081b2699f07918.webp"
-        },
-        {
-          "id": "33298903-made-in-korea-2025",
-          "kind": "show",
-          "title": "Season 2, Episode 6",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/386e39b2fa9373259d5300a5df832c4c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/386e39b2fa9373259d5300a5df832c4c.webp"
         }
       ]
     },

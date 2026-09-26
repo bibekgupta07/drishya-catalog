@@ -235,6 +235,22 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "8851198-funny-girl-2018",
+          "kind": "movie",
+          "title": "Funny Girl",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/10637c7824897bf483f9c53ed3ee10f2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/10637c7824897bf483f9c53ed3ee10f2.webp"
+        },
+        {
+          "id": "0116767-kids-return-1996",
+          "kind": "movie",
+          "title": "Kids Return",
+          "year": 1996,
+          "poster": "https://lookmovie2.to/images/p/w400/8cf960b4e38fe7006730e4a631e72240.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8cf960b4e38fe7006730e4a631e72240.webp"
+        },
+        {
           "id": "0114455-sinful-intrigue-1995",
           "kind": "movie",
           "title": "Sinful Intrigue",
@@ -377,28 +393,20 @@
           "year": 1967,
           "poster": "https://lookmovie2.to/images/p/w400/d55ff277191529c7d7e0e0022d188bdc.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/d55ff277191529c7d7e0e0022d188bdc.webp"
-        },
-        {
-          "id": "0069113-the-poseidon-adventure-1972",
-          "kind": "movie",
-          "title": "The Poseidon Adventure",
-          "year": 1972,
-          "poster": "https://lookmovie2.to/images/p/w400/b4c238b2a02713368a7a9c85439cd312.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/b4c238b2a02713368a7a9c85439cd312.webp"
-        },
-        {
-          "id": "0116778-kingpin-1996",
-          "kind": "movie",
-          "title": "Kingpin",
-          "year": 1996,
-          "poster": "https://lookmovie2.to/images/p/w400/fd1d96ea73929c6c08ab84b5cfeca4a5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/fd1d96ea73929c6c08ab84b5cfeca4a5.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "31465804-prue-leiths-cotswold-kitchen-2024",
+          "kind": "show",
+          "title": "Season 3, Episode 13",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/3c342257a7e7a4fb1f41bd2d20a151ca.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/3c342257a7e7a4fb1f41bd2d20a151ca.webp"
+        },
         {
           "id": "38646634-hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing-2026",
           "kind": "show",
@@ -414,6 +422,86 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/565f4261bf54aeb1767f7fdf7c9533fa.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/565f4261bf54aeb1767f7fdf7c9533fa.webp"
+        },
+        {
+          "id": "39379365-4-blocks-zero-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5e09a543a1cd1e08c1f845b14cdfe5de.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5e09a543a1cd1e08c1f845b14cdfe5de.webp"
+        },
+        {
+          "id": "43655463-put-a-ring-on-it-cheathab-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 9",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/3549d446992c61309743715b106fc6e7.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/3549d446992c61309743715b106fc6e7.webp"
+        },
+        {
+          "id": "0072584-wheel-of-fortune-1983",
+          "kind": "show",
+          "title": "Season 44, Episode 10",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/ea97d32f27372466091ac07df62a841d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/ea97d32f27372466091ac07df62a841d.webp"
+        },
+        {
+          "id": "42694084-roast-my-rental-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 10",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5fdb00c47ef65fb7fe24c70aea67831b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5fdb00c47ef65fb7fe24c70aea67831b.webp"
+        },
+        {
+          "id": "0446809-deadliest-catch-2005",
+          "kind": "show",
+          "title": "Season 22, Episode 19",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/1b7a881f0886e5b3d677f7a963405709.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/1b7a881f0886e5b3d677f7a963405709.webp"
+        },
+        {
+          "id": "20883058-on-patrol-live-2022",
+          "kind": "show",
+          "title": "Season 5, Episode 19",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/71a5fc09a89d67b79eff1c717ff32fbe.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/71a5fc09a89d67b79eff1c717ff32fbe.webp"
+        },
+        {
+          "id": "45124639-chilean-mine-rescue-race-against-time-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/618b92cf3827c598cdfd7057dbf7810a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/618b92cf3827c598cdfd7057dbf7810a.webp"
+        },
+        {
+          "id": "44842898-isabel-raad-behind-the-curtains-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/465d768565ddd72c6f87083264c757c1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/465d768565ddd72c6f87083264c757c1.webp"
+        },
+        {
+          "id": "0227972-wwe-smackdown-live-1999",
+          "kind": "show",
+          "title": "Season 28, Episode 39",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/58238813c8f8a78df67cf6d372a9c404.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/58238813c8f8a78df67cf6d372a9c404.webp"
+        },
+        {
+          "id": "0350448-real-time-with-bill-maher-2003",
+          "kind": "show",
+          "title": "Season 24, Episode 28",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/83ff18a6c5983600c1ad1399a6a2706e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/83ff18a6c5983600c1ad1399a6a2706e.webp"
         },
         {
           "id": "36937503-anna-pigeon-2026",
@@ -454,94 +542,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/3edd5b351854426f7c7436954427ecc0.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/3edd5b351854426f7c7436954427ecc0.webp"
-        },
-        {
-          "id": "1509677-pointless-2009",
-          "kind": "show",
-          "title": "Season 36, Episode 6",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/bfda57aef7b6b3792a04eb3b022d435f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/bfda57aef7b6b3792a04eb3b022d435f.webp"
-        },
-        {
-          "id": "32125269-beyond-the-gates-2025",
-          "kind": "show",
-          "title": "Season 2, Episode 176",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp"
-        },
-        {
-          "id": "0092325-the-bold-and-the-beautiful-1987",
-          "kind": "show",
-          "title": "Season 40, Episode 14",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/b936e291bf3e2fb3e2ea9d97f74836b4.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/b936e291bf3e2fb3e2ea9d97f74836b4.webp"
-        },
-        {
-          "id": "0924651-the-graham-norton-show-2007",
-          "kind": "show",
-          "title": "Season 34, Episode 1",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/f310cfd2b51c7c0d3fad81b3574ff507.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/f310cfd2b51c7c0d3fad81b3574ff507.webp"
-        },
-        {
-          "id": "45474505-live-from-the-lycett-arms-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/a8813535d95f7a7a8603fc061fb86a15.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/a8813535d95f7a7a8603fc061fb86a15.webp"
-        },
-        {
-          "id": "0443370-dragons-den-2005",
-          "kind": "show",
-          "title": "Season 23, Episode 14",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/3be792020fbdb54855b45158a29af228.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/3be792020fbdb54855b45158a29af228.webp"
-        },
-        {
-          "id": "2762330-gogglebox-2013",
-          "kind": "show",
-          "title": "Season 28, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/7589db5ebd613359b11848a4e5374f4a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/7589db5ebd613359b11848a4e5374f4a.webp"
-        },
-        {
-          "id": "21352768-help-we-bought-a-village-2022",
-          "kind": "show",
-          "title": "Season 5, Episode 15",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/1d342651fdee767d1e2f00d1431a278b.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/1d342651fdee767d1e2f00d1431a278b.webp"
-        },
-        {
-          "id": "27187054-the-elusive-samurai-2024",
-          "kind": "show",
-          "title": "Season 2, Episode 11",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/feca842d2f595482a3b42ff39e3d64b8.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/feca842d2f595482a3b42ff39e3d64b8.webp"
-        },
-        {
-          "id": "45956347-spring-of-the-blade-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 19",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/2844b27e9e1f45cfae8b5488c2b927c0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/2844b27e9e1f45cfae8b5488c2b927c0.webp"
-        },
-        {
-          "id": "9054364-that-time-i-got-reincarnated-as-a-slime-2018",
-          "kind": "show",
-          "title": "Season 4, Episode 24",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/1e15a7284bc0427c48bdc9306d3a5d99.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/1e15a7284bc0427c48bdc9306d3a5d99.webp"
         }
       ]
     },
@@ -1374,6 +1374,22 @@
       "title": "Crime",
       "items": [
         {
+          "id": "20883058-on-patrol-live-2022",
+          "kind": "show",
+          "title": "On Patrol: Live",
+          "year": 2022,
+          "poster": "https://lookmovie2.to/images/p/w400/71a5fc09a89d67b79eff1c717ff32fbe.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/71a5fc09a89d67b79eff1c717ff32fbe.webp"
+        },
+        {
+          "id": "36937503-anna-pigeon-2026",
+          "kind": "show",
+          "title": "Anna Pigeon",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d3f27c00c74d77bd6dab6d6bf4f15aeb.webp"
+        },
+        {
           "id": "6473300-mirzapur-2018",
           "kind": "show",
           "title": "Mirzapur",
@@ -1516,22 +1532,6 @@
           "year": 2019,
           "poster": "https://lookmovie2.to/images/p/w400/22bca803276da604ac6c0b2d2440c254.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/22bca803276da604ac6c0b2d2440c254.webp"
-        },
-        {
-          "id": "16452690-the-real-murders-of-atlanta-2022",
-          "kind": "show",
-          "title": "The Real Murders of Atlanta",
-          "year": 2022,
-          "poster": "https://lookmovie2.to/images/p/w400/119f5136daaea875c6e54cbbdcfa93bc.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/119f5136daaea875c6e54cbbdcfa93bc.webp"
-        },
-        {
-          "id": "33298903-made-in-korea-2025",
-          "kind": "show",
-          "title": "Made in Korea",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/386e39b2fa9373259d5300a5df832c4c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/386e39b2fa9373259d5300a5df832c4c.webp"
         }
       ]
     }

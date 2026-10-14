@@ -9,6 +9,14 @@
       "backdrop": "https://lookmovie2.to/images/b/w1280/44ce5050263d7bb1f3dcb79bfb1dae0f.webp"
     },
     {
+      "id": "34384900-love-of-your-life-2026",
+      "kind": "movie",
+      "title": "Love of Your Life",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/6ae4d01865bf23dd801eef2aaf50a46b.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/28f7248d33006277d758f083bb5404d6.webp"
+    },
+    {
       "id": "29630464-dont-move-2026",
       "kind": "movie",
       "title": "Don't Move",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/dbe88f366cd3c77fc485c78cb5dc1388.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/a5f116083f5131db5d80b0550d4e0474.webp"
-    },
-    {
-      "id": "36586020-other-mommy-2026",
-      "kind": "movie",
-      "title": "Other Mommy",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/b61dc56f70e399bb8c3a1b304969a848.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/16004dd82af9dd2fb256d7e14fcdf9ec.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "36586020-other-mommy-2026",
+          "kind": "movie",
+          "title": "Other Mommy",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/b61dc56f70e399bb8c3a1b304969a848.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/16004dd82af9dd2fb256d7e14fcdf9ec.webp"
+        },
         {
           "id": "31049299-animals-2026",
           "kind": "movie",
@@ -220,20 +228,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/fe6bc3512c452b948d5b78eb5b65a36a.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/d70a16e097563f9625f871beab9a7cb9.webp"
-        },
-        {
-          "id": "9601292-the-fix-2026",
-          "kind": "movie",
-          "title": "The Fix",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/a7cd15e0df1ea63728cb6d7448ca11cd.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/5db1a786e15876f087c45c990f6e18bc.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "0469835-strange-victory-1948",
+          "kind": "movie",
+          "title": "Strange Victory",
+          "year": 1948,
+          "poster": "https://lookmovie2.to/images/p/w400/4aef0b2e5fe77b7b8d788d5c9d88fd0a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/4aef0b2e5fe77b7b8d788d5c9d88fd0a.webp"
+        },
         {
           "id": "34385184-misty-green-2026",
           "kind": "movie",
@@ -385,20 +393,28 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/c2937aec37e579e7cc56dbdb38cfed3b.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/c2937aec37e579e7cc56dbdb38cfed3b.webp"
-        },
-        {
-          "id": "44568097-the-widower-til-death-do-us-part-2026",
-          "kind": "movie",
-          "title": "The Widower: 'Til Death Do Us Part",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/c4ce6fa3ce75adcc0e254ad15756cd56.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/c4ce6fa3ce75adcc0e254ad15756cd56.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "15852904-bridge-of-lies-2022",
+          "kind": "show",
+          "title": "Season 5, Episode 20",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b4dc5a129236ea89890d9fbd7e7614de.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b4dc5a129236ea89890d9fbd7e7614de.webp"
+        },
+        {
+          "id": "38234547-the-arena-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 10",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/a9a19fddb0c65d62a7f649cc05032f36.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/a9a19fddb0c65d62a7f649cc05032f36.webp"
+        },
         {
           "id": "38937897-merry-berry-love-2026",
           "kind": "show",
@@ -502,14 +518,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/f9826ac9553efc4f88e21c230472cf50.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/f9826ac9553efc4f88e21c230472cf50.webp"
-        },
-        {
-          "id": "0098911-shortland-street-1992",
-          "kind": "show",
-          "title": "Season 35, Episode 105",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/0f91ab293854b2e7e6b71f952602aae2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/0f91ab293854b2e7e6b71f952602aae2.webp"
         }
       ]
     },
@@ -1177,12 +1185,12 @@
       "title": "Drama",
       "items": [
         {
-          "id": "38937897-merry-berry-love-2026",
+          "id": "15193160-signora-volpe-2022",
           "kind": "show",
-          "title": "Merry Berry Love",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/6023c2b522f641a293040a71ec0e3668.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/6023c2b522f641a293040a71ec0e3668.webp"
+          "title": "Signora Volpe",
+          "year": 2022,
+          "poster": "https://lookmovie2.to/images/p/w400/b10e1ba2f55a109770b0a0860dca5aea.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b10e1ba2f55a109770b0a0860dca5aea.webp"
         },
         {
           "id": "0159876-great-performances-1972",
@@ -1191,6 +1199,22 @@
           "year": 1971,
           "poster": "https://lookmovie2.to/images/p/w400/ac4b3514d115974c9d3dbcc896193832.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/ac4b3514d115974c9d3dbcc896193832.webp"
+        },
+        {
+          "id": "0247102-girlfriends-2000",
+          "kind": "show",
+          "title": "Girlfriends",
+          "year": 2000,
+          "poster": "https://lookmovie2.to/images/p/w400/9d8f7f55c37eace8c1aeb5c8cc86fd0a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/9d8f7f55c37eace8c1aeb5c8cc86fd0a.webp"
+        },
+        {
+          "id": "38937897-merry-berry-love-2026",
+          "kind": "show",
+          "title": "Merry Berry Love",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/6023c2b522f641a293040a71ec0e3668.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6023c2b522f641a293040a71ec0e3668.webp"
         },
         {
           "id": "13884052-the-detective-is-already-dead-2021",
@@ -1319,28 +1343,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/9021448bc4666a675eb146d094a89dc6.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/9021448bc4666a675eb146d094a89dc6.webp"
-        },
-        {
-          "id": "0364845-ncis-2003",
-          "kind": "show",
-          "title": "NCIS",
-          "year": 2003,
-          "poster": "https://lookmovie2.to/images/p/w400/3645f4e54626663e8b1d33289d7cde3a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3645f4e54626663e8b1d33289d7cde3a.webp"
-        },
-        {
-          "id": "41814550-ncis-new-york-2026",
-          "kind": "show",
-          "title": "NCIS: New York",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/035030c0a6906423116b5f93babf7288.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/035030c0a6906423116b5f93babf7288.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "15193160-signora-volpe-2022",
+          "kind": "show",
+          "title": "Signora Volpe",
+          "year": 2022,
+          "poster": "https://lookmovie2.to/images/p/w400/b10e1ba2f55a109770b0a0860dca5aea.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b10e1ba2f55a109770b0a0860dca5aea.webp"
+        },
         {
           "id": "36984001-the-unknown-serial-killers-of-america-2025",
           "kind": "show",
@@ -1492,14 +1508,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/7470f1d5a649ce8ad52eae15bb5d5c20.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7470f1d5a649ce8ad52eae15bb5d5c20.webp"
-        },
-        {
-          "id": "15193160-signora-volpe-2022",
-          "kind": "show",
-          "title": "Signora Volpe",
-          "year": 2022,
-          "poster": "https://lookmovie2.to/images/p/w400/b10e1ba2f55a109770b0a0860dca5aea.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/b10e1ba2f55a109770b0a0860dca5aea.webp"
         }
       ]
     }

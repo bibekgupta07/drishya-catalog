@@ -1,6 +1,14 @@
 {
   "hero": [
     {
+      "id": "27419420-street-fighter-2026",
+      "kind": "movie",
+      "title": "Street Fighter",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/7866b51980f041a6b4fba95ffab026ee.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/d045c01728e725e322d1b1eec15f123f.webp"
+    },
+    {
       "id": "37281055-buddy-2026",
       "kind": "movie",
       "title": "Buddy",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/36b9ed97402cce327bac7b586b4e992d.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/a4dc5cd7ba117394052734d9517b2592.webp"
-    },
-    {
-      "id": "32588798-practical-magic-2-2026",
-      "kind": "movie",
-      "title": "Practical Magic 2",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/dbe88f366cd3c77fc485c78cb5dc1388.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/a5f116083f5131db5d80b0550d4e0474.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "32588798-practical-magic-2-2026",
+          "kind": "movie",
+          "title": "Practical Magic 2",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/dbe88f366cd3c77fc485c78cb5dc1388.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/a5f116083f5131db5d80b0550d4e0474.webp"
+        },
         {
           "id": "36586020-other-mommy-2026",
           "kind": "movie",
@@ -220,20 +228,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/dca7aaa8642c2ed73720954b6a52e57c.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/c644816420459fe61e9e064c87bc92a4.webp"
-        },
-        {
-          "id": "22526100-the-love-hypothesis-2026",
-          "kind": "movie",
-          "title": "The Love Hypothesis",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/cfada9500be46565744ab7b51c5301ba.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/ec12e825d79eb1430e128cfa53e92ea5.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "27419420-street-fighter-2026",
+          "kind": "movie",
+          "title": "Street Fighter",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/7866b51980f041a6b4fba95ffab026ee.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/7866b51980f041a6b4fba95ffab026ee.webp"
+        },
         {
           "id": "36069890-stream-of-terror-2026",
           "kind": "movie",
@@ -385,20 +393,28 @@
           "year": 1940,
           "poster": "https://lookmovie2.to/images/p/w400/e5a7235c82c8d6cea5151f0d41cc0b1e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/e5a7235c82c8d6cea5151f0d41cc0b1e.webp"
-        },
-        {
-          "id": "34384900-love-of-your-life-2026",
-          "kind": "movie",
-          "title": "Love of Your Life",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/6ae4d01865bf23dd801eef2aaf50a46b.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/6ae4d01865bf23dd801eef2aaf50a46b.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "47730406-corregidora-the-darkest-night-in-mexican-soccer-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/0dc1cc673d17f726b732d24785ea3f83.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/0dc1cc673d17f726b732d24785ea3f83.webp"
+        },
+        {
+          "id": "21352768-help-we-bought-a-village-2022",
+          "kind": "show",
+          "title": "Season 5, Episode 29",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/1d342651fdee767d1e2f00d1431a278b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/1d342651fdee767d1e2f00d1431a278b.webp"
+        },
         {
           "id": "43119470-fx-fighter-kurumi-chan-2026",
           "kind": "show",
@@ -436,8 +452,8 @@
           "kind": "show",
           "title": "Season 4, Episode 3",
           "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/180ddf4b7a5c226f9f1b01c5c58dcf11.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/180ddf4b7a5c226f9f1b01c5c58dcf11.webp"
+          "poster": "https://lookmovie2.to/images/p/w300/6a7fa9c6edad368516b504f682e93f6b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/6a7fa9c6edad368516b504f682e93f6b.webp"
         },
         {
           "id": "35673115-hollywood-arts-2026",
@@ -452,6 +468,14 @@
     {
       "title": "Action",
       "items": [
+        {
+          "id": "27419420-street-fighter-2026",
+          "kind": "movie",
+          "title": "Street Fighter",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/7866b51980f041a6b4fba95ffab026ee.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/7866b51980f041a6b4fba95ffab026ee.webp"
+        },
         {
           "id": "34470118-rise-of-the-footsoldier-retribution-2026",
           "kind": "movie",
@@ -603,14 +627,6 @@
           "year": 1973,
           "poster": "https://lookmovie2.to/images/p/w400/37bce5fe67fb65ed5d6315feb90dd9be.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/37bce5fe67fb65ed5d6315feb90dd9be.webp"
-        },
-        {
-          "id": "0061550-gappa-the-triphibian-monster-1967",
-          "kind": "movie",
-          "title": "Gappa, the Triphibian Monster",
-          "year": 1967,
-          "poster": "https://lookmovie2.to/images/p/w400/9cadc06baf028ae070f97e3eff46727c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/9cadc06baf028ae070f97e3eff46727c.webp"
         }
       ]
     },
@@ -1113,6 +1129,30 @@
       "title": "Drama",
       "items": [
         {
+          "id": "17491088-the-diplomat-2023",
+          "kind": "show",
+          "title": "The Diplomat",
+          "year": 2023,
+          "poster": "https://lookmovie2.to/images/p/w400/6a7fa9c6edad368516b504f682e93f6b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6a7fa9c6edad368516b504f682e93f6b.webp"
+        },
+        {
+          "id": "33321873-traitors-2024",
+          "kind": "show",
+          "title": "Traitors",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/5a753d438bad9df09297413e39bb5897.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5a753d438bad9df09297413e39bb5897.webp"
+        },
+        {
+          "id": "39123061-the-ramparts-of-ice-2026",
+          "kind": "show",
+          "title": "The Ramparts of Ice",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/db59778391f9c12aad7c55260c2495a2.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/db59778391f9c12aad7c55260c2495a2.webp"
+        },
+        {
           "id": "37819415-irreplaceable-2026",
           "kind": "show",
           "title": "Irreplaceable",
@@ -1233,14 +1273,6 @@
           "backdrop": "https://lookmovie2.to/images/p/w400/beeea3ada7a293794c364c4c725d8710.webp"
         },
         {
-          "id": "17491088-the-diplomat-2023",
-          "kind": "show",
-          "title": "The Diplomat",
-          "year": 2023,
-          "poster": "https://lookmovie2.to/images/p/w400/180ddf4b7a5c226f9f1b01c5c58dcf11.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/180ddf4b7a5c226f9f1b01c5c58dcf11.webp"
-        },
-        {
           "id": "27776045-aew-collision-2023",
           "kind": "show",
           "title": "All Elite Wrestling: Collision",
@@ -1255,22 +1287,6 @@
           "year": 1988,
           "poster": "https://lookmovie2.to/images/p/w400/7c987cc3be29982f1a80c501102f527f.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7c987cc3be29982f1a80c501102f527f.webp"
-        },
-        {
-          "id": "35673115-hollywood-arts-2026",
-          "kind": "show",
-          "title": "Hollywood Arts",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/77e65f3f67e1e1f9c3ba508ec57d5007.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/77e65f3f67e1e1f9c3ba508ec57d5007.webp"
-        },
-        {
-          "id": "13368190-judy-justice-2021",
-          "kind": "show",
-          "title": "Judy Justice",
-          "year": 2021,
-          "poster": "https://lookmovie2.to/images/p/w400/e6993339bfd69058f8bbbd08f6735fa9.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/e6993339bfd69058f8bbbd08f6735fa9.webp"
         }
       ]
     },

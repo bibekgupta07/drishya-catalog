@@ -9,6 +9,14 @@
       "backdrop": "https://lookmovie2.to/images/b/w1280/d045c01728e725e322d1b1eec15f123f.webp"
     },
     {
+      "id": "37070354-the-storm-2026",
+      "kind": "movie",
+      "title": "The Storm",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/eaa4bd5c455dcc4bd64aacb33dac0349.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/162b2ccc13f9eb6315131fc367550120.webp"
+    },
+    {
       "id": "37281055-buddy-2026",
       "kind": "movie",
       "title": "Buddy",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/c4ce6fa3ce75adcc0e254ad15756cd56.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/008a43f12bb3eb23b26a8118b9bb517f.webp"
-    },
-    {
-      "id": "27369017-hope-2026",
-      "kind": "movie",
-      "title": "Hope",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/36b9ed97402cce327bac7b586b4e992d.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/a4dc5cd7ba117394052734d9517b2592.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "27369017-hope-2026",
+          "kind": "movie",
+          "title": "Hope",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/36b9ed97402cce327bac7b586b4e992d.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/a4dc5cd7ba117394052734d9517b2592.webp"
+        },
         {
           "id": "32588798-practical-magic-2-2026",
           "kind": "movie",
@@ -212,14 +220,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/a4513ba74e38df29bc5d76976ebf71e1.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/73ab880519d3529f73b2052d2e5a4b66.webp"
-        },
-        {
-          "id": "36073210-drawn-together-2026",
-          "kind": "movie",
-          "title": "Drawn Together",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/c4c573212c7ba33047ef9f024473f9ab.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/6bdb115d41ad73177727cf5e071bfc3f.webp"
         },
         {
           "id": "6933238-unabomber-2026",
@@ -400,6 +400,94 @@
       "title": "New TV Shows",
       "items": [
         {
+          "id": "25531288-hyouken-no-majutsushi-ga-sekai-wo-suberu-0000",
+          "kind": "show",
+          "title": "Season 2, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/104e8fb0e3b78f07aa2a80c054f3bd5f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/104e8fb0e3b78f07aa2a80c054f3bd5f.webp"
+        },
+        {
+          "id": "43691398-tetsuryo-meet-with-tetsudou-musume-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/6959b361eed57f1fef8625f20c266adf.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/6959b361eed57f1fef8625f20c266adf.webp"
+        },
+        {
+          "id": "31510819-mobland-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/aff1c49cb51b2c486fc5e2bacf7d09b3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/aff1c49cb51b2c486fc5e2bacf7d09b3.webp"
+        },
+        {
+          "id": "0283172-bargain-hunt-2007",
+          "kind": "show",
+          "title": "Season 75, Episode 16",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/da8ab63306c92ff0525a4fafd592018e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/da8ab63306c92ff0525a4fafd592018e.webp"
+        },
+        {
+          "id": "43691353-overgeared-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/bab8f5a0c8ca402b60b126ab23fb2426.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/bab8f5a0c8ca402b60b126ab23fb2426.webp"
+        },
+        {
+          "id": "33248156-the-celebrity-traitors-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/33f62e22b714ea30bb3f4dabba45b20d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/33f62e22b714ea30bb3f4dabba45b20d.webp"
+        },
+        {
+          "id": "4934214-taskmaster-2015",
+          "kind": "show",
+          "title": "Season 22, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5af62ba6e1c4f7670aec47c1e990aecf.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5af62ba6e1c4f7670aec47c1e990aecf.webp"
+        },
+        {
+          "id": "9780442-rupauls-drag-race-uk-2019",
+          "kind": "show",
+          "title": "Season 8, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/e5613b485261b8fb90cb025747d5fba3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/e5613b485261b8fb90cb025747d5fba3.webp"
+        },
+        {
+          "id": "15852904-bridge-of-lies-2022",
+          "kind": "show",
+          "title": "Season 5, Episode 21",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b4dc5a129236ea89890d9fbd7e7614de.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b4dc5a129236ea89890d9fbd7e7614de.webp"
+        },
+        {
+          "id": "38588981-the-celebrity-traitors-uncloaked-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b347603fe3f7291b5421c543af8f9fa6.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b347603fe3f7291b5421c543af8f9fa6.webp"
+        },
+        {
+          "id": "41991223-sam-ade-go-birding-2026",
+          "kind": "show",
+          "title": "Season 2, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/ca19b42b96393f0d5384324db667b924.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/ca19b42b96393f0d5384324db667b924.webp"
+        },
+        {
           "id": "47730406-corregidora-the-darkest-night-in-mexican-soccer-2026",
           "kind": "show",
           "title": "Season 1, Episode 1",
@@ -430,38 +518,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/d64c29d79933615b69b5cefc36ee0eba.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/d64c29d79933615b69b5cefc36ee0eba.webp"
-        },
-        {
-          "id": "0068069-emmerdale-1972",
-          "kind": "show",
-          "title": "Season 55, Episode 191",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/18b480eb847f78d857c194ca9affa5c0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/18b480eb847f78d857c194ca9affa5c0.webp"
-        },
-        {
-          "id": "0053494-coronation-street-1960",
-          "kind": "show",
-          "title": "Season 67, Episode 191",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/beeea3ada7a293794c364c4c725d8710.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/beeea3ada7a293794c364c4c725d8710.webp"
-        },
-        {
-          "id": "17491088-the-diplomat-2023",
-          "kind": "show",
-          "title": "Season 4, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/6a7fa9c6edad368516b504f682e93f6b.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/6a7fa9c6edad368516b504f682e93f6b.webp"
-        },
-        {
-          "id": "35673115-hollywood-arts-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 1",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/77e65f3f67e1e1f9c3ba508ec57d5007.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/77e65f3f67e1e1f9c3ba508ec57d5007.webp"
         }
       ]
     },

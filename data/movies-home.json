@@ -1,6 +1,14 @@
 {
   "hero": [
     {
+      "id": "37961714-surviving-hurricane-otis-2026",
+      "kind": "movie",
+      "title": "Surviving Hurricane Otis",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/5ca47c69d51be015b96d6ba9f43b8284.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/a53ec4ce2975cef7c12d5447af1ba1b5.webp"
+    },
+    {
       "id": "36841161-shaun-the-sheep-the-beast-of-mossy-bottom-2026",
       "kind": "movie",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
@@ -55,14 +63,6 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/3d69e7569d95489cdaccbba344d8fa26.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/0183f0389336cb0d0f3a3265cb9a2602.webp"
-    },
-    {
-      "id": "28535715-whalefall-2026",
-      "kind": "movie",
-      "title": "Whalefall",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/2ac61908c90b3bd10a1e3dac6630a60a.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/f4a8956d2e99c9bb3631a891cfccc5f8.webp"
     }
   ],
   "rows": [
@@ -70,12 +70,28 @@
       "title": "Trending Now",
       "items": [
         {
+          "id": "28535715-whalefall-2026",
+          "kind": "movie",
+          "title": "Whalefall",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/2ac61908c90b3bd10a1e3dac6630a60a.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/f4a8956d2e99c9bb3631a891cfccc5f8.webp"
+        },
+        {
           "id": "41801352-haciendo-amigos-2026",
           "kind": "movie",
           "title": "Haciendo amigos",
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/d78d5c09697e3daf39bb0ef609f4e0d1.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/3cd33091666b1afc8569fddfe571afc7.webp"
+        },
+        {
+          "id": "31450459-digger-2026",
+          "kind": "movie",
+          "title": "Digger",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/4d94f82d7a785031e8d8905b7b9351e6.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/8be860c58e0be22a8ce477a576c1d944.webp"
         },
         {
           "id": "37027309-therapy-done-right-2026",
@@ -116,14 +132,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/7866b51980f041a6b4fba95ffab026ee.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/d045c01728e725e322d1b1eec15f123f.webp"
-        },
-        {
-          "id": "37070354-the-storm-2026",
-          "kind": "movie",
-          "title": "The Storm",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/eaa4bd5c455dcc4bd64aacb33dac0349.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/162b2ccc13f9eb6315131fc367550120.webp"
         },
         {
           "id": "37281055-buddy-2026",
@@ -220,20 +228,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/0b06844b801bfad9d3f2cf4e64f52db5.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/9d017b54b6b48a19d908652f26d38d5f.webp"
-        },
-        {
-          "id": "22084616-spider-man-brand-new-day-2026",
-          "kind": "movie",
-          "title": "Spider-Man: Brand New Day",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/bc3ca2d225e7e5120e55fc32d714883d.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/d67aac25d3cf46e1a2c2ecf74d53a9e4.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "0080455-the-blues-brothers-1980",
+          "kind": "movie",
+          "title": "The Blues Brothers",
+          "year": 1980,
+          "poster": "https://lookmovie2.to/images/p/w400/2a529879b6b696fd470b33b76754b757.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2a529879b6b696fd470b33b76754b757.webp"
+        },
         {
           "id": "37961714-surviving-hurricane-otis-2026",
           "kind": "movie",
@@ -385,14 +393,6 @@
           "year": 2024,
           "poster": "https://lookmovie2.to/images/p/w400/b131b9680681dd4c45fb91c5e278bb03.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/b131b9680681dd4c45fb91c5e278bb03.webp"
-        },
-        {
-          "id": "36151377-morir-no-siempre-sale-bien-2026",
-          "kind": "movie",
-          "title": "Morir no siempre sale bien",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/eb1158b027b5dd744b525fe83318ca2a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/eb1158b027b5dd744b525fe83318ca2a.webp"
         }
       ]
     },
@@ -516,6 +516,14 @@
     {
       "title": "Action",
       "items": [
+        {
+          "id": "0080455-the-blues-brothers-1980",
+          "kind": "movie",
+          "title": "The Blues Brothers",
+          "year": 1980,
+          "poster": "https://lookmovie2.to/images/p/w400/2a529879b6b696fd470b33b76754b757.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2a529879b6b696fd470b33b76754b757.webp"
+        },
         {
           "id": "49317723-hot-wheels-lets-race-attack-of-the-t-rex-2026",
           "kind": "movie",
@@ -667,20 +675,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/b1e1eab347d1d3b9b0a841e2962a3fc8.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/b1e1eab347d1d3b9b0a841e2962a3fc8.webp"
-        },
-        {
-          "id": "27419420-street-fighter-2026",
-          "kind": "movie",
-          "title": "Street Fighter",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/7866b51980f041a6b4fba95ffab026ee.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7866b51980f041a6b4fba95ffab026ee.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "0080455-the-blues-brothers-1980",
+          "kind": "movie",
+          "title": "The Blues Brothers",
+          "year": 1980,
+          "poster": "https://lookmovie2.to/images/p/w400/2a529879b6b696fd470b33b76754b757.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2a529879b6b696fd470b33b76754b757.webp"
+        },
         {
           "id": "36841161-shaun-the-sheep-the-beast-of-mossy-bottom-2026",
           "kind": "movie",
@@ -832,14 +840,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/cf8e28619fc17d0acdae2bead35d97fb.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/cf8e28619fc17d0acdae2bead35d97fb.webp"
-        },
-        {
-          "id": "0120484-the-waterboy-1998",
-          "kind": "movie",
-          "title": "The Waterboy",
-          "year": 1998,
-          "poster": "https://lookmovie2.to/images/p/w400/9aa76801e47234ea8226c631f2f0df42.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/9aa76801e47234ea8226c631f2f0df42.webp"
         }
       ]
     },

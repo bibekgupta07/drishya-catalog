@@ -86,14 +86,6 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/3cd33091666b1afc8569fddfe571afc7.webp"
         },
         {
-          "id": "31450459-digger-2026",
-          "kind": "movie",
-          "title": "Digger",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/4d94f82d7a785031e8d8905b7b9351e6.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/8be860c58e0be22a8ce477a576c1d944.webp"
-        },
-        {
           "id": "37027309-therapy-done-right-2026",
           "kind": "movie",
           "title": "Therapy Done Right",
@@ -228,6 +220,14 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/0b06844b801bfad9d3f2cf4e64f52db5.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/9d017b54b6b48a19d908652f26d38d5f.webp"
+        },
+        {
+          "id": "22084616-spider-man-brand-new-day-2026",
+          "kind": "movie",
+          "title": "Spider-Man: Brand New Day",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/bc3ca2d225e7e5120e55fc32d714883d.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/d67aac25d3cf46e1a2c2ecf74d53a9e4.webp"
         }
       ]
     },
@@ -1177,6 +1177,14 @@
       "title": "Drama",
       "items": [
         {
+          "id": "0387199-entourage-2004",
+          "kind": "show",
+          "title": "Entourage",
+          "year": 2004,
+          "poster": "https://lookmovie2.to/images/p/w400/c959a5b368b17d3b8b729267052bdb1c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c959a5b368b17d3b8b729267052bdb1c.webp"
+        },
+        {
           "id": "2531336-lupin-2021",
           "kind": "show",
           "title": "Lupin",
@@ -1327,14 +1335,6 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/a1d15608715e6e4bb1adc2bf93d9d609.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/a1d15608715e6e4bb1adc2bf93d9d609.webp"
-        },
-        {
-          "id": "43595727-the-producer-2026",
-          "kind": "show",
-          "title": "The Producer",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/d206e6cdef8242781dc041502082060c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d206e6cdef8242781dc041502082060c.webp"
         }
       ]
     },

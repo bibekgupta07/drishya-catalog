@@ -1,6 +1,14 @@
 {
   "hero": [
     {
+      "id": "29611136-wicker-2026",
+      "kind": "movie",
+      "title": "Wicker",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/8743b5f4c6597177a62d8686fb328616.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/3f6da36855034d3e29636788fad563bb.webp"
+    },
+    {
       "id": "32358390-the-cycle-2026",
       "kind": "movie",
       "title": "The Cycle",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/df8192682b35625fcca3f5f30a53fd10.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/56b0d77285e2401e9d94b4ca09055572.webp"
-    },
-    {
-      "id": "34379051-by-any-means-2026",
-      "kind": "movie",
-      "title": "By Any Means",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/3bc5e215e61de371e36e7f00370e4ab5.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/866b2b4a4dc9f11609c397e865d98235.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "34379051-by-any-means-2026",
+          "kind": "movie",
+          "title": "By Any Means",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/3bc5e215e61de371e36e7f00370e4ab5.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/866b2b4a4dc9f11609c397e865d98235.webp"
+        },
         {
           "id": "10794054-the-weight-2026",
           "kind": "movie",
@@ -102,20 +110,12 @@
           "backdrop": "https://lookmovie2.to/images/b/w1280/f4a8956d2e99c9bb3631a891cfccc5f8.webp"
         },
         {
-          "id": "41801352-haciendo-amigos-2026",
+          "id": "31450459-digger-2026",
           "kind": "movie",
-          "title": "Haciendo amigos",
+          "title": "Digger",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/d78d5c09697e3daf39bb0ef609f4e0d1.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/3cd33091666b1afc8569fddfe571afc7.webp"
-        },
-        {
-          "id": "37764533-tres-de-mas-2026",
-          "kind": "movie",
-          "title": "Tres de más",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/01bc3abb3eb36a655329a2940fa76cef.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/78b4de7d0366aef8363b4d40ce15e087.webp"
+          "poster": "https://lookmovie2.to/images/p/w500/4d94f82d7a785031e8d8905b7b9351e6.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/8be860c58e0be22a8ce477a576c1d944.webp"
         },
         {
           "id": "37027309-therapy-done-right-2026",
@@ -400,6 +400,102 @@
       "title": "New TV Shows",
       "items": [
         {
+          "id": "7316998-richard-osmans-house-of-games-2017",
+          "kind": "show",
+          "title": "Season 10, Episode 21",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/d648704224d6392ce299d6247baad791.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/d648704224d6392ce299d6247baad791.webp"
+        },
+        {
+          "id": "42457939-traffic-cops-pursuit-squad-one-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5b64789a95c60557e64aa2d8833c0a8d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5b64789a95c60557e64aa2d8833c0a8d.webp"
+        },
+        {
+          "id": "12926922-lingo-2021",
+          "kind": "show",
+          "title": "Season 5, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/f839ca6558a320ee2e76db1d4ad0f0e1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/f839ca6558a320ee2e76db1d4ad0f0e1.webp"
+        },
+        {
+          "id": "45246384-love-in-disguise-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/4aa6976f92bf39a7f14e03141c328ae1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/4aa6976f92bf39a7f14e03141c328ae1.webp"
+        },
+        {
+          "id": "39087958-between-steps-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/60f3fb5a94505dc44c179c6797071f0d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/60f3fb5a94505dc44c179c6797071f0d.webp"
+        },
+        {
+          "id": "44840674-extraordinary-attorney-minami-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/9f07b24c784090da12a12c3f40268818.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/9f07b24c784090da12a12c3f40268818.webp"
+        },
+        {
+          "id": "36204241-sam-pang-tonight-2025",
+          "kind": "show",
+          "title": "Season 3, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5f03460dde17c7bd534dccfe8033a8d3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5f03460dde17c7bd534dccfe8033a8d3.webp"
+        },
+        {
+          "id": "39181351-psyren-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/de3a8cf2c80f3219e4da9f24d51a06c6.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/de3a8cf2c80f3219e4da9f24d51a06c6.webp"
+        },
+        {
+          "id": "1091909-murdoch-mysteries-2008",
+          "kind": "show",
+          "title": "Season 20, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/1fbd30aa4bbcefef2a15d5188ff5412e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/1fbd30aa4bbcefef2a15d5188ff5412e.webp"
+        },
+        {
+          "id": "1626459-my-kitchen-rules-2010",
+          "kind": "show",
+          "title": "Season 16, Episode 10",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/fd6310ab4e30860f5e2a7ea630493e0f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/fd6310ab4e30860f5e2a7ea630493e0f.webp"
+        },
+        {
+          "id": "43650300-hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/891a652d04f30a3b33c6dd8c53952f2f.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/891a652d04f30a3b33c6dd8c53952f2f.webp"
+        },
+        {
+          "id": "27458866-high-country-2024",
+          "kind": "show",
+          "title": "Season 2, Episode 7",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/2d65376f2084336a5fbe8f2b16c189ea.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/2d65376f2084336a5fbe8f2b16c189ea.webp"
+        },
+        {
           "id": "0068069-emmerdale-1972",
           "kind": "show",
           "title": "Season 55, Episode 198",
@@ -438,22 +534,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/7c987cc3be29982f1a80c501102f527f.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/7c987cc3be29982f1a80c501102f527f.webp"
-        },
-        {
-          "id": "0098911-shortland-street-1992",
-          "kind": "show",
-          "title": "Season 35, Episode 109",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/0f91ab293854b2e7e6b71f952602aae2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/0f91ab293854b2e7e6b71f952602aae2.webp"
-        },
-        {
-          "id": "42220724-minimum-wage-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 1",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/6ed4bf2f0e1149cdfe141877f6224daa.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/6ed4bf2f0e1149cdfe141877f6224daa.webp"
         }
       ]
     },
@@ -1121,6 +1201,62 @@
       "title": "Drama",
       "items": [
         {
+          "id": "45246384-love-in-disguise-2026",
+          "kind": "show",
+          "title": "Love in Disguise",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/4aa6976f92bf39a7f14e03141c328ae1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/4aa6976f92bf39a7f14e03141c328ae1.webp"
+        },
+        {
+          "id": "39087958-between-steps-2026",
+          "kind": "show",
+          "title": "Between Steps",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/60f3fb5a94505dc44c179c6797071f0d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/60f3fb5a94505dc44c179c6797071f0d.webp"
+        },
+        {
+          "id": "44840674-extraordinary-attorney-minami-2026",
+          "kind": "show",
+          "title": "Extraordinary Attorney Minami",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/9f07b24c784090da12a12c3f40268818.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/9f07b24c784090da12a12c3f40268818.webp"
+        },
+        {
+          "id": "1091909-murdoch-mysteries-2008",
+          "kind": "show",
+          "title": "Murdoch Mysteries",
+          "year": 2008,
+          "poster": "https://lookmovie2.to/images/p/w400/1fbd30aa4bbcefef2a15d5188ff5412e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/1fbd30aa4bbcefef2a15d5188ff5412e.webp"
+        },
+        {
+          "id": "27458866-high-country-2024",
+          "kind": "show",
+          "title": "High Country",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/2d65376f2084336a5fbe8f2b16c189ea.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2d65376f2084336a5fbe8f2b16c189ea.webp"
+        },
+        {
+          "id": "0068069-emmerdale-1972",
+          "kind": "show",
+          "title": "Emmerdale",
+          "year": 1972,
+          "poster": "https://lookmovie2.to/images/p/w400/18b480eb847f78d857c194ca9affa5c0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/18b480eb847f78d857c194ca9affa5c0.webp"
+        },
+        {
+          "id": "0053494-coronation-street-1960",
+          "kind": "show",
+          "title": "Coronation Street",
+          "year": 1960,
+          "poster": "https://lookmovie2.to/images/p/w400/beeea3ada7a293794c364c4c725d8710.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/beeea3ada7a293794c364c4c725d8710.webp"
+        },
+        {
           "id": "0094481-home-and-away-1988",
           "kind": "show",
           "title": "Home and Away",
@@ -1223,68 +1359,44 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/bdc0967b6040455b3b770e227d7fb387.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/bdc0967b6040455b3b770e227d7fb387.webp"
-        },
-        {
-          "id": "1094229-heartland-2007",
-          "kind": "show",
-          "title": "Heartland",
-          "year": 2007,
-          "poster": "https://lookmovie2.to/images/p/w400/3d1d2ac3a9821e6d46f4568e2080aa4a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3d1d2ac3a9821e6d46f4568e2080aa4a.webp"
-        },
-        {
-          "id": "0053494-coronation-street-1960",
-          "kind": "show",
-          "title": "Coronation Street",
-          "year": 1960,
-          "poster": "https://lookmovie2.to/images/p/w400/beeea3ada7a293794c364c4c725d8710.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/beeea3ada7a293794c364c4c725d8710.webp"
-        },
-        {
-          "id": "0068069-emmerdale-1972",
-          "kind": "show",
-          "title": "Emmerdale",
-          "year": 1972,
-          "poster": "https://lookmovie2.to/images/p/w400/18b480eb847f78d857c194ca9affa5c0.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/18b480eb847f78d857c194ca9affa5c0.webp"
-        },
-        {
-          "id": "27776045-aew-collision-2023",
-          "kind": "show",
-          "title": "All Elite Wrestling: Collision",
-          "year": 2023,
-          "poster": "https://lookmovie2.to/images/p/w400/233f3eb4925a966a151c867fedaff399.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/233f3eb4925a966a151c867fedaff399.webp"
-        },
-        {
-          "id": "36119015-adultery-2026",
-          "kind": "show",
-          "title": "Adultery",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/9644d81d97e353902327e970f5635107.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/9644d81d97e353902327e970f5635107.webp"
-        },
-        {
-          "id": "32639706-blue-box-2024",
-          "kind": "show",
-          "title": "Blue Box",
-          "year": 2024,
-          "poster": "https://lookmovie2.to/images/p/w400/90cb26c8c5992777d1727dfaa87ae92c.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/90cb26c8c5992777d1727dfaa87ae92c.webp"
-        },
-        {
-          "id": "37109705-the-lament-of-autumn-2026",
-          "kind": "show",
-          "title": "The Lament of Autumn",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/46c35a19c4f7ece58ff80bd5163ea837.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/46c35a19c4f7ece58ff80bd5163ea837.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "42457939-traffic-cops-pursuit-squad-one-2025",
+          "kind": "show",
+          "title": "Traffic Cops: Pursuit Squad One",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/5b64789a95c60557e64aa2d8833c0a8d.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/5b64789a95c60557e64aa2d8833c0a8d.webp"
+        },
+        {
+          "id": "45246384-love-in-disguise-2026",
+          "kind": "show",
+          "title": "Love in Disguise",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/4aa6976f92bf39a7f14e03141c328ae1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/4aa6976f92bf39a7f14e03141c328ae1.webp"
+        },
+        {
+          "id": "1091909-murdoch-mysteries-2008",
+          "kind": "show",
+          "title": "Murdoch Mysteries",
+          "year": 2008,
+          "poster": "https://lookmovie2.to/images/p/w400/1fbd30aa4bbcefef2a15d5188ff5412e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/1fbd30aa4bbcefef2a15d5188ff5412e.webp"
+        },
+        {
+          "id": "27458866-high-country-2024",
+          "kind": "show",
+          "title": "High Country",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/2d65376f2084336a5fbe8f2b16c189ea.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2d65376f2084336a5fbe8f2b16c189ea.webp"
+        },
         {
           "id": "15791752-grimsburg-2024",
           "kind": "show",
@@ -1412,38 +1524,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/9fd86fcb398d044b2cb6177b846db054.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/9fd86fcb398d044b2cb6177b846db054.webp"
-        },
-        {
-          "id": "6151526-the-rainmaker-2025",
-          "kind": "show",
-          "title": "The Rainmaker",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/4da2b9c9aff41d06d9ff5010b7feebc2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/4da2b9c9aff41d06d9ff5010b7feebc2.webp"
-        },
-        {
-          "id": "2531336-lupin-2021",
-          "kind": "show",
-          "title": "Lupin",
-          "year": 2021,
-          "poster": "https://lookmovie2.to/images/p/w400/78b2d8ac8377768f317e15b702c5a8f3.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/78b2d8ac8377768f317e15b702c5a8f3.webp"
-        },
-        {
-          "id": "0098844-law-order-1990",
-          "kind": "show",
-          "title": "Law & Order",
-          "year": 1990,
-          "poster": "https://lookmovie2.to/images/p/w400/8ad9fa0ba0a2781bee990758851e8003.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8ad9fa0ba0a2781bee990758851e8003.webp"
-        },
-        {
-          "id": "0203259-law-order-special-victims-unit-1999",
-          "kind": "show",
-          "title": "Law & Order: Special Victims Unit",
-          "year": 1999,
-          "poster": "https://lookmovie2.to/images/p/w400/7c411d4512b98a4c66c93e2eb8b3fcef.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7c411d4512b98a4c66c93e2eb8b3fcef.webp"
         }
       ]
     }

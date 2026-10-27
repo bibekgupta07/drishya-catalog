@@ -25,6 +25,14 @@
       "backdrop": "https://lookmovie2.to/images/b/w1280/b61e352dc576957a1fe41f156f6f4a9d.webp"
     },
     {
+      "id": "29611136-wicker-2026",
+      "kind": "movie",
+      "title": "Wicker",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/8743b5f4c6597177a62d8686fb328616.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/3f6da36855034d3e29636788fad563bb.webp"
+    },
+    {
       "id": "32358390-the-cycle-2026",
       "kind": "movie",
       "title": "The Cycle",
@@ -55,14 +63,6 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/46d4172e75717e3a6282d7e0b98691c1.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/00b4ae7ea51ab4d6230ac19b410b0d6f.webp"
-    },
-    {
-      "id": "33998222-love-language-2026",
-      "kind": "movie",
-      "title": "Love Language",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/b95b847b8de4808386227b4f15bd3a44.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/d3c8fd94a2f65d2ae9c635e0d4b1e2cf.webp"
     }
   ],
   "rows": [
@@ -235,12 +235,60 @@
       "title": "New Movies",
       "items": [
         {
-          "id": "32261958-verity-2026",
+          "id": "43655467-ali-g-who-iz-iij-2026",
           "kind": "movie",
-          "title": "Verity",
+          "title": "Ali G: Who Iz I?",
           "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/e81c145551a9fe5aa17462daf2e924cf.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/e81c145551a9fe5aa17462daf2e924cf.webp"
+          "poster": "https://lookmovie2.to/images/p/w400/34ee2c8e2654cae0cab8c37459425653.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/34ee2c8e2654cae0cab8c37459425653.webp"
+        },
+        {
+          "id": "38380143-the-pastor-who-preys-2026",
+          "kind": "movie",
+          "title": "The Pastor Who Preys",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/8569fcba99a2e09493dddf211029c769.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8569fcba99a2e09493dddf211029c769.webp"
+        },
+        {
+          "id": "28772290-ever-after-2026",
+          "kind": "movie",
+          "title": "Ever After",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/b3e6a548e8bc388b542233ba625ee9fd.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b3e6a548e8bc388b542233ba625ee9fd.webp"
+        },
+        {
+          "id": "44687176-seduced-by-an-amish-stranger-2026",
+          "kind": "movie",
+          "title": "Seduced by an Amish Stranger",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/fe58e342bb156d4a7b7642cfd6872071.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/fe58e342bb156d4a7b7642cfd6872071.webp"
+        },
+        {
+          "id": "49235148-secrets-of-mercy-hospital-2026",
+          "kind": "movie",
+          "title": "Secrets of Mercy Hospital",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/c9f67e9976c8dee0f482edd42e295579.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c9f67e9976c8dee0f482edd42e295579.webp"
+        },
+        {
+          "id": "43623754-secrets-in-a-small-georgia-town-2026",
+          "kind": "movie",
+          "title": "Secrets in a Small Georgia Town",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/a3a813d90ac34b3ef917d4fe64b23221.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/a3a813d90ac34b3ef917d4fe64b23221.webp"
+        },
+        {
+          "id": "28784376-mum-im-alien-pregnant-2026",
+          "kind": "movie",
+          "title": "Mum, I'm Alien Pregnant",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d14ae37ff924028f1c0922220841334b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d14ae37ff924028f1c0922220841334b.webp"
         },
         {
           "id": "18468926-concessions-2026",
@@ -249,6 +297,14 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/543213d963cef8db305ad86404e4f214.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/543213d963cef8db305ad86404e4f214.webp"
+        },
+        {
+          "id": "32261958-verity-2026",
+          "kind": "movie",
+          "title": "Verity",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/e81c145551a9fe5aa17462daf2e924cf.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e81c145551a9fe5aa17462daf2e924cf.webp"
         },
         {
           "id": "0062789-heartbeat-1968",
@@ -337,68 +393,28 @@
           "year": 1996,
           "poster": "https://lookmovie2.to/images/p/w400/f54151940e82ac6eeab56a59f358b398.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/f54151940e82ac6eeab56a59f358b398.webp"
-        },
-        {
-          "id": "36482679-the-only-living-pickpocket-in-new-york-2026",
-          "kind": "movie",
-          "title": "The Only Living Pickpocket in New York",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/6d8708dd4a7ee4d3a72b9026f0d6e1df.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/6d8708dd4a7ee4d3a72b9026f0d6e1df.webp"
-        },
-        {
-          "id": "39017403-corey-feldman-vs-the-world-2025",
-          "kind": "movie",
-          "title": "Corey Feldman vs. the World",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/4099f6a497206dbcd7ced8d794c65d2e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/4099f6a497206dbcd7ced8d794c65d2e.webp"
-        },
-        {
-          "id": "13609648-sense-and-sensibility-2026",
-          "kind": "movie",
-          "title": "Sense and Sensibility",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/f5bfbb3250b5fbe158c976d1778fc54d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f5bfbb3250b5fbe158c976d1778fc54d.webp"
-        },
-        {
-          "id": "46072491-what-if-christmas-2026",
-          "kind": "movie",
-          "title": "What If Christmas",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/826f58d3068ba381b263dca602b64f0a.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/826f58d3068ba381b263dca602b64f0a.webp"
-        },
-        {
-          "id": "1121931-crank-high-voltage-2009",
-          "kind": "movie",
-          "title": "Crank: High Voltage",
-          "year": 2009,
-          "poster": "https://lookmovie2.to/images/p/w400/0976ec2e072f57b4b277702d36325f48.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/0976ec2e072f57b4b277702d36325f48.webp"
-        },
-        {
-          "id": "0450278-hostel-2006",
-          "kind": "movie",
-          "title": "Hostel",
-          "year": 2006,
-          "poster": "https://lookmovie2.to/images/p/w400/2bfa6866c979f7bca9c5bb708490d6d9.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2bfa6866c979f7bca9c5bb708490d6d9.webp"
-        },
-        {
-          "id": "2084970-the-imitation-game-2014",
-          "kind": "movie",
-          "title": "The Imitation Game",
-          "year": 2014,
-          "poster": "https://lookmovie2.to/images/p/w400/7b4d5f8f26caf366b14b23536574450e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7b4d5f8f26caf366b14b23536574450e.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "12926922-lingo-2021",
+          "kind": "show",
+          "title": "Season 5, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/f839ca6558a320ee2e76db1d4ad0f0e1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/f839ca6558a320ee2e76db1d4ad0f0e1.webp"
+        },
+        {
+          "id": "0419336-homes-under-the-hammer-2003",
+          "kind": "show",
+          "title": "Season 29, Episode 37",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5b4fd255e61e56552b1488b4dcb2881a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5b4fd255e61e56552b1488b4dcb2881a.webp"
+        },
         {
           "id": "35769369-chitose-is-in-the-ramune-bottle-2025",
           "kind": "show",
@@ -526,14 +542,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/7c1b9105436248ebfee3de22df952f53.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/7c1b9105436248ebfee3de22df952f53.webp"
-        },
-        {
-          "id": "0094481-home-and-away-1988",
-          "kind": "show",
-          "title": "Season 39, Episode 192",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/7c987cc3be29982f1a80c501102f527f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/7c987cc3be29982f1a80c501102f527f.webp"
         }
       ]
     },
@@ -706,6 +714,22 @@
       "title": "Comedy",
       "items": [
         {
+          "id": "43655467-ali-g-who-iz-iij-2026",
+          "kind": "movie",
+          "title": "Ali G: Who Iz I?",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/34ee2c8e2654cae0cab8c37459425653.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/34ee2c8e2654cae0cab8c37459425653.webp"
+        },
+        {
+          "id": "28784376-mum-im-alien-pregnant-2026",
+          "kind": "movie",
+          "title": "Mum, I'm Alien Pregnant",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d14ae37ff924028f1c0922220841334b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d14ae37ff924028f1c0922220841334b.webp"
+        },
+        {
           "id": "18468926-concessions-2026",
           "kind": "movie",
           "title": "Concessions",
@@ -848,28 +872,28 @@
           "year": 2006,
           "poster": "https://lookmovie2.to/images/p/w400/7153ccc0328438b3e4e802a027b28c77.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/7153ccc0328438b3e4e802a027b28c77.webp"
-        },
-        {
-          "id": "2079503-father-of-four-at-sea-2012",
-          "kind": "movie",
-          "title": "Father of Four: At Sea",
-          "year": 2012,
-          "poster": "https://lookmovie2.to/images/p/w400/2230bd22b1c348638e57f5003ad32622.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/2230bd22b1c348638e57f5003ad32622.webp"
-        },
-        {
-          "id": "37539156-flying-colors-2026",
-          "kind": "movie",
-          "title": "Flying Colors",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/a7e0d052bcabde42ce473c270bc5236e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/a7e0d052bcabde42ce473c270bc5236e.webp"
         }
       ]
     },
     {
       "title": "Horror",
       "items": [
+        {
+          "id": "28772290-ever-after-2026",
+          "kind": "movie",
+          "title": "Ever After",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/b3e6a548e8bc388b542233ba625ee9fd.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/b3e6a548e8bc388b542233ba625ee9fd.webp"
+        },
+        {
+          "id": "28784376-mum-im-alien-pregnant-2026",
+          "kind": "movie",
+          "title": "Mum, I'm Alien Pregnant",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d14ae37ff924028f1c0922220841334b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d14ae37ff924028f1c0922220841334b.webp"
+        },
         {
           "id": "0053337-teenagers-from-outer-space-1959",
           "kind": "movie",
@@ -1013,28 +1037,20 @@
           "year": 2006,
           "poster": "https://lookmovie2.to/images/p/w400/02cb03083e1792d16c793b89c33186d5.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/02cb03083e1792d16c793b89c33186d5.webp"
-        },
-        {
-          "id": "43640339-resident-dead-2026",
-          "kind": "movie",
-          "title": "Resident Dead",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/84290811e3fa726204099e18316521cb.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/84290811e3fa726204099e18316521cb.webp"
-        },
-        {
-          "id": "0143246-fantomas-1947",
-          "kind": "movie",
-          "title": "Fantômas",
-          "year": 1947,
-          "poster": "https://lookmovie2.to/images/p/w400/21a4a862d8359836f3980207f6c135d7.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/21a4a862d8359836f3980207f6c135d7.webp"
         }
       ]
     },
     {
       "title": "Sci-Fi",
       "items": [
+        {
+          "id": "28784376-mum-im-alien-pregnant-2026",
+          "kind": "movie",
+          "title": "Mum, I'm Alien Pregnant",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d14ae37ff924028f1c0922220841334b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d14ae37ff924028f1c0922220841334b.webp"
+        },
         {
           "id": "0053337-teenagers-from-outer-space-1959",
           "kind": "movie",
@@ -1186,20 +1202,20 @@
           "year": 2018,
           "poster": "https://lookmovie2.to/images/p/w400/144e0e2b1b50beee39e436e313708157.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/144e0e2b1b50beee39e436e313708157.webp"
-        },
-        {
-          "id": "0118929-dark-city-1998",
-          "kind": "movie",
-          "title": "Dark City",
-          "year": 1998,
-          "poster": "https://lookmovie2.to/images/p/w400/555f7821d91fde0b027891af9e9c9d46.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/555f7821d91fde0b027891af9e9c9d46.webp"
         }
       ]
     },
     {
       "title": "Drama",
       "items": [
+        {
+          "id": "41278592-red-river-2026",
+          "kind": "show",
+          "title": "Red River",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/e5f0025a14d583c2bfda595d5d7f6cef.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/e5f0025a14d583c2bfda595d5d7f6cef.webp"
+        },
         {
           "id": "0098911-shortland-street-1992",
           "kind": "show",
@@ -1351,14 +1367,6 @@
           "year": 2011,
           "poster": "https://lookmovie2.to/images/p/w400/ea194f05e2745007560f9c935d98f51c.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/ea194f05e2745007560f9c935d98f51c.webp"
-        },
-        {
-          "id": "32125269-beyond-the-gates-2025",
-          "kind": "show",
-          "title": "Beyond the Gates",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/4544cd21fa054d5a9dc78a12356ce36e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/4544cd21fa054d5a9dc78a12356ce36e.webp"
         }
       ]
     },

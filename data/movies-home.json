@@ -235,6 +235,22 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "0202931-the-inferno-1979",
+          "kind": "movie",
+          "title": "The Inferno",
+          "year": 1979,
+          "poster": "https://lookmovie2.to/images/p/w400/ef00ceac4cb3b908532bf0fdfb33786a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ef00ceac4cb3b908532bf0fdfb33786a.webp"
+        },
+        {
+          "id": "0154683-jigoku-1960",
+          "kind": "movie",
+          "title": "Jigoku",
+          "year": 1960,
+          "poster": "https://lookmovie2.to/images/p/w400/4f104f52cbb3fd58cb89275606106620.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/4f104f52cbb3fd58cb89275606106620.webp"
+        },
+        {
           "id": "0048292-the-legend-of-rockabye-point-1955",
           "kind": "movie",
           "title": "The Legend of Rockabye Point",
@@ -377,28 +393,100 @@
           "year": 2017,
           "poster": "https://lookmovie2.to/images/p/w400/b83014c018051fa227750ed3d0d4d7ba.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/b83014c018051fa227750ed3d0d4d7ba.webp"
-        },
-        {
-          "id": "36348297-night-in-west-texas-2025",
-          "kind": "movie",
-          "title": "Night in West Texas",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/7d59fd564de028a9b678a20b3afde0cc.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/7d59fd564de028a9b678a20b3afde0cc.webp"
-        },
-        {
-          "id": "38380143-the-pastor-who-preys-2026",
-          "kind": "movie",
-          "title": "The Pastor Who Preys",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/8569fcba99a2e09493dddf211029c769.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/8569fcba99a2e09493dddf211029c769.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "4934214-taskmaster-2015",
+          "kind": "show",
+          "title": "Season 22, Episode 9",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/4b93459b19944a6e96572fcc35d90fe0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/4b93459b19944a6e96572fcc35d90fe0.webp"
+        },
+        {
+          "id": "45934344-archive-x-unexplained-phenomena-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/9b93e2d1ca2f87d6c446aabbfaac0a4e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/9b93e2d1ca2f87d6c446aabbfaac0a4e.webp"
+        },
+        {
+          "id": "28313387-a-returners-magic-should-be-special-2023",
+          "kind": "show",
+          "title": "Season 2, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/41e9f6c9f34134ba68f64230afd43451.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/41e9f6c9f34134ba68f64230afd43451.webp"
+        },
+        {
+          "id": "43339903-dandivine-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/23a620c1a1727183880a3ccd6247bffe.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/23a620c1a1727183880a3ccd6247bffe.webp"
+        },
+        {
+          "id": "30292502-aussie-shore-2024",
+          "kind": "show",
+          "title": "Season 3, Episode 2",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/6c54a680ccfe4824c6f231f7a5f8cfb4.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/6c54a680ccfe4824c6f231f7a5f8cfb4.webp"
+        },
+        {
+          "id": "35926686-it-gets-worse-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/c34da363b63b423f9d4e50205c837c87.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/c34da363b63b423f9d4e50205c837c87.webp"
+        },
+        {
+          "id": "15483602-reincarnated-as-a-sword-2022",
+          "kind": "show",
+          "title": "Season 2, Episode 4",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/dfb8f9ff134de6b195d554e53b72686a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/dfb8f9ff134de6b195d554e53b72686a.webp"
+        },
+        {
+          "id": "36064406-coven-academy-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 12",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/39e48fe0ddce44c1b2b09744d45baf02.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/39e48fe0ddce44c1b2b09744d45baf02.webp"
+        },
+        {
+          "id": "26687197-our-tiny-islands-2024",
+          "kind": "show",
+          "title": "Season 3, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/b3f232b98a8a127088aafc5c14596213.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/b3f232b98a8a127088aafc5c14596213.webp"
+        },
+        {
+          "id": "32125269-beyond-the-gates-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 199",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/4544cd21fa054d5a9dc78a12356ce36e.webp"
+        },
+        {
+          "id": "12926922-lingo-2021",
+          "kind": "show",
+          "title": "Season 5, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/f839ca6558a320ee2e76db1d4ad0f0e1.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/f839ca6558a320ee2e76db1d4ad0f0e1.webp"
+        },
         {
           "id": "3204810-on-cinema-2012",
           "kind": "show",
@@ -462,54 +550,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/d9aae007e87ae0eb769327dc7c10019e.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/d9aae007e87ae0eb769327dc7c10019e.webp"
-        },
-        {
-          "id": "0287196-big-brother-2001",
-          "kind": "show",
-          "title": "Season 17, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/110457c80b107f21b48337ec15e3b9b5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/110457c80b107f21b48337ec15e3b9b5.webp"
-        },
-        {
-          "id": "8467296-love-island-australia-2018",
-          "kind": "show",
-          "title": "Season 8, Episode 3",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/6b0ec94eb1f4f0f5ccb88b0b2718f6aa.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/6b0ec94eb1f4f0f5ccb88b0b2718f6aa.webp"
-        },
-        {
-          "id": "11704040-love-is-blind-2020",
-          "kind": "show",
-          "title": "Season 11, Episode 9",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/3136b56f43f9f12d01c428fe7c7f87f8.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/3136b56f43f9f12d01c428fe7c7f87f8.webp"
-        },
-        {
-          "id": "0094481-home-and-away-1988",
-          "kind": "show",
-          "title": "Season 39, Episode 193",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/7c987cc3be29982f1a80c501102f527f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/7c987cc3be29982f1a80c501102f527f.webp"
-        },
-        {
-          "id": "45854934-the-gift-of-deceit-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/8d007768d9bd08eeeb2496528d5f5c44.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/8d007768d9bd08eeeb2496528d5f5c44.webp"
-        },
-        {
-          "id": "13236336-sacrifice-2021",
-          "kind": "show",
-          "title": "Season 2, Episode 6",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/f9826ac9553efc4f88e21c230472cf50.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/f9826ac9553efc4f88e21c230472cf50.webp"
         }
       ]
     },
@@ -847,6 +887,22 @@
       "title": "Horror",
       "items": [
         {
+          "id": "0202931-the-inferno-1979",
+          "kind": "movie",
+          "title": "The Inferno",
+          "year": 1979,
+          "poster": "https://lookmovie2.to/images/p/w400/ef00ceac4cb3b908532bf0fdfb33786a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ef00ceac4cb3b908532bf0fdfb33786a.webp"
+        },
+        {
+          "id": "0154683-jigoku-1960",
+          "kind": "movie",
+          "title": "Jigoku",
+          "year": 1960,
+          "poster": "https://lookmovie2.to/images/p/w400/4f104f52cbb3fd58cb89275606106620.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/4f104f52cbb3fd58cb89275606106620.webp"
+        },
+        {
           "id": "0142360-the-snake-girl-and-the-silver-haired-witch-1968",
           "kind": "movie",
           "title": "The Snake Girl and the Silver-Haired Witch",
@@ -989,22 +1045,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/f0a71f219b1aa97274881c425414c621.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/f0a71f219b1aa97274881c425414c621.webp"
-        },
-        {
-          "id": "38453653-the-exit-state-2026",
-          "kind": "movie",
-          "title": "The Exit State",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/d67cf3383414c6364b14ba8e4e81b3b6.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d67cf3383414c6364b14ba8e4e81b3b6.webp"
-        },
-        {
-          "id": "21950128-the-3-killer-pigs-2026",
-          "kind": "movie",
-          "title": "The 3 Killer Pigs",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/ddc46af34d44844291afb9d13c77a100.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/ddc46af34d44844291afb9d13c77a100.webp"
         }
       ]
     },
@@ -1177,6 +1217,14 @@
       "title": "Drama",
       "items": [
         {
+          "id": "32125269-beyond-the-gates-2025",
+          "kind": "show",
+          "title": "Beyond the Gates",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/4544cd21fa054d5a9dc78a12356ce36e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/4544cd21fa054d5a9dc78a12356ce36e.webp"
+        },
+        {
           "id": "39328047-doctor-x-mafia-in-white-2026",
           "kind": "show",
           "title": "Doctor X: Mafia in White",
@@ -1327,14 +1375,6 @@
           "year": 2015,
           "poster": "https://lookmovie2.to/images/p/w400/03a35d34b11a0562b3890266cd4f77f1.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/03a35d34b11a0562b3890266cd4f77f1.webp"
-        },
-        {
-          "id": "29011445-wheres-wanda-2024",
-          "kind": "show",
-          "title": "Where's Wanda?",
-          "year": 2024,
-          "poster": "https://lookmovie2.to/images/p/w400/9039310e7326264df27baa5de1ee20db.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/9039310e7326264df27baa5de1ee20db.webp"
         }
       ]
     },

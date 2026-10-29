@@ -33,6 +33,14 @@
       "backdrop": "https://lookmovie2.to/images/b/w1280/1c4338f07c0409a1d8523b33b44ef905.webp"
     },
     {
+      "id": "34611096-the-stunt-driver-2026",
+      "kind": "movie",
+      "title": "The Stunt Driver",
+      "year": 2026,
+      "poster": "https://lookmovie2.to/images/p/w500/45fba82d41cb86145a4febe316dd5123.webp",
+      "backdrop": "https://lookmovie2.to/images/b/w1280/a77c5cdb68c2cd680799f6962d8701a2.webp"
+    },
+    {
       "id": "37180686-drive-the-pretenders-2026",
       "kind": "movie",
       "title": "Drive - The Pretenders",
@@ -55,20 +63,20 @@
       "year": 2026,
       "poster": "https://lookmovie2.to/images/p/w500/f5bfbb3250b5fbe158c976d1778fc54d.webp",
       "backdrop": "https://lookmovie2.to/images/b/w1280/b61e352dc576957a1fe41f156f6f4a9d.webp"
-    },
-    {
-      "id": "32358390-the-cycle-2026",
-      "kind": "movie",
-      "title": "The Cycle",
-      "year": 2026,
-      "poster": "https://lookmovie2.to/images/p/w500/6a72cbc5c4db2c0bbaa34c07226e607c.webp",
-      "backdrop": "https://lookmovie2.to/images/b/w1280/9533b66b63f1a1a40202ce6cdfe4d280.webp"
     }
   ],
   "rows": [
     {
       "title": "Trending Now",
       "items": [
+        {
+          "id": "32358390-the-cycle-2026",
+          "kind": "movie",
+          "title": "The Cycle",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w500/6a72cbc5c4db2c0bbaa34c07226e607c.webp",
+          "backdrop": "https://lookmovie2.to/images/b/w1280/9533b66b63f1a1a40202ce6cdfe4d280.webp"
+        },
         {
           "id": "32338669-mutiny-2026",
           "kind": "movie",
@@ -220,20 +228,28 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w500/36b9ed97402cce327bac7b586b4e992d.webp",
           "backdrop": "https://lookmovie2.to/images/b/w1280/a4dc5cd7ba117394052734d9517b2592.webp"
-        },
-        {
-          "id": "32588798-practical-magic-2-2026",
-          "kind": "movie",
-          "title": "Practical Magic 2",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w500/dbe88f366cd3c77fc485c78cb5dc1388.webp",
-          "backdrop": "https://lookmovie2.to/images/b/w1280/a5f116083f5131db5d80b0550d4e0474.webp"
         }
       ]
     },
     {
       "title": "New Movies",
       "items": [
+        {
+          "id": "22863586-goldilocks-and-the-two-bears-2024",
+          "kind": "movie",
+          "title": "Goldilocks and the Two Bears",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/8e31d203de12155c1e2288bb81da7c10.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/8e31d203de12155c1e2288bb81da7c10.webp"
+        },
+        {
+          "id": "0164368-the-color-of-lies-1999",
+          "kind": "movie",
+          "title": "The Color of Lies",
+          "year": 1999,
+          "poster": "https://lookmovie2.to/images/p/w400/acb646fce368996e03e2f9c2e5b46bb9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/acb646fce368996e03e2f9c2e5b46bb9.webp"
+        },
         {
           "id": "0202931-the-inferno-1979",
           "kind": "movie",
@@ -377,22 +393,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/45fba82d41cb86145a4febe316dd5123.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/45fba82d41cb86145a4febe316dd5123.webp"
-        },
-        {
-          "id": "37180686-drive-the-pretenders-2026",
-          "kind": "movie",
-          "title": "Drive - The Pretenders",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/ded7b3876fc50f62c90919cfe3f5dbcf.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/ded7b3876fc50f62c90919cfe3f5dbcf.webp"
-        },
-        {
-          "id": "6437888-father-of-four-at-the-top-2017",
-          "kind": "movie",
-          "title": "Father of Four: At the Top",
-          "year": 2017,
-          "poster": "https://lookmovie2.to/images/p/w400/b83014c018051fa227750ed3d0d4d7ba.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/b83014c018051fa227750ed3d0d4d7ba.webp"
         }
       ]
     },
@@ -1217,6 +1217,14 @@
       "title": "Drama",
       "items": [
         {
+          "id": "0944947-game-of-thrones-2011",
+          "kind": "show",
+          "title": "Game of Thrones",
+          "year": 2011,
+          "poster": "https://lookmovie2.to/images/p/w400/c6d2c6c0964539303b156c55d9aaffc0.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c6d2c6c0964539303b156c55d9aaffc0.webp"
+        },
+        {
           "id": "32125269-beyond-the-gates-2025",
           "kind": "show",
           "title": "Beyond the Gates",
@@ -1367,14 +1375,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/035030c0a6906423116b5f93babf7288.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/035030c0a6906423116b5f93babf7288.webp"
-        },
-        {
-          "id": "6155146-brothers-2015",
-          "kind": "show",
-          "title": "Brothers",
-          "year": 2015,
-          "poster": "https://lookmovie2.to/images/p/w400/03a35d34b11a0562b3890266cd4f77f1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/03a35d34b11a0562b3890266cd4f77f1.webp"
         }
       ]
     },

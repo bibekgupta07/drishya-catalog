@@ -235,6 +235,54 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "2078552-blood-2012",
+          "kind": "movie",
+          "title": "Blood",
+          "year": 2012,
+          "poster": "https://lookmovie2.to/images/p/w400/ef14e2c74fd8b15e57224e35ad15a37a.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/ef14e2c74fd8b15e57224e35ad15a37a.webp"
+        },
+        {
+          "id": "35667868-plan-9-from-outer-space-in-color-1959",
+          "kind": "movie",
+          "title": "Plan 9 from Outer Space in Color",
+          "year": 1959,
+          "poster": "",
+          "backdrop": ""
+        },
+        {
+          "id": "4464394-the-gracefield-incident-2017",
+          "kind": "movie",
+          "title": "The Gracefield Incident",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/30d4666b9390b0354e831df37e4942f7.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/30d4666b9390b0354e831df37e4942f7.webp"
+        },
+        {
+          "id": "43749818-adopting-st-nick-2026",
+          "kind": "movie",
+          "title": "Adopting St. Nick",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/9fffef37a2b182e438001b0acdf41a31.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/9fffef37a2b182e438001b0acdf41a31.webp"
+        },
+        {
+          "id": "21092808-untruth-the-psychology-of-trumpism-2024",
+          "kind": "movie",
+          "title": "#Untruth: The Psychology of Trumpism",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/3456811b2c0719bf422da7f11be9a900.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/3456811b2c0719bf422da7f11be9a900.webp"
+        },
+        {
+          "id": "40000626-before-love-2026",
+          "kind": "movie",
+          "title": "Before Love",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/f1ea3b842616c6f63e02585525cdc692.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/f1ea3b842616c6f63e02585525cdc692.webp"
+        },
+        {
           "id": "26699755-lazy-girls-2024",
           "kind": "movie",
           "title": "Lazy Girls",
@@ -345,54 +393,6 @@
           "year": 2002,
           "poster": "https://lookmovie2.to/images/p/w400/c7ccd7dac00b88d1aabb84616e220fae.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/c7ccd7dac00b88d1aabb84616e220fae.webp"
-        },
-        {
-          "id": "0104114-the-distinguished-gentleman-1992",
-          "kind": "movie",
-          "title": "The Distinguished Gentleman",
-          "year": 1992,
-          "poster": "https://lookmovie2.to/images/p/w400/d83fdc311e1a7c21c27a2d897d0c56c6.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d83fdc311e1a7c21c27a2d897d0c56c6.webp"
-        },
-        {
-          "id": "0141270-hyperspace-1984",
-          "kind": "movie",
-          "title": "Hyperspace",
-          "year": 1984,
-          "poster": "https://lookmovie2.to/images/p/w400/f240a49d2b59467a9738104ae980a403.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/f240a49d2b59467a9738104ae980a403.webp"
-        },
-        {
-          "id": "46062767-kate-berlant-parmesan-2026",
-          "kind": "movie",
-          "title": "Kate Berlant: Parmesan",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/3642d2c008d43099f9b62d5a080dd252.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3642d2c008d43099f9b62d5a080dd252.webp"
-        },
-        {
-          "id": "0107840-poetic-justice-1993",
-          "kind": "movie",
-          "title": "Poetic Justice",
-          "year": 1993,
-          "poster": "https://lookmovie2.to/images/p/w400/73932d12b89bb7ccdb6a63332a529e51.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/73932d12b89bb7ccdb6a63332a529e51.webp"
-        },
-        {
-          "id": "2981768-patema-inverted-2013",
-          "kind": "movie",
-          "title": "Patema Inverted",
-          "year": 2013,
-          "poster": "https://lookmovie2.to/images/p/w400/e69abe898440861396f20bc6349526f1.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/e69abe898440861396f20bc6349526f1.webp"
-        },
-        {
-          "id": "0187299-the-mysteries-of-paris-1957",
-          "kind": "movie",
-          "title": "The Mysteries of Paris",
-          "year": 1957,
-          "poster": "https://lookmovie2.to/images/p/w400/9c24b2269d0c16b78d2b8e6cb1abbaff.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/9c24b2269d0c16b78d2b8e6cb1abbaff.webp"
         }
       ]
     },
@@ -565,6 +565,14 @@
       "title": "Action",
       "items": [
         {
+          "id": "4464394-the-gracefield-incident-2017",
+          "kind": "movie",
+          "title": "The Gracefield Incident",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/30d4666b9390b0354e831df37e4942f7.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/30d4666b9390b0354e831df37e4942f7.webp"
+        },
+        {
           "id": "3259968-the-wrath-of-vajra-2013",
           "kind": "movie",
           "title": "The Wrath of Vajra",
@@ -715,20 +723,20 @@
           "year": 1991,
           "poster": "https://lookmovie2.to/images/p/w400/0305840ac45c434dad5a57281331510b.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/0305840ac45c434dad5a57281331510b.webp"
-        },
-        {
-          "id": "32338669-mutiny-2026",
-          "kind": "movie",
-          "title": "Mutiny",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/0aee2e50b8800312044dbe9dcdf0c0ea.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/0aee2e50b8800312044dbe9dcdf0c0ea.webp"
         }
       ]
     },
     {
       "title": "Comedy",
       "items": [
+        {
+          "id": "43749818-adopting-st-nick-2026",
+          "kind": "movie",
+          "title": "Adopting St. Nick",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/9fffef37a2b182e438001b0acdf41a31.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/9fffef37a2b182e438001b0acdf41a31.webp"
+        },
         {
           "id": "26699755-lazy-girls-2024",
           "kind": "movie",
@@ -880,20 +888,20 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/482d77f89669e7e1cbade62c1b3ccae1.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/482d77f89669e7e1cbade62c1b3ccae1.webp"
-        },
-        {
-          "id": "0048292-the-legend-of-rockabye-point-1955",
-          "kind": "movie",
-          "title": "The Legend of Rockabye Point",
-          "year": 1955,
-          "poster": "https://lookmovie2.to/images/p/w400/78caa0b51023c85cf2267d9bc92912e9.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/78caa0b51023c85cf2267d9bc92912e9.webp"
         }
       ]
     },
     {
       "title": "Horror",
       "items": [
+        {
+          "id": "4464394-the-gracefield-incident-2017",
+          "kind": "movie",
+          "title": "The Gracefield Incident",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/30d4666b9390b0354e831df37e4942f7.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/30d4666b9390b0354e831df37e4942f7.webp"
+        },
         {
           "id": "3259968-the-wrath-of-vajra-2013",
           "kind": "movie",
@@ -1045,20 +1053,28 @@
           "year": 1999,
           "poster": "https://lookmovie2.to/images/p/w400/232b08b33bcbdf3d1858578508770ad1.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/232b08b33bcbdf3d1858578508770ad1.webp"
-        },
-        {
-          "id": "0067690-daughters-of-darkness-1971",
-          "kind": "movie",
-          "title": "Daughters of Darkness",
-          "year": 1971,
-          "poster": "https://lookmovie2.to/images/p/w400/465ffa5218af997dc4192b3b34c36c6d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/465ffa5218af997dc4192b3b34c36c6d.webp"
         }
       ]
     },
     {
       "title": "Sci-Fi",
       "items": [
+        {
+          "id": "35667868-plan-9-from-outer-space-in-color-1959",
+          "kind": "movie",
+          "title": "Plan 9 from Outer Space in Color",
+          "year": 1959,
+          "poster": "",
+          "backdrop": ""
+        },
+        {
+          "id": "4464394-the-gracefield-incident-2017",
+          "kind": "movie",
+          "title": "The Gracefield Incident",
+          "year": 2017,
+          "poster": "https://lookmovie2.to/images/p/w400/30d4666b9390b0354e831df37e4942f7.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/30d4666b9390b0354e831df37e4942f7.webp"
+        },
         {
           "id": "0141270-hyperspace-1984",
           "kind": "movie",
@@ -1202,28 +1218,36 @@
           "year": 1989,
           "poster": "https://lookmovie2.to/images/p/w400/f5a1d6bb2e1f56e6d867db0ccab722ee.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/f5a1d6bb2e1f56e6d867db0ccab722ee.webp"
-        },
-        {
-          "id": "0433035-real-steel-2011",
-          "kind": "movie",
-          "title": "Real Steel",
-          "year": 2011,
-          "poster": "https://lookmovie2.to/images/p/w400/d2f2dd9dcadcc10dc68db0a738fe2b70.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/d2f2dd9dcadcc10dc68db0a738fe2b70.webp"
-        },
-        {
-          "id": "0120738-lost-in-space-1998",
-          "kind": "movie",
-          "title": "Lost in Space",
-          "year": 1998,
-          "poster": "https://lookmovie2.to/images/p/w400/701f5414da7a0f7efe89fff536e85253.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/701f5414da7a0f7efe89fff536e85253.webp"
         }
       ]
     },
     {
       "title": "Drama",
       "items": [
+        {
+          "id": "31510819-mobland-2025",
+          "kind": "show",
+          "title": "MobLand",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/aff1c49cb51b2c486fc5e2bacf7d09b3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/aff1c49cb51b2c486fc5e2bacf7d09b3.webp"
+        },
+        {
+          "id": "1280822-drop-dead-diva-2009",
+          "kind": "show",
+          "title": "Drop Dead Diva",
+          "year": 2009,
+          "poster": "https://lookmovie2.to/images/p/w400/2d87cc3495d2cf4f4846b5d4fc99699b.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/2d87cc3495d2cf4f4846b5d4fc99699b.webp"
+        },
+        {
+          "id": "39980704-yaga-2026",
+          "kind": "show",
+          "title": "YAGA",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/d21007c39927d7077970d0aeb95d965e.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/d21007c39927d7077970d0aeb95d965e.webp"
+        },
         {
           "id": "10691888-all-elite-wrestling-dynamite-2019",
           "kind": "show",
@@ -1359,36 +1383,20 @@
           "year": 1960,
           "poster": "https://lookmovie2.to/images/p/w400/beeea3ada7a293794c364c4c725d8710.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/beeea3ada7a293794c364c4c725d8710.webp"
-        },
-        {
-          "id": "0069658-the-young-and-the-restless-1973",
-          "kind": "show",
-          "title": "The Young and the Restless",
-          "year": 1973,
-          "poster": "https://lookmovie2.to/images/p/w400/bd582f99ad2f9abfe8d74067beb541c5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/bd582f99ad2f9abfe8d74067beb541c5.webp"
-        },
-        {
-          "id": "0058796-days-of-our-lives-1965",
-          "kind": "show",
-          "title": "Days of Our Lives",
-          "year": 1965,
-          "poster": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp"
-        },
-        {
-          "id": "42576855-where-the-mask-ends-2026",
-          "kind": "show",
-          "title": "Where the Mask Ends",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/bd35f6c2c8aa2705414acc2a2cd341b7.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/bd35f6c2c8aa2705414acc2a2cd341b7.webp"
         }
       ]
     },
     {
       "title": "Crime",
       "items": [
+        {
+          "id": "31510819-mobland-2025",
+          "kind": "show",
+          "title": "MobLand",
+          "year": 2025,
+          "poster": "https://lookmovie2.to/images/p/w400/aff1c49cb51b2c486fc5e2bacf7d09b3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/aff1c49cb51b2c486fc5e2bacf7d09b3.webp"
+        },
         {
           "id": "36984433-swat-exiles-2026",
           "kind": "show",
@@ -1540,14 +1548,6 @@
           "year": 2026,
           "poster": "https://lookmovie2.to/images/p/w400/e1bd1ffe6aba22bad425cffc5bbd6405.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/e1bd1ffe6aba22bad425cffc5bbd6405.webp"
-        },
-        {
-          "id": "31510819-mobland-2025",
-          "kind": "show",
-          "title": "MobLand",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/818ded20901084404476565c1e2f5d5f.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/818ded20901084404476565c1e2f5d5f.webp"
         }
       ]
     }

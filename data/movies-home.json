@@ -235,6 +235,14 @@
       "title": "New Movies",
       "items": [
         {
+          "id": "0063754-one-dollar-too-many-1968",
+          "kind": "movie",
+          "title": "One Dollar Too Many",
+          "year": 1968,
+          "poster": "https://lookmovie2.to/images/p/w400/6844bce2e1bcbfd48602e97d2a43c783.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6844bce2e1bcbfd48602e97d2a43c783.webp"
+        },
+        {
           "id": "0455584-the-kovak-box-2006",
           "kind": "movie",
           "title": "The Kovak Box",
@@ -385,20 +393,52 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/bec6b7931c829ae6457f14f4e4246c86.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/bec6b7931c829ae6457f14f4e4246c86.webp"
-        },
-        {
-          "id": "3850590-krampus-2015",
-          "kind": "movie",
-          "title": "Krampus",
-          "year": 2015,
-          "poster": "https://lookmovie2.to/images/p/w400/3830a0f23e7ddc98dc41077f0838cff2.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/3830a0f23e7ddc98dc41077f0838cff2.webp"
         }
       ]
     },
     {
       "title": "New TV Shows",
       "items": [
+        {
+          "id": "3105422-ace-of-the-diamond-2013",
+          "kind": "show",
+          "title": "Season 4, Episode 18",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/0b31f3b149a4128e1d47b0f866e26f85.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/0b31f3b149a4128e1d47b0f866e26f85.webp"
+        },
+        {
+          "id": "15792808-aoashi-2022",
+          "kind": "show",
+          "title": "Season 2, Episode 6",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/5f881fab49310b7bf4910d63c0e4cec9.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/5f881fab49310b7bf4910d63c0e4cec9.webp"
+        },
+        {
+          "id": "27170468-highland-cops-2023",
+          "kind": "show",
+          "title": "Season 4, Episode 3",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/ba77950ada961be3433c766dbbe6ca82.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/ba77950ada961be3433c766dbbe6ca82.webp"
+        },
+        {
+          "id": "10946316-the-institute-2025",
+          "kind": "show",
+          "title": "Season 2, Episode 1",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/0aa639d0a73c1b25d2638e1a32c25fe3.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/0aa639d0a73c1b25d2638e1a32c25fe3.webp"
+        },
+        {
+          "id": "40385667-treasure-island-2026",
+          "kind": "show",
+          "title": "Season 1, Episode 5",
+          "year": null,
+          "poster": "https://lookmovie2.to/images/p/w300/c1c7b2b2f04bad656c1631212d499197.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w300/c1c7b2b2f04bad656c1631212d499197.webp"
+        },
         {
           "id": "47743225-recipe-of-the-year-2026",
           "kind": "show",
@@ -510,46 +550,6 @@
           "year": null,
           "poster": "https://lookmovie2.to/images/p/w300/467095ba8dc77de9bd53efe10c11e8bf.webp",
           "backdrop": "https://lookmovie2.to/images/p/w300/467095ba8dc77de9bd53efe10c11e8bf.webp"
-        },
-        {
-          "id": "47657141-the-perfect-lie-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 4",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/571117bf2d495c63010e0cfacc717015.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/571117bf2d495c63010e0cfacc717015.webp"
-        },
-        {
-          "id": "42487863-vertex-force-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 6",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/49db1afa4fedec357ed9f24ddacc57ce.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/49db1afa4fedec357ed9f24ddacc57ce.webp"
-        },
-        {
-          "id": "1909015-undercover-2011",
-          "kind": "show",
-          "title": "Season 6, Episode 5",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/63238a2807ca6fb97fca7945cfb6b6ec.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/63238a2807ca6fb97fca7945cfb6b6ec.webp"
-        },
-        {
-          "id": "50320054-griff-across-the-alps-2026",
-          "kind": "show",
-          "title": "Season 1, Episode 2",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/576a22931e3d6d0a0365721cc60889ce.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/576a22931e3d6d0a0365721cc60889ce.webp"
-        },
-        {
-          "id": "1790939-cooks-country-2008",
-          "kind": "show",
-          "title": "Season 19, Episode 8",
-          "year": null,
-          "poster": "https://lookmovie2.to/images/p/w300/048515ab0899fc1cb9d2b302a99ba95d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w300/048515ab0899fc1cb9d2b302a99ba95d.webp"
         }
       ]
     },
@@ -722,6 +722,14 @@
       "title": "Comedy",
       "items": [
         {
+          "id": "0063754-one-dollar-too-many-1968",
+          "kind": "movie",
+          "title": "One Dollar Too Many",
+          "year": 1968,
+          "poster": "https://lookmovie2.to/images/p/w400/6844bce2e1bcbfd48602e97d2a43c783.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/6844bce2e1bcbfd48602e97d2a43c783.webp"
+        },
+        {
           "id": "0104392-harnessing-peacocks-1993",
           "kind": "movie",
           "title": "Harnessing Peacocks",
@@ -872,14 +880,6 @@
           "year": 2005,
           "poster": "https://lookmovie2.to/images/p/w400/63a79bf3930a515d9bfc684273100857.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/63a79bf3930a515d9bfc684273100857.webp"
-        },
-        {
-          "id": "39150234-the-history-of-concrete-2026",
-          "kind": "movie",
-          "title": "The History of Concrete",
-          "year": 2026,
-          "poster": "https://lookmovie2.to/images/p/w400/933f526aa43c5af6fe1468f1feb46469.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/933f526aa43c5af6fe1468f1feb46469.webp"
         }
       ]
     },
@@ -1217,6 +1217,38 @@
       "title": "Drama",
       "items": [
         {
+          "id": "8211564-outback-opal-hunters-2018",
+          "kind": "show",
+          "title": "Outback Opal Hunters",
+          "year": 2018,
+          "poster": "https://lookmovie2.to/images/p/w400/21f98ab0ad023c7ef9d5dea5d8f8e248.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/21f98ab0ad023c7ef9d5dea5d8f8e248.webp"
+        },
+        {
+          "id": "27776045-aew-collision-2023",
+          "kind": "show",
+          "title": "All Elite Wrestling: Collision",
+          "year": 2023,
+          "poster": "https://lookmovie2.to/images/p/w400/1b7199fb6db87602263c4a475281ffaa.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/1b7199fb6db87602263c4a475281ffaa.webp"
+        },
+        {
+          "id": "32639706-blue-box-2024",
+          "kind": "show",
+          "title": "Blue Box",
+          "year": 2024,
+          "poster": "https://lookmovie2.to/images/p/w400/90cb26c8c5992777d1727dfaa87ae92c.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/90cb26c8c5992777d1727dfaa87ae92c.webp"
+        },
+        {
+          "id": "40385667-treasure-island-2026",
+          "kind": "show",
+          "title": "Treasure Island",
+          "year": 2026,
+          "poster": "https://lookmovie2.to/images/p/w400/c1c7b2b2f04bad656c1631212d499197.webp",
+          "backdrop": "https://lookmovie2.to/images/p/w400/c1c7b2b2f04bad656c1631212d499197.webp"
+        },
+        {
           "id": "0118401-midsomer-murders-1997",
           "kind": "show",
           "title": "Midsomer Murders",
@@ -1343,38 +1375,6 @@
           "year": 2025,
           "poster": "https://lookmovie2.to/images/p/w400/1a5e3e38b41a94fc9dc9935c1665f9f3.webp",
           "backdrop": "https://lookmovie2.to/images/p/w400/1a5e3e38b41a94fc9dc9935c1665f9f3.webp"
-        },
-        {
-          "id": "32125269-beyond-the-gates-2025",
-          "kind": "show",
-          "title": "Beyond the Gates",
-          "year": 2025,
-          "poster": "https://lookmovie2.to/images/p/w400/4544cd21fa054d5a9dc78a12356ce36e.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/4544cd21fa054d5a9dc78a12356ce36e.webp"
-        },
-        {
-          "id": "31106862-happys-place-2024",
-          "kind": "show",
-          "title": "Happy's Place",
-          "year": 2024,
-          "poster": "https://lookmovie2.to/images/p/w400/9803d79a0dbe2454bd8adae999807313.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/9803d79a0dbe2454bd8adae999807313.webp"
-        },
-        {
-          "id": "0058796-days-of-our-lives-1965",
-          "kind": "show",
-          "title": "Days of Our Lives",
-          "year": 1965,
-          "poster": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/816e004046e048929114809c2a47fc8d.webp"
-        },
-        {
-          "id": "0069658-the-young-and-the-restless-1973",
-          "kind": "show",
-          "title": "The Young and the Restless",
-          "year": 1973,
-          "poster": "https://lookmovie2.to/images/p/w400/bd582f99ad2f9abfe8d74067beb541c5.webp",
-          "backdrop": "https://lookmovie2.to/images/p/w400/bd582f99ad2f9abfe8d74067beb541c5.webp"
         }
       ]
     },
